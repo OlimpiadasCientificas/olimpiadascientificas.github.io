@@ -1,101 +1,104 @@
 <header class="site-header">
-
   <div class="wrapper">
-
       <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-
-          <nav>
-    {% comment %}
-    To create the menu, we keep track of the old path
-    then we compare to the new path. We compare them and see how many matches there are
-    For every unmatched part of the old path we close an ul tag
-    for every unmatched part of the new path, we add an ul tag
-    To ignore the file itself we use forloop.last
-    And {% else %}
-    and 
-    forloop.first
-    {% endcomment %}
-    <ul>
-    {% assign old_node_url_parts = [] %}
-    {% assign node_url_parts = [] %}
-	{% assign sorted_pages = site.pages | sort:"name"| reverse %}
-	{% assign is_first = true%}
-	{% for node in sorted_pages %}
-	    {% if node.title %}
-	        {% assign node_url_parts = node.url | split: '/' %}
-	        {% assign node_url_parts_size = node_url_parts | size %}
-	        {% if is_first %}
-	            {% if node_url_parts_size == 2%}    {% comment %}  This is a hack  {% endcomment %}
-	                <li><a href="{{node.url}}">{{node.title}}</a></li>
-	                {% assign is_first = false%}
-	                {% assign old_node_url_parts = node_url_parts %}
-	                {% assign old_node_url_parts_size = node_url_parts_size %}
-	            {% endif %}
-	        {% else %}
-	        	{% if node_url_parts_size >= 2 %}
-	            	{% for p in old_node_url_parts %}
-	                    {% if node_url_parts contains p %}
-                            {% continue %}
-	                    {% else %}
-	                        {% if forloop.last %}
-	                            {% continue %}
-	                        {% else %}
-	                            </ul>
-	                        {% endif %}
-	                    {% endif %}
-	                {% endfor %}
-	                
-	                {% for p in node_url_parts %}
-	                    {% if old_node_url_parts contains p %}
-	                    	{% if forloop.last %}
-	                    	    <li><a href="#">{{p}}</a></li>
-	                            <ul>
-	                        {% else %}
-        	                    {% continue %}
-        	                {% endif %}
-	                    {% else %}
-	                        {% if forloop.last%}
-	                            {% if old_node_url_parts_size >= node_url_parts_size}
-        	                        {% continue %}
-        	                    {% else %}
-        	                        <ul>
-        	                {% endif %}
-	                        {% else %}
-	                        	<li><a href="#">{{p}}</a></li>
-	                            <ul>
-	                        {% endif %}
-	                    {% endif %}
-	                {% endfor %}
-	                <li><a href="{{node.url}}">{{node.title}}</a></li>
-	                {% assign old_node_url_parts = node_url_parts %}
-	                {% assign old_node_url_parts_size = node_url_parts_size %}
-                {% endif %}
-	        {% endif %}
-	    {% endif %}
-	{% endfor %}
-      </ul>
-    
-    </nav>
-    
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
-      </a>
-
-      <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </nav>
-
   </div>
-
 </header>
+
+<div class="nav-no-js">
+<div class="nav-button"></div>
+    <nav  class="nav">
+        {% comment %}
+        Menu from http://www.cssscript.com/multi-level-toggle-responsive-navigation-menu-using-pure-css/
+        To create the menu, we keep track of the old path
+        then we compare to the new path. We compare them and see how many matches there are
+        For every unmatched part of the old path we close an ul tag
+        for every unmatched part of the new path, we add an ul tag
+        To ignore the file itself we use forloop.last
+        And {% else %}
+        and 
+        forloop.first
+        {% endcomment %}
+        <ul>
+        {% assign old_node_url_parts = [] %}
+        {% assign node_url_parts = [] %}
+        {% assign close_li = false %}
+        {% assign sorted_pages = site.pages | sort:"dir" %}
+        {% assign is_first = true%}
+        {% for node in sorted_pages %}
+            {% if node.title %}
+                {% assign node_url_parts = node.url | split: '/' %}
+                {% assign node_url_parts_size = node_url_parts | size %}
+                {% if is_first %}
+                    {% if node_url_parts_size == 2%}    {% comment %}  This is a hack  {% endcomment %}
+                        <li>
+                        <a href="{{node.url}}">{{node.title}}</a>
+                        {% assign is_first = false %}
+                        {% assign old_node_url_parts = node_url_parts %}
+                        {% assign old_node_url_parts_size = node_url_parts_size %}
+                    {% elsif node_url_parts_size >= 2 %}
+                        {% for p in node_url_parts %}
+                            {% if forloop.first %}
+                               {% continue %}
+                            {% elsif forloop.last%}
+                                {% continue %}
+                            {% else %}
+                            	    <li><a href="#">{{p| | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
+                                    <ul>
+                            {% endif %}
+                        {% endfor %}
+                        <li>
+                        <a href="{{node.url}}">{{node.title}}</a>
+                        {% assign is_first = false %}
+                        {% assign old_node_url_parts = node_url_parts %}
+                        {% assign old_node_url_parts_size = node_url_parts_size %}
+                    {% endif %}
+                {% else %}
+                	{% if node_url_parts_size >= 2 %}
+                    	{% for p in old_node_url_parts %}
+                            {% if node_url_parts contains p %}
+                                {% continue %}
+                            {% else %}
+                                {% if forloop.last %}
+                                    </li>
+                                {% else %}
+                                    </ul>
+                                    </li>
+                                {% endif %}
+                            {% endif %}
+                        {% endfor %}
+                        
+                        {% for p in node_url_parts %}
+                            {% if old_node_url_parts contains p %}
+                            	{% if forloop.last %}
+                            	    <li><a href="#">{{p}}</a>
+                                    <ul>
+                                {% else %}
+            	                    {% continue %}
+            	                {% endif %}
+                            {% else %}
+                                {% if forloop.last%}
+                                    {% if old_node_url_parts_size >= node_url_parts_size}
+            	                        {% continue %}
+            	                    {% else %}
+            	                        <ul>
+            	                {% endif %}
+                                {% else %}
+                                	<li><a href="#">{{p | capitalize }}</a></li>
+                                    <ul>
+                                {% endif %}
+                            {% endif %}
+                        {% endfor %}
+                        <li>
+                        <a href="{{node.url}}">{{node.title}}</a>
+                        {% assign old_node_url_parts = node_url_parts %}
+                        {% assign old_node_url_parts_size = node_url_parts_size %}
+                    {% endif %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+    <div class="nav-close"></div>
+    
+
+</div>

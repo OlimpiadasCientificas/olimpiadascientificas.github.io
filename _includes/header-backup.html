@@ -1,0 +1,113 @@
+<header class="site-header">
+  <div class="wrapper">
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+  </div>
+</header>
+
+<div class="nav-no-js">
+<div class="nav-button"></div>
+    <nav  class="nav">
+        {% comment %}
+        Menu from http://www.cssscript.com/multi-level-toggle-responsive-navigation-menu-using-pure-css/
+        To create the menu, we keep track of the old path
+        then we compare to the new path. We compare them and see how many matches there are
+        For every unmatched part of the old path we close an ul tag
+        for every unmatched part of the new path, we add an ul tag
+        To ignore the file itself we use forloop.last
+        And {% else %}
+        and 
+        forloop.first
+        {% endcomment %}
+        <ul>
+        {% assign old_node_url_parts = [] %}
+        {% assign node_url_parts = [] %}
+        {% assign close_li = false %}
+        {% assign sorted_pages = site.pages | sort:"dir" %}
+        {% assign is_first = true%}
+        {% for node in sorted_pages %}
+            {% if node.title %}
+                {% assign node_url_parts = node.url | split: '/' %}
+                {% assign node_url_parts_size = node_url_parts | size %}
+                {% if is_first %}
+                    {% if node_url_parts_size == 2%}    {% comment %}  This is a hack  {% endcomment %}
+                        <li class>
+                        <div class = "change-mobile-links">
+                        <a class ="real-link" href="{{node.url}}">{{node.title}}</a>
+                        <a class ="fake-link" href="#">{{node.title}}</a>
+                        </div>
+                        {% assign is_first = false %}
+                        {% assign old_node_url_parts = node_url_parts %}
+                        {% assign old_node_url_parts_size = node_url_parts_size %}
+                    {% elsif node_url_parts_size >= 2 %}
+                        {% for p in node_url_parts %}
+                            {% if forloop.first %}
+                               {% continue %}
+                            {% elsif forloop.last%}
+                                {% continue %}
+                            {% else %}
+                            	    <li><a href="#">{{p| | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
+                                    <ul>
+                            {% endif %}
+                        {% endfor %}
+                        <li class>
+                        <div class = "change-mobile-links">
+                        <a class ="real-link" href="{{node.url}}">{{node.title}}</a>
+                        <a class ="fake-link" href="#">{{node.title}}</a>
+                        </div>
+                        {% assign is_first = false %}
+                        {% assign old_node_url_parts = node_url_parts %}
+                        {% assign old_node_url_parts_size = node_url_parts_size %}
+                    {% endif %}
+                {% else %}
+                	{% if node_url_parts_size >= 2 %}
+                    	{% for p in old_node_url_parts %}
+                            {% if node_url_parts contains p %}
+                                {% continue %}
+                            {% else %}
+                                {% if forloop.last %}
+                                    </li>
+                                {% else %}
+                                    </ul>
+                                    </li>
+                                {% endif %}
+                            {% endif %}
+                        {% endfor %}
+                        
+                        {% for p in node_url_parts %}
+                            {% if old_node_url_parts contains p %}
+                            	{% if forloop.last %}
+                            	    <li><a href="#">{{p}}</a>
+                                    <ul>
+                                {% else %}
+            	                    {% continue %}
+            	                {% endif %}
+                            {% else %}
+                                {% if forloop.last%}
+                                    {% if old_node_url_parts_size >= node_url_parts_size}
+            	                        {% continue %}
+            	                    {% else %}
+            	                        <ul>
+            	                {% endif %}
+                                {% else %}
+                                	<li><a href="#">{{p | capitalize }}</a></li>
+                                    <ul>
+                                {% endif %}
+                            {% endif %}
+                        {% endfor %}
+                        <li class>
+                        <div class = "change-mobile-links">
+                        <a class ="real-link" href="{{node.url}}">{{node.title}}</a>
+                        <a class ="fake-link" href="#">{{node.title}}</a>
+                        </div>
+                        {% assign old_node_url_parts = node_url_parts %}
+                        {% assign old_node_url_parts_size = node_url_parts_size %}
+                    {% endif %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+    <div class="nav-close"></div>
+    
+
+</div>
