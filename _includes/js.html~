@@ -1,0 +1,1 @@
+<script src="{{ "/js/jquery.flexnav.min.js" | prepend: site.baseurl }}"></script>  

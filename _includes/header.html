@@ -5,7 +5,7 @@
 </header>
 
 <div class="nav-no-js">
-<div class="nav-button"></div>
+<div class="menu-button">Menu</div>
     <nav  class="nav">
         {% comment %}
         Menu from http://www.cssscript.com/multi-level-toggle-responsive-navigation-menu-using-pure-css/
@@ -18,7 +18,7 @@
         and 
         forloop.first
         {% endcomment %}
-        <ul>
+        <ul class="flexnav no-margin" data-breakpoint="800">
         {% assign old_node_url_parts = [] %}
         {% assign node_url_parts = [] %}
         {% assign close_li = false %}
@@ -43,7 +43,7 @@
                                 {% continue %}
                             {% else %}
                             	    <li><a href="#">{{p| | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
-                                    <ul>
+                                    <ul class="no-margin">
                             {% endif %}
                         {% endfor %}
                         <li>
@@ -71,7 +71,7 @@
                             {% if old_node_url_parts contains p %}
                             	{% if forloop.last %}
                             	    <li><a href="#">{{p}}</a>
-                                    <ul>
+                                    <ul class="no-margin">
                                 {% else %}
             	                    {% continue %}
             	                {% endif %}
@@ -80,11 +80,11 @@
                                     {% if old_node_url_parts_size >= node_url_parts_size}
             	                        {% continue %}
             	                    {% else %}
-            	                        <ul>
+            	                        <ul  class="no-margin">
             	                {% endif %}
                                 {% else %}
                                 	<li><a href="#">{{p | capitalize }}</a></li>
-                                    <ul>
+                                    <ul class="no-margin">
                                 {% endif %}
                             {% endif %}
                         {% endfor %}
@@ -98,7 +98,7 @@
         {% endfor %}
       </ul>
     </nav>
-    <div class="nav-close"></div>
+
     
 
 </div>

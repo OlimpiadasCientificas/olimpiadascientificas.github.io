@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 
-  {% capture head %}{% include head.html %}{% endcapture %}{{ head | strip_newlines }}
+  {% capture head %}{% include head.html %}{% endcapture %}{{ head | strip_newlines |strip}}
 
   <body>
-{% capture header %}{% include header.html %}{% endcapture %}{{ header | strip_newlines }}
+{% capture header %}{% include header.html %}{% endcapture %}{{ header | strip_newlines | strip}}
 
 
     <div class="page-content">
@@ -14,6 +14,7 @@
     </div>
 
     {% include footer.html %}
+    {% include js.html %}
 
   </body>
 
