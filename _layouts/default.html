@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+  {% capture head %}{% include head.html %}{% endcapture %}{{ head | strip_newlines }}
 
   <body>
+{% capture header %}{% include header.html %}{% endcapture %}{{ header | strip_newlines }}
 
-    {% include header.html %}
 
     <div class="page-content">
       <div class="wrapper">
