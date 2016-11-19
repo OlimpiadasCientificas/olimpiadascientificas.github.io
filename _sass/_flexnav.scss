@@ -30,7 +30,7 @@
   .flexnav li a {
     position: relative;
     display: block;
-    padding: .96em;
+    padding: .6em;
     z-index: 2;
     overflow: hidden;
     color: #222222;
@@ -57,7 +57,7 @@
     top: 0;
     right: 0;
     width: 50px;
-    height: 50px;
+    height: 2.6em;
     display: inline-block;
     background: #acaca1;
     background: rgba(0, 0, 0, 0.075);
@@ -66,7 +66,7 @@
       cursor: pointer; }
     .flexnav .touch-button .navicon {
       position: relative;
-      top: 1.4em;
+      top: 1.0em;
       font-size: 12px;
       color: #666; }
 
@@ -112,13 +112,15 @@
       right: auto;
       max-width: 1080px; }
     .flexnav li {
+    white-space: wrap;
       position: relative;
       list-style: none;
       float: left;
       display: block;
       background-color: #a6a6a2;
       overflow: visible;
-      width: 12%; }
+      width: 12%;
+      font-size: 13px; }
     .flexnav li a {
       border-left: 1px solid #acaca1;
       border-bottom: none; }

@@ -5,8 +5,7 @@
 
   <body>
 {% capture header %}{% include header.html %}{% endcapture %}{{ header | strip_newlines | strip}}
-
-
+{% capture menu %}{% include  menu.html %}{% endcapture %}{{ menu | strip_newlines | strip}}
     <div class="page-content">
       <div class="wrapper">
         {{ content }}

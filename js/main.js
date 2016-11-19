@@ -1,1 +1,1 @@
-$(".flexnav").flexNav({'calcItemWidths': false});
+$(".flexnav").flexNav({'calcItemWidths': true});
