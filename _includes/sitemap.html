@@ -1,12 +1,5 @@
-<header class="site-header">
-  <div class="wrapper">
-      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-  </div>
-</header>
-
-<div class="nav-no-js">
-<div class="nav-button"></div>
-    <nav  class="nav">
+<div class="menu-button">Menu</div>
+    <nav  class="nav" style="max-width: 960px; margin: 0 auto; ">
         {% comment %}
         Menu from http://www.cssscript.com/multi-level-toggle-responsive-navigation-menu-using-pure-css/
         To create the menu, we keep track of the old path
@@ -18,7 +11,7 @@
         and 
         forloop.first
         {% endcomment %}
-        <ul>
+        <ul class="flexnav no-margin" data-breakpoint="800">
         {% assign old_node_url_parts = [] %}
         {% assign node_url_parts = [] %}
         {% assign close_li = false %}
@@ -30,11 +23,8 @@
                 {% assign node_url_parts_size = node_url_parts | size %}
                 {% if is_first %}
                     {% if node_url_parts_size == 2%}    {% comment %}  This is a hack  {% endcomment %}
-                        <li class>
-                        <div class = "change-mobile-links">
-                        <a class ="real-link" href="{{node.url}}">{{node.title}}</a>
-                        <a class ="fake-link" href="#">{{node.title}}</a>
-                        </div>
+                        <li>
+                        <a href="{{node.url}}">{{node.title}}</a>
                         {% assign is_first = false %}
                         {% assign old_node_url_parts = node_url_parts %}
                         {% assign old_node_url_parts_size = node_url_parts_size %}
@@ -46,14 +36,11 @@
                                 {% continue %}
                             {% else %}
                             	    <li><a href="#">{{p| | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
-                                    <ul>
+                                    <ul class="no-margin">
                             {% endif %}
                         {% endfor %}
-                        <li class>
-                        <div class = "change-mobile-links">
-                        <a class ="real-link" href="{{node.url}}">{{node.title}}</a>
-                        <a class ="fake-link" href="#">{{node.title}}</a>
-                        </div>
+                        <li>
+                        <a href="{{node.url}}">{{node.title}}</a>
                         {% assign is_first = false %}
                         {% assign old_node_url_parts = node_url_parts %}
                         {% assign old_node_url_parts_size = node_url_parts_size %}
@@ -77,7 +64,7 @@
                             {% if old_node_url_parts contains p %}
                             	{% if forloop.last %}
                             	    <li><a href="#">{{p}}</a>
-                                    <ul>
+                                    <ul class="no-margin">
                                 {% else %}
             	                    {% continue %}
             	                {% endif %}
@@ -86,19 +73,16 @@
                                     {% if old_node_url_parts_size >= node_url_parts_size}
             	                        {% continue %}
             	                    {% else %}
-            	                        <ul>
+            	                        <ul  class="no-margin">
             	                {% endif %}
                                 {% else %}
                                 	<li><a href="#">{{p | capitalize }}</a></li>
-                                    <ul>
+                                    <ul class="no-margin">
                                 {% endif %}
                             {% endif %}
                         {% endfor %}
-                        <li class>
-                        <div class = "change-mobile-links">
-                        <a class ="real-link" href="{{node.url}}">{{node.title}}</a>
-                        <a class ="fake-link" href="#">{{node.title}}</a>
-                        </div>
+                        <li>
+                        <a href="{{node.url}}">{{node.title}}</a>
                         {% assign old_node_url_parts = node_url_parts %}
                         {% assign old_node_url_parts_size = node_url_parts_size %}
                     {% endif %}
@@ -106,8 +90,4 @@
             {% endif %}
         {% endfor %}
       </ul>
-    </nav>
-    <div class="nav-close"></div>
-    
-
-</div>
+    </nav> 

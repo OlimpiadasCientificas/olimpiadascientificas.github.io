@@ -1,11 +1,12 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
 <html>
-
-  {% capture head %}{% include head.html %}{% endcapture %}{{ head | strip_newlines |strip}}
-
-  <body>
-{% capture header %}{% include header.html %}{% endcapture %}{{ header | strip_newlines | strip}}
-{% capture menu %}{% include  menu.html %}{% endcapture %}{{ menu | strip_newlines | strip}}
+{% include head.html %}
+<body>
+  {% include header.html %}
+{% include  menu.html %}
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
