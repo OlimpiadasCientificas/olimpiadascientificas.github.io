@@ -1,1 +1,1 @@
-$(".flexnav").flexNav({'calcItemWidths': true});
+$(".flexnav").flexNav({'calcItemWidths': true ,'hoverIntent': true, 'hoverIntentTimeout': 80 });

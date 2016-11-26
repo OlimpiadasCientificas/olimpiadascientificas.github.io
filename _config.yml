@@ -20,6 +20,11 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 exclude: [node_modules]
+menu: true
 
 compress_html:
   blanklines: false
+
+kramdown:
+  input: GFM
+  hard_wrap: true

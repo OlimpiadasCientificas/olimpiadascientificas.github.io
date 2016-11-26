@@ -1,5 +1,4 @@
-<div class="menu-button">Menu</div>
-    <nav  class="nav" style="max-width: 960px; margin: 0 auto; ">
+<div  class="nav" style="max-width: 960px; margin: 0 auto; padding-bottom: 2em; ">
         {% comment %}
         Menu from http://www.cssscript.com/multi-level-toggle-responsive-navigation-menu-using-pure-css/
         To create the menu, we keep track of the old path
@@ -11,7 +10,7 @@
         and 
         forloop.first
         {% endcomment %}
-        <ul class="flexnav no-margin" data-breakpoint="800">
+        <ul  data-breakpoint="800">
         {% assign old_node_url_parts = [] %}
         {% assign node_url_parts = [] %}
         {% assign close_li = false %}
@@ -35,8 +34,8 @@
                             {% elsif forloop.last%}
                                 {% continue %}
                             {% else %}
-                            	    <li><a href="#">{{p| | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
-                                    <ul class="no-margin">
+                            	    <li><a href="#">{{p| replace: '%c3%ad', 'í'| replace: '%c3%a1', 'á'  | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
+                                    <ul>
                             {% endif %}
                         {% endfor %}
                         <li>
@@ -62,22 +61,17 @@
                         
                         {% for p in node_url_parts %}
                             {% if old_node_url_parts contains p %}
-                            	{% if forloop.last %}
-                            	    <li><a href="#">{{p}}</a>
-                                    <ul class="no-margin">
+                            	{% if forloop.index == old_node_url_parts_size %}
+                                    <ul> 
                                 {% else %}
             	                    {% continue %}
             	                {% endif %}
                             {% else %}
                                 {% if forloop.last%}
-                                    {% if old_node_url_parts_size >= node_url_parts_size}
-            	                        {% continue %}
-            	                    {% else %}
-            	                        <ul  class="no-margin">
-            	                {% endif %}
+            	                    {% continue %}
                                 {% else %}
-                                	<li><a href="#">{{p | capitalize }}</a></li>
-                                    <ul class="no-margin">
+                                	<li><a href="#">{{p| capitalize | replace: '%c3%ad', 'í'| replace: '%c3%a1', 'á' | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
+                                    <ul>
                                 {% endif %}
                             {% endif %}
                         {% endfor %}
