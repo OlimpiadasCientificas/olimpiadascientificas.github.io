@@ -28,3 +28,4 @@ compress_html:
 kramdown:
   input: GFM
   hard_wrap: true
+
