@@ -10,7 +10,7 @@ date_gmt: '2012-09-13 23:36:02 -0400'
 ---
 
 
-![IOAA]({{ site.url }}/static/images/ioaa_logo-150x50.jpg){: style="margin: auto; display: block;" }
+![IOAA]({{ site.baseurl }}/static/images/ioaa_logo-150x50.jpg){: style="margin: auto; display: block;" }
 
 **[International Olympiad on Astronomy and Astrophysics](http://www.ioaa2013.gr/)**
 ============
@@ -53,14 +53,14 @@ _Notas entre 78% e 65% da média entre as três maiores notas._
 _Notas entre 65% e 50% da média entre as três maiores notas._
 **Certificados para todos os participantes**
 **Como Participar:**
-Os 1000 alunos do Nível 4 da OBA são chamados para realizarem provas online. Cerca de 100 estudantes são chamados para a Prova Final, em Março / Abril, presencial. Os cinco melhores nessa avaliação são selecionados para a IOAA; os cinco seguintes, para a [OLAA]({{ site.url }}/equipes-brasileiras/astronomia/olaa/); ainda os 5 seguintes para serem suplentes (há alguns detalhes que podem mudar de ano para ano).
+Os 1000 alunos do Nível 4 da OBA são chamados para realizarem provas online. Cerca de 100 estudantes são chamados para a Prova Final, em Março / Abril, presencial. Os cinco melhores nessa avaliação são selecionados para a IOAA; os cinco seguintes, para a [OLAA]({{ site.baseurl }}/equipes-brasileiras/astronomia/olaa/); ainda os 5 seguintes para serem suplentes (há alguns detalhes que podem mudar de ano para ano).
 **Próximas edições: **
 10th IOAA: dezembro, data a definir - Índia.
 **Como se Preparar:**
-Ver nossa seção específica, [Estudo Astronomia]({{ site.url }}/estudo/astronomia/) Confira também as [provas anteriores da IOAA](http://www.ioaa2013.gr/index.php?option=com_rokdownloads&amp;view=folder&amp;Itemid=113&amp;lang=en).
+Ver nossa seção específica, [Estudo Astronomia]({{ site.baseurl }}/estudo/astronomia/) Confira também as [provas anteriores da IOAA](http://www.ioaa2013.gr/index.php?option=com_rokdownloads&amp;view=folder&amp;Itemid=113&amp;lang=en).
 **Provas de Seletivas Anteriores**
 As provas podem ser encontradas [no site do CCD-OBA](http://ccd-oba.blogspot.com.br/). No portal da Astroeducadores podem ser encontradas as mais recentes.Em breve, teremos as provas todas aqui no OC.
 **Equipes Brasileiras**-
-Veja a página de [equipes anteriores]({{ site.url }}/equipes-brasileiras/astronomia/ioaa/) aqui no OC.
+Veja a página de [equipes anteriores]({{ site.baseurl }}/equipes-brasileiras/astronomia/ioaa/) aqui no OC.
 **Fontes**
 [IOAA 2012 - Brasil](http://www.ioaa2012.ufrj.br/), [IOAA 2013 - Grécia](http://www.ioaa2013.gr/), [IOAA 2015 - Indonésia](http://ioaa2015.org/index.php/site/index?view=home)
