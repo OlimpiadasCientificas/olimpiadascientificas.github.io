@@ -3,11 +3,11 @@
         <div style="max-width: 960px; display: inline-flex; white-space: nowrap;" id="headerimg"> 
             <div style="height: auto;"> 
                 <a href="/">
-                    <img alt="Olimpíadas Científicas" src="/static/images/olimpiadascientificas.png"> 
+                    <img alt="Olimpíadas Científicas" src="{{"/static/images/olimpiadascientificas.png"| | prepend: site.baseurl}}"> 
                 </a>
             </div>
             <div style="" id="height: auto;">
-                <img src="/static/images/bonecooc.png">
+                <img src="{{ "/static/images/bonecooc.png" | prepend: site.baseurl }}">
             </div>    
         </div>
     </div>

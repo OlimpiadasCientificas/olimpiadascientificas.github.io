@@ -6,7 +6,6 @@ title: IOAA
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
   login: itadeufa
-  email: itadeufa@gmail.com
   url: http://ivan.olimpiadascientificas.com
 author_login: itadeufa
 author_email: itadeufa@gmail.com
@@ -28,13 +27,12 @@ comments: []
 
 **O que é:** Olimpíada de astronomia para estudantes do Ensino Médio de todo o mundo.
 **Estatuto e regras da competição:**
-
-<a title="Página de download no site da IOAA" href="http://www.ioaa2013.gr/index.php?option=com_rokdownloads&amp;view=file&amp;Itemid=117" target="_blank">Documento em PDF disponível para download</a>
+[Documento em PDF disponível para download](http://www.ioaa2013.gr/index.php?option=com_rokdownloads&amp;view=file&amp;Itemid=117) 
 **Quem organiza:** IOAA International Board Meeting
 **Presidente:** Chatief Kunjaya (Indonésia)
 **Secretário Geral:** Greg Stachowski (Polônia)
 **Representante do Brasil:** Gustavo Rojas (UFSCar, São Carlos-SP)
-**Responsável pela Seleção Brasileira:** <a title="Link para o site do CCD." href="http://ccd-oba.org/" target="_blank">CCD-OBA</a>
+**Responsável pela Seleção Brasileira:** [CCD-OBA](http://ccd-oba.org/)
 **Ano de Fundaçã****o:** 2007
 **Participação do Brasil:**desde 2007
 **Quem participa:** 5 alunos brasileiros são selecionados a partir dos participantes do Nível 4 da <a title="Para saber mais sobre a OBA" href="http://www.olimpiadascientificas.com/olimpiadas/astronomia/oba/" target="_blank">OBA</a>.

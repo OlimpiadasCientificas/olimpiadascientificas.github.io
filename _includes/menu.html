@@ -78,7 +78,11 @@
                             {% endif %}
                         {% endfor %}
                         <li>
-                        <a href="{{node.url}}">{{node.title}}</a>
+                        {% if node.ignorelink %}
+                            <a href="#">{{node.title}}</a>
+                        {% else %}
+                            <a href="{{node.url}}">{{node.title}}</a>
+                        {% endif %}
                         {% assign old_node_url_parts = node_url_parts %}
                         {% assign old_node_url_parts_size = node_url_parts_size %}
                     {% endif %}
