@@ -1,4 +1,5 @@
---- layout: equipe 
+--- 
+layout: equipe 
 title: IOAA
 
 --- Fontes: [Wikipédia][1]{: target="_blank"} / [CCD-OBA][2]{:

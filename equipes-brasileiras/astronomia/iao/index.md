@@ -1,4 +1,5 @@
---- layout: equipe
+--- 
+layout: equipe
 title: IAO 
 --- 
 
