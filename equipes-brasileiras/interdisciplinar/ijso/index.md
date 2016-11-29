@@ -1,12 +1,8 @@
 ---  
-layout: page  
-status: publish  
-published: true  
+layout: equipe  
 title: IJSO  
 author:  
   display_name: Ivan Tadeu Ferreira Antunes Filho  
-date: '2012-08-15 15:46:26 -0400'  
-date_gmt: '2012-08-15 18:46:26 -0400'  
 ---  
   
 12º- 2015 - Daegu, na Coreia do Sul  

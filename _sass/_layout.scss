@@ -5,6 +5,7 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    padding-bottom: 1em;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -239,4 +240,7 @@
             font-size: 18px;
         }
     }
+}
+.equipe h3,  .equipe   h2, .equipe  h4 {
+  padding-top: 30px
 }

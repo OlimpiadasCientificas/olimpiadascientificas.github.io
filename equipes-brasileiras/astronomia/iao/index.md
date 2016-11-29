@@ -1,31 +1,13 @@
----
-layout: page
-status: publish
-published: true
-title: IAO
-author:
-  display_name: Augusto
-  login: augusto
-  email: gutobenn@gmail.com
-  url: ''
-author_login: augusto
-author_email: gutobenn@gmail.com
-wordpress_id: 295
-wordpress_url: http://olimpiadascientificas.info/?page_id=295
-date: '2011-10-11 18:35:07 -0400'
-date_gmt: '2011-10-11 18:35:07 -0400'
-categories: []
-tags: []
-comments: []
----
+--- layout: equipe
+title: IAO 
+--- 
 
 ### 2007 - Simeiz, Ucrânia
 
   
 Hugo Fonseca Araújo (MG) - <span style="color: #888888;">Medalha de Prata</span>
 
-Rafael Parpinel Cavina (SP) - <span style="color: #993300;">Medalha de
-Bronze</span>
+Rafael Parpinel Cavina (SP) - <span style="color: #993300;">Medalha de Bronze</span>
 
 Cindy Yuchi Tsai (SP)
 
@@ -40,8 +22,7 @@ Rafael Kenzo Mippo (SP)
   
 Felipe Gonçalves Assis (PB) - <span style="color: #888888;">Medalha de Prata</span>
 
-Hugo Fonseca Araújo (MG) - <span style="color: #993300;">Medalha de
-Bronze</span>
+Hugo Fonseca Araújo (MG) - <span style="color: #993300;">Medalha de Bronze</span>
 
 Alessandro Wagner Palmeira (SP)
 
@@ -78,8 +59,7 @@ Felipe Ferreira Villar Coelho (ES) - <span style="color: #888888;">Medalha de Pr
 Carla Fernanda de Araújo e Silva (SP) - <span style="color:
 #993300;">Medalha de Bronze</span>
 
-Guilherme Rohden Echelmeier (SC) - <span style="color: #993300;">Medalha
-de Bronze</span>
+Guilherme Rohden Echelmeier (SC) - <span style="color: #993300;">Medalha de Bronze</span>
 
 Fernanda Vilela de Aquino (MG)
 
@@ -90,8 +70,7 @@ Fernanda Vilela de Aquino (MG)
   
 Raul Celistrino Teixeira (SP) -<span style="color: #888888;"> Medalha de Prata</span>
 
-Michel Aquena Silva (SP) - <span style="color: #993300;">Medalha de
-Bronze</span>
+Michel Aquena Silva (SP) - <span style="color: #993300;">Medalha de Bronze</span>
 
 Bernardo Gomes Cosentino Alvarez (MG)
 
@@ -106,8 +85,7 @@ Emanuelle Roberta da Silva (SP)
   
 Felipe Augusto Cardoso Pereira (SP) - <span style="color: #993300;">Medalha de Bronze</span>
 
-José Henrique Bortoluci (SP) - <span style="color: #993300;">Medalha de
-Bronze</span>
+José Henrique Bortoluci (SP) - <span style="color: #993300;">Medalha de Bronze</span>
 
 André Slepetys (SP)
 
@@ -165,7 +143,7 @@ Wayne Leonardo de Paula (ETFPA)
 #### Líderes:
 
   
-Dr. João Batista Garcia Canalle
+Dr. Jo&atilde;o Batista Garcia Canalle
 
 Eng. Aeronáutico Daniel Fonseca Lavouras
 
@@ -173,11 +151,11 @@ Eng. Aeronáutico Daniel Fonseca Lavouras
 
 Fontes:
 
-[Site da OBA][5]
+[Site da OBA][5]{: target="_blank"}
 
 
 
- 
+
 
 [1]: http://www.olimpiadascientificas.com/equipes-brasileiras/astronomia/iao/iao-2003/
 [2]: http://www.olimpiadascientificas.com/equipes-brasileiras/astronomia/iao/iao-2002/

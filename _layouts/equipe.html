@@ -1,0 +1,14 @@
+---
+layout: page
+---
+<div class="equipe">
+{{ content 
+| replace: 'Medalha de Prata', 'Prata' 
+| replace: 'Prata', '<span style="color: DarkGray">Medalha de Prata</span>'  
+| replace: 'Medalha de Ouro', 'Ouro' 
+| replace: 'Ouro', '<span style="color: Goldenrod">Medalha de Ouro</span>'
+| replace: 'Medalha de Bronze', 'Bronze' 
+| replace: 'Bronze', '<span style="color: Brown">Medalha de Bronze</span>' 
+}}
+</div>
+
