@@ -1,8 +1,6 @@
-{% if site.menu %}
-<div class="menu-button">Menu</div>
-    <nav  class="nav" style="max-width: 960px; margin: 0 auto; padding-bottom: 2em; ">
+<div class="menu-header" style="background: #141439;">
+    <div class="nav" style="max-width: 960px; margin: 0 auto;  ">
         {% comment %}
-        Menu from http://www.cssscript.com/multi-level-toggle-responsive-navigation-menu-using-pure-css/
         To create the menu, we keep track of the old path
         then we compare to the new path. We compare them and see how many matches there are
         For every unmatched part of the old path we close an ul tag
@@ -48,12 +46,14 @@
                     {% endif %}
                 {% else %}
                 	{% if node_url_parts_size >= 2 %}
+                	    {% assign same-menu = true %}
                     	{% for p in old_node_url_parts %}
                             {% if node_url_parts contains p %}
                                 {% continue %}
                             {% else %}
-                                {% if forloop.last %}
+                                {% if same-menu %}
                                     </li>
+                                    {% assign same-menu = false %}
                                 {% else %}
                                     </ul>
                                     </li>
@@ -72,7 +72,7 @@
                                 {% if forloop.last%}
             	                    {% continue %}
                                 {% else %}
-                                	<li><a href="#">{{p| capitalize | replace: '%c3%ad', 'í'| replace: '%c3%a1', 'á' | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
+                                	<li><a >{{p| capitalize | replace: '%c3%ad', 'í'| replace: '%c3%a1', 'á' | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
                                     <ul class="no-margin">
                                 {% endif %}
                             {% endif %}
@@ -89,6 +89,16 @@
                 {% endif %}
             {% endif %}
         {% endfor %}
+        {% assign same-menu = true %}
+    	{% for p in old_node_url_parts offset:1%}
+            {% if same-menu %}
+                </li>
+                {% assign same-menu = false %}
+            {% else %}
+                </ul>
+                </li>
+            {% endif %}
+        {% endfor %}
       </ul>
-    </nav> 
-{% endif %}
+    </div> 
+</div>
