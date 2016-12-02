@@ -1,8 +1,9 @@
 --- 
 layout: equipe 
 title: IOAA
+--- 
 
---- Fontes: [Wikipédia][1]{: target="_blank"} / [CCD-OBA][2]{:
+Fontes: [Wikipédia][1]{: target="_blank"} / [CCD-OBA][2]{:
 target="_blank"} e outras.
 
  

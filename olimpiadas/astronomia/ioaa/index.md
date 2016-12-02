@@ -1,20 +1,14 @@
 ---  
-layout: page  
-status: publish  
-published: true  
+layout: olimpiada  
 title: IOAA  
 author:  
   display_name: Ivan Tadeu Ferreira Antunes Filho  
-date: '2012-09-13 20:36:02 -0400'  
-date_gmt: '2012-09-13 23:36:02 -0400'  
+link: http://www.ioaa2013.gr/
+image: ioaa.png
+fullname: International Olympiad on Astronomy and Astrophysics
 ---  
   
-  
-![IOAA]({{ site.baseurl }}/static/images/ioaa_logo-150x50.jpg){: style="margin: auto; display: block;" }  
-  
-**[International Olympiad on Astronomy and Astrophysics](http://www.ioaa2013.gr/)**  
-============  
-  
+
 **O que é:** Olimpíada de astronomia para estudantes do Ensino Médio de todo o mundo.   
 
 **Estatuto e regras da competição:**  

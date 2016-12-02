@@ -1,23 +1,14 @@
 ---
-layout: page
+layout: olimpiada
 status: publish
 published: true
 title: OBA
 author:
   display_name: Augusto
-  login: augusto
-  url: ''
-date: '2011-10-11 18:07:47 -0400'
-date_gmt: '2011-10-11 21:07:47 -0400'
-categories: []
-tags: []
-comments: []
+link: http://www.oba.org.br/site/index.php
+image: oba.png
+fullname: Olimpíada Brasileira de Astronomia e Astronáutica
 ---
-
-![]({{ site.baseurl }}/static/images/OBA.gif){: style="margin: auto; display: block;" }
-
-### **[Olimpíada Brasileira de Astronomia e Astronáutica][1]**
-{: style="text-align: center"}
 
 
   

@@ -24,11 +24,14 @@ auto-menu: false
 compress_html:
   blanklines: false
 
-
-
-
-
 kramdown:
   input: GFM
   hard_wrap: false
 
+
+
+prose:
+  rooturl: ''
+  siteurl: 'http://olimpiadascientificas.github.io/'
+  media: 'static/images'
+  

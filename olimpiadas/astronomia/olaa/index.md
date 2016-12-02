@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: olimpiada
 status: publish
 published: true
 title: OLAA
@@ -8,20 +8,11 @@ author:
   login: admin
   email: webmaster@olimpiadascientificas.com
   url: ''
-author_login: admin
-author_email: webmaster@olimpiadascientificas.com
-wordpress_id: 5651
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=5651
-date: '2013-05-01 13:10:45 -0400'
-date_gmt: '2013-05-01 16:10:45 -0400'
-categories: []
-tags: []
-comments: []
+link:  
+image: olaa.png
+fullname: Olimpíada Latino-Americana de Astronomia e Astronáutica
 ---
-![OLAA]({{ site.baseurl }}/static/images/OLAA.jpg){: style="margin: auto; display: block;" }
 
-### **Olimpíada Latino-Americana de Astronomia e Astronáutica**
-{: style="text-align: center"}
 
   
 **O que é:** Olimpíada de Astronomia e Astronáutica para estudantes do

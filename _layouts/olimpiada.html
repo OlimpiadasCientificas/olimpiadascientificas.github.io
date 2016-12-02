@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article class="olimpiada">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <header class="olimpiada-header">
+  <img src="{{ site.baseurl }}/static/images/{{page.image}}" alt="{{page.title}}" style="margin: auto; display: block;">
+    <h1 style="text-align: center"><strong><a href="{{page.link}}">{{page.fullname}}</a></strong></h1>
+  </header>
+  <div class="olimpiada-content">
+    {{ content }}
+  </div>
+
+</article>

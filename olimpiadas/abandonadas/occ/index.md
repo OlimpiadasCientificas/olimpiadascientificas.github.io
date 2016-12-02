@@ -29,7 +29,7 @@ comments:
     no [...]"
 ---
 
-[![Logo]({{ site.baseurl }}/static/images/Logo-500x506.png){:
+[![Logo]({{ site.baseurl }}/static/images/occ.png){:
 .aligncenter .size-large .wp-image-5455 width="500" height="506"}][1]{:
 rel="attachment wp-att-5455"}
 

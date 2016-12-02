@@ -34,7 +34,7 @@
                         {% elsif forloop.last%}
                             {% continue %}
                         {% else %}
-                        	    <li><a href="#">{{p| replace: '%c3%ad', 'í'| replace: '%c3%a1', 'á'  | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
+                        	    <li><a >{{p| replace: '%c3%ad', 'í'| replace: '%c3%a1', 'á'  | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
                                 <ul>
                         {% endif %}
                     {% endfor %}
@@ -72,14 +72,14 @@
                             {% if forloop.last%}
         	                    {% continue %}
                             {% else %}
-                            	<li><a href="#">{{p| capitalize | replace: '%c3%ad', 'í'| replace: '%c3%a1', 'á' | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
+                            	<li><a >{{p| capitalize | replace: '%c3%ad', 'í'| replace: '%c3%a1', 'á' | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
                                 <ul>
                             {% endif %}
                         {% endif %}
                     {% endfor %}
                     <li>
                     {% if node.ignorelink %}
-                        <a href="#">{{node.title}}</a>
+                        <a >{{node.title}}</a>
                     {% else %}
                         <a href="{{node.url}}">{{node.title}}</a>
                     {% endif %}
