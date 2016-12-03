@@ -1,28 +1,10 @@
 ---
-layout: page
-status: publish
-published: true
+layout: olimpiada
 title: OBC
-author:
-  display_name: Ivan Tadeu Ferreira Antunes Filho
-  login: itadeufa
-  email: itadeufa@gmail.com
-  url: http://ivan.olimpiadascientificas.com
-author_login: itadeufa
-author_email: itadeufa@gmail.com
-author_url: http://ivan.olimpiadascientificas.com
-wordpress_id: 222
-wordpress_url: http://olimpiadascientificas.info/?page_id=222
-date: '2011-10-11 18:04:03 -0400'
-date_gmt: '2011-10-11 21:04:03 -0400'
-categories: []
-tags: []
-comments: []
+link:  http://ijso-official.org/
+image: obc.png
+fullname: Olimpíada Brasileira de Ciências
 ---
-[![Logo da
-OBC]({{ site.baseurl }}/static/images/Logo-da-OBC-350x182.png){: style="margin: auto; display: block;" }  ][1]
-
-[Olimpíada Brasileira de Ciências (OBC)][2]{: style="margin: auto; display: block;" }  
 
 ### **O que é**
 

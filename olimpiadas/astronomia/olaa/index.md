@@ -1,13 +1,6 @@
 ---
 layout: olimpiada
-status: publish
-published: true
 title: OLAA
-author:
-  display_name: admin
-  login: admin
-  email: webmaster@olimpiadascientificas.com
-  url: ''
 link:  
 image: olaa.png
 fullname: Olimpíada Latino-Americana de Astronomia e Astronáutica

@@ -1,34 +1,10 @@
 ---
-layout: page
-status: publish
-published: true
+layout: olimpiada
 title: IJSO
-author:
-  display_name: Ivan Tadeu Ferreira Antunes Filho
-  login: itadeufa
-  email: itadeufa@gmail.com
-  url: http://ivan.olimpiadascientificas.com
-author_login: itadeufa
-author_email: itadeufa@gmail.com
-author_url: http://ivan.olimpiadascientificas.com
-wordpress_id: 3260
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=3260
-date: '2012-09-14 00:59:37 -0400'
-date_gmt: '2012-09-14 03:59:37 -0400'
-categories: []
-tags: []
-comments: []
+link:  http://ijso-official.org/
+image: ijso.png
+fullname: International Junior Science Olympiad - Olimpíada Internacional de Ciências Junior
 ---
-
-[![]({{ site.baseurl }}/static/images/logo_ijso-350x268.jpg
-"Logo IJSO"){: .aligncenter .size-medium .wp-image-3261 width="350"
-height="268"}][1]{: style="margin: auto; display: block;" }  
-
- 
-
-[*IJSO - International Junior Science Olympiad- Olimpíada Internacional
-de Ciências Junior*][1]
- 
 
 **O que é**
 
