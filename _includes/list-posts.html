@@ -1,0 +1,36 @@
+<div class="posts">
+{% for post in paginator.posts %}
+  <div class="post-front">
+      <div class="post-front-title">
+        {% if post.url %}
+          <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        {% else %}
+          <h2>{{ post.title }}</h2>
+        {% endif %}
+      </div>
+<p class="post-meta"> {% if post.date %} <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% endif %} {% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</p> 
+      <div class="post-image">
+        {% if post.image %}
+          {% if post.image contains "//" %}
+            {% capture thumbnail %}{{ post.image }}{% endcapture %}
+          {% else %}
+            {% capture thumbnail %}{{ post.image  | prepend: site.mediaurl | prepend: site.baseurl }}{% endcapture %}
+          {% endif %}
+          <img class="img-center" src="{{ thumbnail }}">
+        {% else %}
+          <h1 class="poorman-thumbnail"
+              style="background: {% cycle 'c': "#48c", "#fa4", "#5b5", "#d54" %};">
+            {{ post.title | truncate: 1, '' }}
+          </h1>
+        {% endif %}
+        </div>
+      <div class="post-content">
+        {{ post.excerpt }}
+      </div>
+   </div>
+{% endfor %}
+</div>
+<hr />
+<div class="text-center">
+  {% include nav_paginator.html %}
+</div>

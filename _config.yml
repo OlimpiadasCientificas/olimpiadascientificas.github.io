@@ -14,6 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
 info: "Este site não tem qualquer ligação com a organização oficial das olimpíadas aqui divulgadas. Partes técnicas relativas a inscrições, resultados individuais e afins devem ser tratadas diretamente com os organizadores das olimpíadas."
 copyright: © 2016  Olimpíadas Científicas. Todos os direitos reservados. 
 baseurl: "" # the subpath of your site, e.g. /blog
+mediaurl: "/static/"
 url: "olimpiadascientificas.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -30,7 +31,13 @@ kramdown:
   input: GFM
   hard_wrap: false
 
+excerpt_separator: "<!--more-->"
 
+permalink: /:year/:month/:day/:title/
+
+
+gems: [jekyll-paginate]
+paginate: 10
 
 prose:
   rooturl: ''
