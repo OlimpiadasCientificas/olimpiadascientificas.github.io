@@ -11,6 +11,8 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
  Informações sobre as principais Olimpíadas Científicas.
  OBM, OBQ, OBA, OBF, OBL, ONHB, OBG, IYPT, IJSO, OBI, OBB, OBQJr, IPhO, IOAA, IMO, IOL, IChO, IBO
+info: "Este site não tem qualquer ligação com a organização oficial das olimpíadas aqui divulgadas. Partes técnicas relativas a inscrições, resultados individuais e afins devem ser tratadas diretamente com os organizadores das olimpíadas."
+copyright: © 2016  Olimpíadas Científicas. Todos os direitos reservados. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "olimpiadascientificas.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb

@@ -10,7 +10,7 @@
         and 
         forloop.first
         {% endcomment %}
-        <ul class=" no-margin flexnav" data-breakpoint="800">
+        <ul  class="sm sm-simple" id="main-menu">
         {% assign old_node_url_parts = [] %}
         {% assign node_url_parts = [] %}
         {% assign close_li = false %}
@@ -35,7 +35,7 @@
                                 {% continue %}
                             {% else %}
                             	    <li><a >{{p| replace: '%c3%ad', 'í'| replace: '%c3%a1', 'á'  | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
-                                    <ul class="no-margin">
+                                    <ul>
                             {% endif %}
                         {% endfor %}
                         <li>
@@ -64,7 +64,7 @@
                         {% for p in node_url_parts %}
                             {% if old_node_url_parts contains p %}
                             	{% if forloop.index == old_node_url_parts_size %}
-                                    <ul class="no-margin"> 
+                                    <ul> 
                                 {% else %}
             	                    {% continue %}
             	                {% endif %}
@@ -73,7 +73,7 @@
             	                    {% continue %}
                                 {% else %}
                                 	<li><a >{{p| capitalize | replace: '%c3%ad', 'í'| replace: '%c3%a1', 'á' | replace: '%C3%AD', 'í'| replace: '%C3%A1', 'á' |  replace: '%C3%A3', 'ã' | replace: '%C3%B3', 'ó'}}</a>
-                                    <ul class="no-margin">
+                                    <ul>
                                 {% endif %}
                             {% endif %}
                         {% endfor %}

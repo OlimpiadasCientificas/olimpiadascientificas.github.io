@@ -4,4 +4,6 @@ layout: default
 
 <div class="home">
 {% include sitemap.html %}
+{% capture my_include %}{% include menu.html %}{% endcapture %}
+{{ my_include | xml_escape }}
 </div>
