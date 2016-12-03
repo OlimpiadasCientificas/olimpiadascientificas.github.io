@@ -9,19 +9,19 @@ Fonte: [Olimpíada Brasileira de Matemática][1]{: target="_blank"}
   
 **Nível 1**
 
-Pedro Henrique Sacramento de Oliveira (SP) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Pedro Henrique Sacramento de Oliveira (SP) - Medalha de Ouro
 
-Bryan Diniz Borck (RS) - <span style="color: #888888;">Medalha de Prata</span>
+Bryan Diniz Borck (RS) - Medalha de Prata
 
-Julia Perdigão Saltiel (RJ) - <span style="color: #888888;">Medalha de Prata</span>
+Julia Perdigão Saltiel (RJ) - Medalha de Prata
 
-Lucas Iokio Kawahara (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Lucas Iokio Kawahara (SP) - Medalha de Bronze
 
-Bruno Kenzo Ozaki (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Bruno Kenzo Ozaki (SP) - Medalha de Bronze
 
-Brendon Diniz Borck (RS) - <span style="color: #993300;">Medalha de Bronze</span>
+Brendon Diniz Borck (RS) - Medalha de Bronze
 
-João Guilherme Madeira Araújo (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+João Guilherme Madeira Araújo (CE) - Medalha de Bronze
 
 Lucas Diniz Gonçalves Villas Boas (BA) - Menção Honrosa
 
@@ -31,19 +31,19 @@ Italo Rennan Lima Silva (CE) - Menção Honrosa
 
 **Nível 2**
 
-Murilo Corato Zanarella (SP) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Murilo Corato Zanarella (SP) - Medalha de Ouro
 
-Daniel Lima Braga (CE) - <span style="color: #888888;">Medalha de Prata</span>
+Daniel Lima Braga (CE) - Medalha de Prata
 
-Pedro Jorge Luz Alves Gronemberger (PI) - <span style="color: #888888;">Medalha de Prata</span>
+Pedro Jorge Luz Alves Gronemberger (PI) - Medalha de Prata
 
-Pedro Henrique Alencar Costa (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Pedro Henrique Alencar Costa (CE) - Medalha de Bronze
 
-Felipe Brandão Forte (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Felipe Brandão Forte (CE) - Medalha de Bronze
 
-Lucca Morais de Arruda Siaudizionis (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Lucca Morais de Arruda Siaudizionis (CE) - Medalha de Bronze
 
-Eduarda Ramos Bezerra de Alencar(PI) - <span style="color: #993300;">Medalha de Bronze</span>
+Eduarda Ramos Bezerra de Alencar(PI) - Medalha de Bronze
 
 Ocimar Mota dos Santos Filho (PI) - Menção Honrosa
 
@@ -56,19 +56,19 @@ Estevão Waldow (PR) - Menção Honrosa
   
 **Nível 1**
 
-Nathan Bonetti Teodoro (PR) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Nathan Bonetti Teodoro (PR) - Medalha de Ouro
 
-Júlia Bertelli (SC) - <span style="color: #888888;">Medalha de Prata</span>
+Júlia Bertelli (SC) - Medalha de Prata
 
-Lucas Pereira Galvão de Barros (SP) - <span style="color: #888888;">Medalha de Prata</span>
+Lucas Pereira Galvão de Barros (SP) - Medalha de Prata
 
-Pedro Henrique Sacramento de Oliveira (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Pedro Henrique Sacramento de Oliveira (SP) - Medalha de Bronze
 
-Pedro Henrique da Silva Dias (RS) - <span style="color: #993300;">Medalha de Bronze</span>
+Pedro Henrique da Silva Dias (RS) - Medalha de Bronze
 
-Jiang Zhi (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Jiang Zhi (SP) - Medalha de Bronze
 
-Lucki Li (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Lucki Li (SP) - Medalha de Bronze
 
 Lucca Morais de Arruda Siaudzionis (CE) - Menção Honrosa
 
@@ -78,19 +78,19 @@ Cristóbal Sciutto (SP) - Menção Honrosa
 
 **Nível 2**
 
-Murilo Corato Zanarella (SP) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Murilo Corato Zanarella (SP) - Medalha de Ouro
 
-Dimas Macedo de Albuquerque (CE) - <span style="color: #888888;">Medalha de Prata</span>
+Dimas Macedo de Albuquerque (CE) - Medalha de Prata
 
-Rodrigo Sanches Angelo (SP) - <span style="color: #888888;">Medalha de Prata</span>
+Rodrigo Sanches Angelo (SP) - Medalha de Prata
 
-Rafael Rodrigues Rocha de Melo (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Rafael Rodrigues Rocha de Melo (CE) - Medalha de Bronze
 
-Liara Guinsberg (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Liara Guinsberg (SP) - Medalha de Bronze
 
-Luize Mello D\'Urso Viana (RJ) - <span style="color: #993300;">Medalha de Bronze</span>
+Luize Mello D\'Urso Viana (RJ) - Medalha de Bronze
 
-Lincoln de Queiroz Vieira (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Lincoln de Queiroz Vieira (CE) - Medalha de Bronze
 
 Tadeu Pires de Matos Belfort Neto (CE) - Menção Honrosa
 
@@ -103,19 +103,19 @@ Michel Rozenberg Zelazny (SP) - Menção Honrosa
   
 **Nível 1**
 
-Murilo Corato Zanarella (SP) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Murilo Corato Zanarella (SP) - Medalha de Ouro
 
-Daniel de Almeida Souza (DF) - <span style="color: #888888;">Medalha de Prata</span>
+Daniel de Almeida Souza (DF) - Medalha de Prata
 
-Viviane Silva Souza Freitas (BA) - <span style="color: #888888;">Medalha de Prata</span>
+Viviane Silva Souza Freitas (BA) - Medalha de Prata
 
-Carolina Lima Guimarães (ES) - <span style="color: #993300;">Medalha de Bronze</span>
+Carolina Lima Guimarães (ES) - Medalha de Bronze
 
-Pedro Henrique Alencar Costa (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Pedro Henrique Alencar Costa (CE) - Medalha de Bronze
 
-Samuel Brasil de Albuquerque (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Samuel Brasil de Albuquerque (CE) - Medalha de Bronze
 
-Juliana Amoedo Amoedo Plácido (BA) - <span style="color: #993300;">Medalha de Bronze</span>
+Juliana Amoedo Amoedo Plácido (BA) - Medalha de Bronze
 
 Lucca Morais de Arruda Siaudjionis (CE) - Menção Honrosa
 
@@ -125,19 +125,19 @@ Paulo Henrique Omena de Freitas (SP) - Menção Honrosa
 
 **Nível 2**
 
-Rafael Kazuhiro Miyazaki (SP) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Rafael Kazuhiro Miyazaki (SP) - Medalha de Ouro
 
-Lucas Cauai Julião Pereira (CE) - <span style="color: #888888;">Medalha de Prata</span>
+Lucas Cauai Julião Pereira (CE) - Medalha de Prata
 
-Pedro Ivo Coêlho de Araújo (CE) - <span style="color: #888888;">Medalha de Prata</span>
+Pedro Ivo Coêlho de Araújo (CE) - Medalha de Prata
 
-Francisco Markan Nobre de Souza Filho (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Francisco Markan Nobre de Souza Filho (CE) - Medalha de Bronze
 
-Fellipe Sebastiam da Silva P. Pereira (RJ) - <span style="color: #993300;">Medalha de Bronze</span>
+Fellipe Sebastiam da Silva P. Pereira (RJ) - Medalha de Bronze
 
-Tadeu Pires de Matos Belfort Neto (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Tadeu Pires de Matos Belfort Neto (CE) - Medalha de Bronze
 
-Henrique Gasparini F. do Nascimento (DF) - <span style="color: #993300;">Medalha de Bronze</span>
+Henrique Gasparini F. do Nascimento (DF) - Medalha de Bronze
 
 Rafael Rodrigues Rocha de Melo (CE) - Menção Honrosa
 
@@ -150,19 +150,19 @@ Victor Santos de Andrade (PI) - Menção Honrosa
   
 **Nível 1**
 
-Luis Fernando Veronese Trivelatto (PR) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Luis Fernando Veronese Trivelatto (PR) - Medalha de Ouro
 
-Lucas Carvalho Daher (GO) - <span style="color: #888888;">Medalha de Prata</span>
+Lucas Carvalho Daher (GO) - Medalha de Prata
 
-Guilherme Renato Martins Unzer (SP) - <span style="color: #888888;">Medalha de Prata</span>
+Guilherme Renato Martins Unzer (SP) - Medalha de Prata
 
-Elias Brito Oliveira (DF) - <span style="color: #993300;">Medalha de Bronze</span>
+Elias Brito Oliveira (DF) - Medalha de Bronze
 
-Lucas Cardoso Zuccolo (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Lucas Cardoso Zuccolo (SP) - Medalha de Bronze
 
-Gustavo Lima Lopes (ES) - <span style="color: #993300;">Medalha de Bronze</span>
+Gustavo Lima Lopes (ES) - Medalha de Bronze
 
-Rafael Rodrigues Rocha de Melo (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Rafael Rodrigues Rocha de Melo (CE) - Medalha de Bronze
 
 Igor Albuquerque Araújo (RJ) - Menção Honrosa
 
@@ -172,19 +172,19 @@ Fellipe Sebastiam da Silva Paranhos Pereira (RJ) - Menção Honrosa
 
 **Nível 2**
 
-João Lucas Camelo Sá (CE) - <span style="color: #ff9900;">Medalha de Ouro</span>
+João Lucas Camelo Sá (CE) - Medalha de Ouro
 
-César Ilharco Magalhães (MG) - <span style="color: #888888;">Medalha de Prata</span>
+César Ilharco Magalhães (MG) - Medalha de Prata
 
-Bruno Silva Mucciaccia (ES) - <span style="color: #888888;">Medalha de Prata</span>
+Bruno Silva Mucciaccia (ES) - Medalha de Prata
 
-Daniel dos Santos Bossle (RS) - <span style="color: #993300;">Medalha de Bronze</span>
+Daniel dos Santos Bossle (RS) - Medalha de Bronze
 
-Gustavo Haddad Francisco e Sampaio Braga (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Gustavo Haddad Francisco e Sampaio Braga (SP) - Medalha de Bronze
 
-Otávio Araújo de Aguiar (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Otávio Araújo de Aguiar (CE) - Medalha de Bronze
 
-Gabriel Militão Vinhas Lopes (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Gabriel Militão Vinhas Lopes (CE) - Medalha de Bronze
 
 Lara Timbó Araújo (CE) - Menção Honrosa
 

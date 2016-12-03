@@ -7,13 +7,13 @@ Fontes: [Olimpíada Brasileira de Matemática][1] / [IMO Oficial][2]
 ### 2013 - Santa Maria, Colômbia
 
   
-Rodrigo Sanches Angelo(SP) -<span style="color: #888888;">Medalha de Prata</span>
+Rodrigo Sanches Angelo(SP) -Medalha de Prata
 
-Rafael Kazuhiro Miyazaki (SP) - <span style="color: #888888;">Medalha de Prata</span>
+Rafael Kazuhiro Miyazaki (SP) - Medalha de Prata
 
-Victor de Oliveira Reis (PE) - <span style="color: #888888;">Medalha de Prata</span>
+Victor de Oliveira Reis (PE) - Medalha de Prata
 
-Franco Matheus de Alencar Severo (RJ) - <span style="color: #993300;">Medalha de Bronze</span>
+Franco Matheus de Alencar Severo (RJ) - Medalha de Bronze
 
 Alessandro de Oliveira Pacanowski (RJ) - Menção Honrosa
 
@@ -22,41 +22,41 @@ Victor de Oliveira Bitarães (MG) - Menção Honrosa
 ### 2012 - Mar del Plata, Argentina
 
   
-Rodrigo Sanches Angelo (SP) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Rodrigo Sanches Angelo (SP) - Medalha de Ouro
 
-João Lucas Camelo Sá (CE) - <span style="color: #888888;">Medalha de Prata</span>
+João Lucas Camelo Sá (CE) - Medalha de Prata
 
-Franco Matheus de Alencar Severo (RJ) - <span style="color: #993300;">Medalha de Bronze</span>
+Franco Matheus de Alencar Severo (RJ) - Medalha de Bronze
 
-Henrique Gasparini Fiúza do Nascimento (DF) - <span style="color: #993300;">Medalha de Bronze</span>
+Henrique Gasparini Fiúza do Nascimento (DF) - Medalha de Bronze
 
-Rafael Kazuhiro Miyazaki (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Rafael Kazuhiro Miyazaki (SP) - Medalha de Bronze
 
 Maria Clara Mendes Silva (MG) - Menção Honrosa
 
 ### 2011 - Amsterdã, Holanda
 
   
-André Macieira Braga Costa (MG) - <span style="color: #888888;">Medalha de Prata</span>
+André Macieira Braga Costa (MG) - Medalha de Prata
 
-Henrique Gasparini Fiúza do Nascimento (DF) - <span style="color: #888888;">Medalha de Prata</span>
+Henrique Gasparini Fiúza do Nascimento (DF) - Medalha de Prata
 
-João Lucas Camelo Sá (CE) - <span style="color: #888888;">Medalha de Prata</span>
+João Lucas Camelo Sá (CE) - Medalha de Prata
 
-Deborah Barbosa Alves (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Deborah Barbosa Alves (SP) - Medalha de Bronze
 
-Gustavo Lisboa Empinotti (SC) - <span style="color: #993300;">Medalha de Bronze</span>
+Gustavo Lisboa Empinotti (SC) - Medalha de Bronze
 
-Maria Clara Mendes Silva (MG) - <span style="color: #993300;">Medalha de Bronze</span>
+Maria Clara Mendes Silva (MG) - Medalha de Bronze
 
 ### 2010 - Astana, Cazaquistão
 
   
-Marcelo Tadeu de Sá Oliveira Sales (SP) - <span style="color: #888888;">Medalha de Prata</span>
+Marcelo Tadeu de Sá Oliveira Sales (SP) - Medalha de Prata
 
-Matheus Secco Torres da Silva (RJ) - <span style="color: #888888;">Medalha de Prata</span>
+Matheus Secco Torres da Silva (RJ) - Medalha de Prata
 
-Gustavo Lisboa Empinotti (SC) - <span style="color: #993300;">Medalha de Bronze</span>
+Gustavo Lisboa Empinotti (SC) - Medalha de Bronze
 
 Deborah Barbosa Alves (SP) - Menção Honrosa
 
@@ -67,69 +67,69 @@ João Lucas Camelo Sá (CE) - Menção Honrosa
 ### 2009 - Bremen, Alemanha
 
   
-Henrique Pondé de Oliveira Pinto (BA/SP) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Henrique Pondé de Oliveira Pinto (BA/SP) - Medalha de Ouro
 
-Marcelo Tadeu de Sá Oliveira Sales (BA/SP) - <span style="color: #888888;">Medalha de Prata</span>
+Marcelo Tadeu de Sá Oliveira Sales (BA/SP) - Medalha de Prata
 
-Matheus Secco Torres da Silva (RJ) - <span style="color: #888888;">Medalha de Prata</span>
+Matheus Secco Torres da Silva (RJ) - Medalha de Prata
 
-Renan Henrique Finder (SC/SP) - <span style="color: #888888;">Medalha de Prata</span>
+Renan Henrique Finder (SC/SP) - Medalha de Prata
 
-Davi Lopes Alves de Medeiros (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Davi Lopes Alves de Medeiros (CE) - Medalha de Bronze
 
-Marco Antônio Lopes Pedroso (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Marco Antônio Lopes Pedroso (SP) - Medalha de Bronze
 
 ### 2008 - Madrid, Espanha
 
   
-Davi Lopes Alves de Medeiros (CE) -<span style="color: #888888;"> Medalha de Prata</span>
+Davi Lopes Alves de Medeiros (CE) - Medalha de Prata
 
-Henrique Pondé de Oliveira Pinto (BA/SP) - <span style="color: #888888;">Medalha de Prata</span>
+Henrique Pondé de Oliveira Pinto (BA/SP) - Medalha de Prata
 
-Rafael Tupynambá Dutra (MG) - <span style="color: #888888;">Medalha de Prata</span>
+Rafael Tupynambá Dutra (MG) - Medalha de Prata
 
-Régis Prado Barbosa (CE) - <span style="color: #888888;">Medalha de Prata</span>
+Régis Prado Barbosa (CE) - Medalha de Prata
 
-Renan Henrique Finder (SC/SP) - <span style="color: #999999;">Medalha de Prata</span>
+Renan Henrique Finder (SC/SP) - Medalha de Prata
 
-Marcelo Matheus Gauy (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Marcelo Matheus Gauy (SP) - Medalha de Bronze
 
 ### 2007 - Hanói, Vietnã
 
   
-Henrique Pondé de Oliveira Pinto (BA/SP) - <span style="color: #888888;">Medalha de Prata</span>
+Henrique Pondé de Oliveira Pinto (BA/SP) - Medalha de Prata
 
-Régis Prado Barbosa (CE) - <span style="color: #888888;">Medalha de Prata</span>
+Régis Prado Barbosa (CE) - Medalha de Prata
 
-Rafael Sampaio de Rezende - <span style="color: #993300;">Medalha de Bronze</span>
+Rafael Sampaio de Rezende - Medalha de Bronze
 
-Rafael Tupynambá Dutra (MG) - <span style="color: #993300;">Medalha de Bronze</span>
+Rafael Tupynambá Dutra (MG) - Medalha de Bronze
 
-Ramon Moreira Nunes - <span style="color: #993300;">Medalha de Bronze</span>
+Ramon Moreira Nunes - Medalha de Bronze
 
 Guilherme Phillipe Figueiredo - Menção Honrosa
 
 ### 2006 - Ljubljana, Eslovênia
 
   
-André Linhares Rodrigues - <span style="color: #993300;">Medalha de Bronze</span>
+André Linhares Rodrigues - Medalha de Bronze
 
-Guilherme Rodrigues Nogueira de Souza - <span style="color: #993300;">Medalha de Bronze</span>
+Guilherme Rodrigues Nogueira de Souza - Medalha de Bronze
 
-Leandro Farias Maia - <span style="color: #993300;">Medalha de Bronze</span>
+Leandro Farias Maia - Medalha de Bronze
 
-Leonardo Ribeiro de Castro Carvalho - <span style="color: #993300;">Medalha de Bronze</span>
+Leonardo Ribeiro de Castro Carvalho - Medalha de Bronze
 
-Rafael Mendes de Oliveira - <span style="color: #993300;">Medalha de Bronze</span>
+Rafael Mendes de Oliveira - Medalha de Bronze
 
-Régis Prado Barbosa (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Régis Prado Barbosa (CE) - Medalha de Bronze
 
 ### 2005 - Yucatán, México
 
   
-Gabriel Tavares Bujokas - <span style="color: #ff9900;">Medalha de Ouro</span>
+Gabriel Tavares Bujokas - Medalha de Ouro
 
-Thomás Yoiti Sasaki Hoshina - <span style="color: #993300;">Medalha de Bronze</span>
+Thomás Yoiti Sasaki Hoshina - Medalha de Bronze
 
 Guilherme Rodrigues Nogueira de Souza - Menção Honrosa
 
@@ -142,28 +142,28 @@ Edson Augusto Bezerra Lopes
 ### 2004 - Atenas, Grécia
 
   
-Gabriel Tavares Bujokas - <span style="color: #888888;">Medalha de Prata</span>
+Gabriel Tavares Bujokas - Medalha de Prata
 
-Rafael Daigo Hirama (SP) - <span style="color: #888888;">Medalha de Prata</span>
+Rafael Daigo Hirama (SP) - Medalha de Prata
 
-Fábio Dias Moreira - <span style="color: #993300;">Medalha de Bronze</span>
+Fábio Dias Moreira - Medalha de Bronze
 
-Henry Wei Cheng Hsu - <span style="color: #993300;">Medalha de Bronze</span>
+Henry Wei Cheng Hsu - Medalha de Bronze
 
-Rafael Marini Silva - <span style="color: #993300;">Medalha de Bronze</span>
+Rafael Marini Silva - Medalha de Bronze
 
-Thiago Costa Leite Santos - <span style="color: #993300;">Medalha de Bronze</span>
+Thiago Costa Leite Santos - Medalha de Bronze
 
 ### 2003 - Tóquio, Japão
 
   
-Fábio Dias Moreira - <span style="color: #888888;">Medalha de Prata</span>
+Fábio Dias Moreira - Medalha de Prata
 
-Alex Corrêa Abreu - <span style="color: #993300;">Medalha de Bronze</span>
+Alex Corrêa Abreu - Medalha de Bronze
 
-Davi Máximo Alexandrino Nogueira - <span style="color: #993300;">Medalha de Bronze</span>
+Davi Máximo Alexandrino Nogueira - Medalha de Bronze
 
-Samuel Barbosa Feitosa - <span style="color: #993300;">Medalha de Bronze</span>
+Samuel Barbosa Feitosa - Medalha de Bronze
 
 Larissa Cavalcante Queiroz de Lima - Menção Honrosa
 
@@ -172,41 +172,41 @@ Rafael Daigo Hirama (SP) - Menção Honrosa
 ### 2002 - Glasgow, Escócia (Reino Unido)
 
   
-Larissa Cavalcante Queiroz de Lima - <span style="color: #888888;">Medalha de Prata</span>
+Larissa Cavalcante Queiroz de Lima - Medalha de Prata
 
-Alex Corrêa Abreu - <span style="color: #993300;">Medalha de Bronze</span>
+Alex Corrêa Abreu - Medalha de Bronze
 
-Davi Máximo Alexandrino Nogueira - <span style="color: #993300;">Medalha de Bronze</span>
+Davi Máximo Alexandrino Nogueira - Medalha de Bronze
 
-Guilherme Issao Camarinha Fujiwara - <span style="color: #993300;">Medalha de Bronze</span>
+Guilherme Issao Camarinha Fujiwara - Medalha de Bronze
 
-Thiago da Silva Sobral - <span style="color: #993300;">Medalha de Bronze</span>
+Thiago da Silva Sobral - Medalha de Bronze
 
-Yuri Gomes Lima - <span style="color: #993300;">Medalha de Bronze</span>
+Yuri Gomes Lima - Medalha de Bronze
 
 ### 2001 - Washington DC, EUA
 
   
-Alex Corrêa Abreu - <span style="color: #888888;">Medalha de Prata</span>
+Alex Corrêa Abreu - Medalha de Prata
 
-Carlos Stein Naves de Brito - <span style="color: #888888;">Medalha de Prata</span>
+Carlos Stein Naves de Brito - Medalha de Prata
 
-Davi Máximo Alexandrino Nogueira - <span style="color: #888888;">Medalha de Prata</span>
+Davi Máximo Alexandrino Nogueira - Medalha de Prata
 
-Humberto Silva Naves - <span style="color: #888888;">Medalha de Prata</span>
+Humberto Silva Naves - Medalha de Prata
 
-Daniel Pinheiro Sobreira - <span style="color: #993300;">Medalha de Bronze</span>
+Daniel Pinheiro Sobreira - Medalha de Bronze
 
-Thiago Barros Rodrigues Costa - <span style="color: #993300;">Medalha de Bronze</span>
+Thiago Barros Rodrigues Costa - Medalha de Bronze
 
 ### 2000 - Taejon, Coreia do Sul
 
   
-Daniel Nobuo Uno - <span style="color: #993300;">Medalha de Bronze</span>
+Daniel Nobuo Uno - Medalha de Bronze
 
-Daniel Massaki Yamamoto - <span style="color: #993300;">Medalha de Bronze</span>
+Daniel Massaki Yamamoto - Medalha de Bronze
 
-Fabrício Siqueira Benevides - <span style="color: #993300;">Medalha de Bronze</span>
+Fabrício Siqueira Benevides - Medalha de Bronze
 
 Ulisses Medeiros de Albuquerque - Menção Honrosa
 
@@ -217,13 +217,13 @@ Sérgio Tadao Martins
 ### 1999 - Bucareste, Romênia
 
   
-Fabrício Siqueira Benevides - <span style="color: #993300;">Medalha de Bronze</span>
+Fabrício Siqueira Benevides - Medalha de Bronze
 
-Humberto Silva Naves - <span style="color: #993300;">Medalha de Bronze</span>
+Humberto Silva Naves - Medalha de Bronze
 
-Pedro Paulo de Simoni Gouveia - <span style="color: #993300;">Medalha de Bronze</span>
+Pedro Paulo de Simoni Gouveia - Medalha de Bronze
 
-Sérgio Tadao Martins - <span style="color: #993300;">Medalha de Bronze</span>
+Sérgio Tadao Martins - Medalha de Bronze
 
 Daniel Nobuo Uno
 
@@ -232,9 +232,9 @@ Daniel Massaki Yamamoto
 ### 1998 - Taipei, Taiwan
 
   
-Rui Lopes Viana Filho - <span style="color: #ff9900;">Medalha de Ouro</span>
+Rui Lopes Viana Filho - Medalha de Ouro
 
-Emanuel Carneiro - <span style="color: #993300;">Medalha de Bronze</span>
+Emanuel Carneiro - Medalha de Bronze
 
 Maurício Pereira Carrari - Menção Honrosa
 
@@ -247,15 +247,15 @@ Glauf Sidney Duarte Moreira Júnior
 ### 1997 - Mar del Plata, Argentina
 
   
-Rui Lopes Viana Filho - <span style="color: #888888;">Medalha de Prata</span>
+Rui Lopes Viana Filho - Medalha de Prata
 
-André Arroyo Ruiz - <span style="color: #993300;">Medalha de Bronze</span>
+André Arroyo Ruiz - Medalha de Bronze
 
-Emanuel Carneiro - <span style="color: #993300;">Medalha de Bronze</span>
+Emanuel Carneiro - Medalha de Bronze
 
-Frederico Girão - <span style="color: #993300;">Medalha de Bronze</span>
+Frederico Girão - Medalha de Bronze
 
-Murali Srinivasan Vajapeyam - <span style="color: #993300;">Medalha de Bronze</span>
+Murali Srinivasan Vajapeyam - Medalha de Bronze
 
 Marcelo Cruz - Menção Honrosa
 
@@ -275,7 +275,7 @@ Murali Srinivasam Vajapeyam
 ### 1995 - Toronto, Canadá
 
   
-Arthur &Aacute;vila Cordeiro de Melo - <span style="color: #ff9900;">Medalha de Ouro</span>
+Arthur &Aacute;vila Cordeiro de Melo - Medalha de Ouro
 
 André Luís de Souza Neves
 
@@ -290,9 +290,9 @@ Fernando Antônio de A. Carneiro
 ### 1994 - Hong Kong, Hong Kong
 
   
-Pablo Emanuel - <span style="color: #888888;">Medalha de Prata</span>
+Pablo Emanuel - Medalha de Prata
 
-Reinaldo Penharrubia Fagundes - <span style="color: #888888;">Medalha de Prata</span>
+Reinaldo Penharrubia Fagundes - Medalha de Prata
 
 Marcelo Mendes de Oliveira - Menção Honrosa
 
@@ -303,7 +303,7 @@ Paulo José Bonfim Gomes Rodrigues - Menção Honrosa
 ### 1993 - Istambul, Turquia
 
   
-Pablo Emanuel - <span style="color: #993300;">Medalha de Bronze</span>
+Pablo Emanuel - Medalha de Bronze
 
 Paulo José Bonfim Gomes Rodrigues - Menção Honrosa
 
@@ -318,7 +318,7 @@ Felipe Bonfim Ferreira
 ### 1992 - Moscou, Rússia
 
   
-Daniel Victor Tausk - <span style="color: #993300;">Medalha de Bronze</span>
+Daniel Victor Tausk - Medalha de Bronze
 
 Emerson Leite - Menção Honrosa
 
@@ -333,7 +333,7 @@ Yuki Zhao
 ### 1991 - Sigtuna, Suécia
 
   
-Eduardo Laber - <span style="color: #993300;">Medalha de Bronze</span>
+Eduardo Laber - Medalha de Bronze
 
 Emerson Leite - Menção Honrosa
 
@@ -348,11 +348,11 @@ Rogério Makita
 ### 1990- Beijing, China
 
   
-Carlos Gustavo Tamm de Araújo Moreira - <span style="color: #ff9900;">Medalha de Ouro</span>
+Carlos Gustavo Tamm de Araújo Moreira - Medalha de Ouro
 
-Júlio Cesar de Souza Rebelo - <span style="color: #993300;">Medalha de Bronze</span>
+Júlio Cesar de Souza Rebelo - Medalha de Bronze
 
-Marco Antonio Meggiolaro - <span style="color: #993300;">Medalha de Bronze</span>
+Marco Antonio Meggiolaro - Medalha de Bronze
 
 André Antunes Nogueira da Silva
 
@@ -363,11 +363,11 @@ Luciano Irineu de Castro Filho
 ### 1989 - Braunschweig, Alemanha
 
   
-Carlos Gustavo Tamm de Araújo Moreira - <span style="color: #993300;">Medalha de Bronze</span>
+Carlos Gustavo Tamm de Araújo Moreira - Medalha de Bronze
 
-Edson Roberto Abe (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Edson Roberto Abe (SP) - Medalha de Bronze
 
-Marcus André de Carvalho Torres - <span style="color: #993300;">Medalha de Bronze</span>
+Marcus André de Carvalho Torres - Medalha de Bronze
 
 Alexandre Xavier Iwata de Carvalho
 
@@ -393,11 +393,11 @@ Walfredo da Costa Cirne Filho
 ### 1987 - Havana, Cuba
 
   
-Ralph Costa Teixeira - <span style="color: #ff9900;">Medalha de Ouro</span>
+Ralph Costa Teixeira - Medalha de Ouro
 
-Felipe Fritz Braga - <span style="color: #993300;">Medalha de Bronze</span>
+Felipe Fritz Braga - Medalha de Bronze
 
-Marcelo Ricardo Xavier de Mendonça - <span style="color: #993300;">Medalha de Bronze</span>
+Marcelo Ricardo Xavier de Mendonça - Medalha de Bronze
 
 Alberto Adami
 
@@ -408,7 +408,7 @@ Marcelo Coelho Ferraz
 ### 1986 - Varsóvia, Polônia
 
   
-Ralph Costa Teixeira - <span style="color: #ff9900;">Medalha de Ouro</span>
+Ralph Costa Teixeira - Medalha de Ouro
 
 Alexandre de Azevedo Palmeira Filho
 
@@ -423,9 +423,9 @@ Marcos de Castro Pacitti
 ### 1985 - Joutsa, Finlândia
 
   
-Cláudio José Morandini - <span style="color: #993300;">Medalha de Bronze</span>
+Cláudio José Morandini - Medalha de Bronze
 
-Mário Arlindo Casarin Júnior - <span style="color: #993300;">Medalha de Bronze</span>
+Mário Arlindo Casarin Júnior - Medalha de Bronze
 
 Domingos Romualdo de Oliveira
 
@@ -438,11 +438,11 @@ Ralph Costa Teixeira
 ### 1984 - Praga, Tchecoslováquia
 
   
-Alberto Maçaaki Utsumi - <span style="color: #993300;">Medalha de Bronze</span>
+Alberto Maçaaki Utsumi - Medalha de Bronze
 
-Cláudio de Carvalho Chamon - <span style="color: #993300;">Medalha de Bronze</span>
+Cláudio de Carvalho Chamon - Medalha de Bronze
 
-Cláudio José Morandini - <span style="color: #993300;">Medalha de Bronze</span>
+Cláudio José Morandini - Medalha de Bronze
 
 André Hiroshi Hayashi Alves
 
@@ -453,11 +453,11 @@ Romildo Gonçalves Valente
 ### 1983 - Paris, França
 
   
-Alair Pereira do Lago - <span style="color: #993300;">Medalha de Bronze</span>
+Alair Pereira do Lago - Medalha de Bronze
 
-José Carlos Simon de Miranda - <span style="color: #993300;">Medalha de Bronze</span>
+José Carlos Simon de Miranda - Medalha de Bronze
 
-Ney Diniz Brotas - <span style="color: #993300;">Medalha de Bronze</span>
+Ney Diniz Brotas - Medalha de Bronze
 
 Eduardo Esteves
 
@@ -468,7 +468,7 @@ Leda Braga
 ### 1982 - Budapeste, Hungria
 
   
-Luiz Alberto dos Santos - <span style="color: #993300;">Medalha de Bronze</span>
+Luiz Alberto dos Santos - Medalha de Bronze
 
 Alair Pereira do Lago
 
@@ -479,7 +479,7 @@ Ricardo Teixeira de Carvalho
 ### 1981 - Washington, EUA
 
   
-Nicolau Corção Saldanha - <span style="color: #ff9900;">Medalha de Ouro</span>
+Nicolau Corção Saldanha - Medalha de Ouro
 
 Alexandre Carlos Smith Chuva
 

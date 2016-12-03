@@ -1,5 +1,5 @@
 --- 
-layout: page
+layout: equipe
 title: IChO
 --- 
 Fonte:[http://www.obquimica.org/][1]
@@ -7,37 +7,37 @@ Fonte:[http://www.obquimica.org/][1]
 ### 2013 - Moscou, Rússia
 
   
-Lívia Rodrigues de Araújo (CE)&nbsp;- <span style="color: #993300;">Bronze</span>
+Lívia Rodrigues de Araújo (CE) - Bronze
 
-Maurocélio Rocha Pontes Filho (CE) - <span style="color: #993300;">Bronze</span>
+Maurocélio Rocha Pontes Filho (CE) - Bronze
 
-Nicholas de Souza Costa Lima (CE) - <span style="color: #993300;">Bronze</span>
+Nicholas de Souza Costa Lima (CE) - Bronze
 
-Vitória Nunes Medeiros (CE) -- <span style="color: #993300;">Bronze</span>
+Vitória Nunes Medeiros (CE) -- Bronze
 
  
 
 ### 2012 -  Washington, Estados Unidos da América.
 
   
-Daniel Arjona de Andrade Hara (SP) &ndash;&nbsp;<span style="color: #888888;" data-mce-mark="1">Medalha de Prata</span>
+Daniel Arjona de Andrade Hara (SP) - Medalha de Prata
 
-Ramon Santos Gonçalves da Silva (CE) -- <span style="color: #993300;">Medalha de Bronze</span>
+Ramon Santos Gonçalves da Silva (CE) -- Medalha de Bronze
 
-Gabriel Matheus Viana Pinheiro (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Gabriel Matheus Viana Pinheiro (CE) - Medalha de Bronze
 
-Vitória Nunes Medeiros (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Vitória Nunes Medeiros (CE) - Medalha de Bronze
 
  
 
 ### 2011- Ancara, Turquia
 
   
-Davi Rodrigues Chaves (CE) - <span style="color: #888888;">Medalha de Prata</span>
+Davi Rodrigues Chaves (CE) - Medalha de Prata
 
-Raul Bruno Machado da Silva (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Raul Bruno Machado da Silva (CE) - Medalha de Bronze
 
-Tábata Cláudia Amaral de Pontes (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Tábata Cláudia Amaral de Pontes (SP) - Medalha de Bronze
 
 Davidson Anthony Aragão Freire (CE)
 
@@ -46,24 +46,24 @@ Davidson Anthony Aragão Freire (CE)
 ### 2010- Tóquio, Japão
 
   
-Levindo José Garcia Quarto (CE) - <span style="color: #888888;">Medalha de Prata</span>
+Levindo José Garcia Quarto (CE) - Medalha de Prata
 
-André Silva Franco (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+André Silva Franco (SP) - Medalha de Bronze
 
-Jéssica Kazumi Okuma (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Jéssica Kazumi Okuma (SP) - Medalha de Bronze
 
-Raul Bruno Machado da Silva (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Raul Bruno Machado da Silva (CE) - Medalha de Bronze
 
  
 
 ### 2009- Cambridge, Reino Unido
 
   
-Levindo José Garcia Quarto (CE) - <span style="color: #888888;">Medalha de Prata</span>
+Levindo José Garcia Quarto (CE) - Medalha de Prata
 
-Arthur Braga Reis (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Arthur Braga Reis (CE) - Medalha de Bronze
 
-João Victor Rocha Magalhães Caminha (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+João Victor Rocha Magalhães Caminha (CE) - Medalha de Bronze
 
 Thalys Sampaio Rodrigues (CE)
 
@@ -72,13 +72,13 @@ Thalys Sampaio Rodrigues (CE)
 ### 2008- Budapeste, Hungria
 
   
-Thaís Macedo Bezerra Terceiro Jorge (CE) - <span style="color: #888888;">Medalha de Prata</span>
+Thaís Macedo Bezerra Terceiro Jorge (CE) - Medalha de Prata
 
-Bruno Matos Paz (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Bruno Matos Paz (CE) - Medalha de Bronze
 
-Victor Tsuneichi Chida Paiva (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Victor Tsuneichi Chida Paiva (CE) - Medalha de Bronze
 
-Walter Collyer Braga (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Walter Collyer Braga (CE) - Medalha de Bronze
 
  
 

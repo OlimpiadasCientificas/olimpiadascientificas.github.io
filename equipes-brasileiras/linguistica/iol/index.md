@@ -4,13 +4,11 @@ title: IOL
 --- 
 
 ### 2012- Ljubljiana - Eslovênia
-Ivan Tadeu Ferreira Antunes Filho (Lins, SP) -&nbsp;<span style="color: #808080;">Medalha de Prata</span>
+Ivan Tadeu Ferreira Antunes Filho (Lins, SP) - Medalha de Prata
 
-Pedro Neves Lopes (São Paulo, SP) -<span style="color: #993300;">Medalha
-de Bronze </span>
+Pedro Neves Lopes (São Paulo, SP) -Medalha de Bronze
 
-Rafael Kazuhiro Miyazaki  (São Paulo, SP) -- Menção Honrosa e <span
-style="color: #008000;">Melhor Solução da Questão 2</span>
+Rafael Kazuhiro Miyazaki  (São Paulo, SP) -- Menção Honrosa e <span style="color: #008000;">Melhor Solução da Questão 2</span>
 
 Marvin Ariel Dias Santos (Lagarto, SE)
 

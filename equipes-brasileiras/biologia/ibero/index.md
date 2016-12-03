@@ -1,145 +1,107 @@
 --- 
-layout: page 
+layout: equipe 
 title: OIAB 
 --- 
 ### 2013 - Córdoba, Argentina
-{: style="text-align: justify;"}
 
 
-
-Alexandre Chaves Fernandes (RN) - <span style="color: #993300;">Medalha de Bronze</span>
-{: style="text-align: justify;"}
+Alexandre Chaves Fernandes (RN) - Medalha de Bronze
 
 
-
-Eduardo Cesar Diniz Macedo (CE) - <span style="color: #993300;">Medalha de Bronze</span>
-{: style="text-align: justify;"}
+Eduardo Cesar Diniz Macedo (CE) - Medalha de Bronze
 
 
-
-Lucas Henrique Rodrigues de Almeida (MG) - <span style="color: #993300;">Medalha de Bronze</span>
-{: style="text-align: justify;"}
+Lucas Henrique Rodrigues de Almeida (MG) - Medalha de Bronze
 
 
-
-Lucas Medeiros Lopes (CE) - <span style="color: #993300;">Medalha de Bronze</span>
-{: style="text-align: justify;"}
-
+Lucas Medeiros Lopes (CE) - Medalha de Bronze
   
 &nbsp;
 
 ### 2012 - Cascais, Portugal
-{: style="text-align: justify;"}
-
 
 
 Antônio Pedro de Sousa Oliveira (CE)  
- <span style="color: #ff9900;">Medalha de Ouro</span>  
- <span style="color: #888888;">Medalha de Prata no Rally</span>
-{: style="text-align: justify;"}
+ Medalha de Ouro  
+ Medalha de Prata no Rally
 
 
-
-Leonardo Afonso Costa (MG) - <span style="color: #ff9900;">Medalha de Ouro</span>
-{: style="text-align: justify;"}
-
+Leonardo Afonso Costa (MG) - Medalha de Ouro
 
 
 Ivan Tadeu Ferreira Antunes Filho (SP)  
- <span style="color: #888888;">Medalha de Prata</span>  
- <span style="color: #ff9900;">Medalha de Ouro no Rally</span>  
+ Medalha de Prata  
+ Medalha de Ouro no Rally  
  <span style="color: #008000;">Troféu \"melhor espírito olímpico\"</span>
-{: style="text-align: justify;"}
 
 
-
-Jéssica Silva Lopes (CE) - <span style="color: #888888;">Medalha de Prata</span>
-{: style="text-align: justify;"}
-
+Jéssica Silva Lopes (CE) - Medalha de Prata
   
 &nbsp;
 
 ### 2011 - San José, Costa Rica
-{: style="text-align: justify;"}
 
 
-
-Matheus Rolim Mendes de Alencar (CE) - <span style="color: #993300;">Medalha de Bronze</span>
-{: style="text-align: justify;"}
+Matheus Rolim Mendes de Alencar (CE) - Medalha de Bronze
 
 
-
-Yuri Neyson Ferreira Brito (CE) - <span style="color: #993300;">Medalha de Bronze</span>
-{: style="text-align: justify;"}
-
+Yuri Neyson Ferreira Brito (CE) - Medalha de Bronze
 
 
 Cayke Felipe dos Anjos (RN)
-{: style="text-align: justify;"}
-
 
 
 Gabriel Drumond Ferreira (MG)
-{: style="text-align: justify;"}
-
   
 &nbsp;
 
 ### 2010 - Lima, Peru
-{: style="text-align: justify;"}
 
 
-
-Yuri Regis de Freitas (CE) - <span style="color: #888888;">Medalha de Prata</span>
-{: style="text-align: justify;"}
+Yuri Regis de Freitas (CE) - Medalha de Prata
 
 
-
-Diego Saraiva Felipe (CE) - <span style="color: #993300;">Medalha de Bronze</span>
-{: style="text-align: justify;"}
+Diego Saraiva Felipe (CE) - Medalha de Bronze
 
 
-
-Pedro Barbosa Oliveira (CE) - <span style="color: #993300;">Medalha de Bronze</span>
-{: style="text-align: justify;"}
-
+Pedro Barbosa Oliveira (CE) - Medalha de Bronze
   
 &nbsp;
 
 ### 2009 - Las Palmas de Gran Canaria, Espanha
 
   
-Leo Nunes Benevides - <span style="color: #999999;">Medalha de Prata</span>
+Leo Nunes Benevides - Medalha de Prata
 
-Paulo Henrique Silva Rodrigues -- <span style="color: #993300;">Medalha de Bronze</span>
+Paulo Henrique Silva Rodrigues -- Medalha de Bronze
 
-Rafael Lima Viana -<span style="color: #993300;"> Medalha de Bronze</span>
+Rafael Lima Viana - Medalha de Bronze
 
  
 
 ### 2008 - Rio de Janeiro, Brasil
 
   
-Antônio Camelo Filho - <span style="color: #ff9900;">Medalha de Ouro</span>
+Antônio Camelo Filho - Medalha de Ouro
 
-Ítalo Oliveira - <span style="color: #999999;">Medalha de Prata</span>
+Ítalo Oliveira - Medalha de Prata
 
-Pedro Silva Galdino - <span style="color: #993300;">Medalha de Bronze</span>
+Pedro Silva Galdino - Medalha de Bronze
 
-Natália Álvarez - <span style="color: #993300;">Medalha de Bronze</span>
+Natália Álvarez - Medalha de Bronze
 
  
 
 ### 2007 - Cidade do México, México
 
   
-Pedro Pinheiro de Negreiros Bessa (CE) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Pedro Pinheiro de Negreiros Bessa (CE) - Medalha de Ouro
 
-Anderson Carlos Brasil (CE) - <span style="color: #999999;">Medalha de Prata</span>
+Anderson Carlos Brasil (CE) - Medalha de Prata
 
-Cláudia Cristina de Araújo (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Cláudia Cristina de Araújo (CE) - Medalha de Bronze
 
-Ícaro Campos Duarte (CE) - <span style="color: #993300;">Medalha de Bronze</span>
+Ícaro Campos Duarte (CE) - Medalha de Bronze
 
  
 

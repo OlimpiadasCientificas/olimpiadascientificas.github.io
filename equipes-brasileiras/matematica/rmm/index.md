@@ -8,11 +8,11 @@ Fonte: [Olimpíada Brasileira de Matemática][1]{: target="_blank"}
 ### 2012
 
   
-João Lucas Camelo Sá&nbsp;(CE) - <span style="color: #888888">Medalha de Prata</span>
+João Lucas Camelo Sá&nbsp;(CE) - Medalha de Prata
 
-Maria Clara Mendes Silva (MG) - <span style="color: #993300">Medalha de Bronze</span>
+Maria Clara Mendes Silva (MG) - Medalha de Bronze
 
-Rodrigo Sanches Angelo (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Rodrigo Sanches Angelo (SP) - Medalha de Bronze
 
 Henrique Gasparini Fiúza do Nascimento (DF) - Menção Honrosa
 
@@ -23,7 +23,7 @@ Rafael Kazuhiro Miyazaki (SP)
 ### 2010
 
   
-Deborah Barbosa Alves&nbsp;(SP) - <span style="color: #993300">Medalha de Bronze</span>
+Deborah Barbosa Alves&nbsp;(SP) - Medalha de Bronze
 
 Gustavo Lisbôa Empinotti (SC) - Menção Honrosa
 
@@ -38,11 +38,11 @@ Maria Clara Mendes Silva (MG) - Menção Honrosa
 ### 2009
 
   
-Davi Lopes de Medeiros (CE) - <span style="color: #993300">Medalha de Bronze</span>
+Davi Lopes de Medeiros (CE) - Medalha de Bronze
 
-Deborah Barbosa Alves (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Deborah Barbosa Alves (SP) - Medalha de Bronze
 
-Gustavo Lisbôa Empinotti (SC) - <span style="color: #993300">Medalha de Bronze</span>
+Gustavo Lisbôa Empinotti (SC) - Medalha de Bronze
 
 Hugo Fonseca Araújo (RJ) - Menção Honrosa
 

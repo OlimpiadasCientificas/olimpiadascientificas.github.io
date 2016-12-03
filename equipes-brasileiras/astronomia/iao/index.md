@@ -6,9 +6,9 @@ title: IAO
 ### 2007 - Simeiz, Ucrânia
 
   
-Hugo Fonseca Araújo (MG) - <span style="color: #888888;">Medalha de Prata</span>
+Hugo Fonseca Araújo (MG) - Medalha de Prata
 
-Rafael Parpinel Cavina (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Rafael Parpinel Cavina (SP) - Medalha de Bronze
 
 Cindy Yuchi Tsai (SP)
 
@@ -21,9 +21,9 @@ Rafael Kenzo Mippo (SP)
 ### 2006 - Mumbai, Índia
 
   
-Felipe Gonçalves Assis (PB) - <span style="color: #888888;">Medalha de Prata</span>
+Felipe Gonçalves Assis (PB) - Medalha de Prata
 
-Hugo Fonseca Araújo (MG) - <span style="color: #993300;">Medalha de Bronze</span>
+Hugo Fonseca Araújo (MG) - Medalha de Bronze
 
 Alessandro Wagner Palmeira (SP)
 
@@ -38,7 +38,7 @@ Thaís Mösken Pêra (SP)
 ### 2005 - Beijing e Huairou, China
 
   
-Felipe Ferreira Villar Coelho (ES) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Felipe Ferreira Villar Coelho (ES) - Medalha de Ouro
 
 Gustavo Amarante Furtado (RJ)
 
@@ -55,12 +55,11 @@ Nathan Willing Lima (RS)
 ### 2004 - Simeiz, Ucrânia
 
   
-Felipe Ferreira Villar Coelho (ES) - <span style="color: #888888;">Medalha de Prata</span>
+Felipe Ferreira Villar Coelho (ES) - Medalha de Prata
 
-Carla Fernanda de Araújo e Silva (SP) - <span style="color:
-#993300;">Medalha de Bronze</span>
+Carla Fernanda de Araújo e Silva (SP) - Medalha de Bronze
 
-Guilherme Rohden Echelmeier (SC) - <span style="color: #993300;">Medalha de Bronze</span>
+Guilherme Rohden Echelmeier (SC) - Medalha de Bronze
 
 Fernanda Vilela de Aquino (MG)
 
@@ -69,9 +68,9 @@ Fernanda Vilela de Aquino (MG)
 ### [2003 - Estocolmo, Suécia][1]
 
   
-Raul Celistrino Teixeira (SP) -<span style="color: #888888;"> Medalha de Prata</span>
+Raul Celistrino Teixeira (SP) - Medalha de Prata
 
-Michel Aquena Silva (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Michel Aquena Silva (SP) - Medalha de Bronze
 
 Bernardo Gomes Cosentino Alvarez (MG)
 
@@ -84,9 +83,9 @@ Emanuelle Roberta da Silva (SP)
 ### [2002 - Nizhnij Arkhyz, Rússia][2]
 
   
-Felipe Augusto Cardoso Pereira (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Felipe Augusto Cardoso Pereira (SP) - Medalha de Bronze
 
-José Henrique Bortoluci (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+José Henrique Bortoluci (SP) - Medalha de Bronze
 
 André Slepetys (SP)
 
@@ -99,7 +98,7 @@ Rafael Faria da Silva (MG)
 ### [2000 - Nizhnij Arkhyz, Rússia][3]
 
   
-Shridhar Jayanthi (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Shridhar Jayanthi (SP) - Medalha de Bronze
 
 Caio Cícero Gomes (SP)
 
@@ -116,7 +115,7 @@ Raphael Quachio (SP)
 ### [1999 - Nauchnij, Ucrânia][4]
 
   
-Shridhar Jayanthi (SP) - <span style="color: #888888;">Medalha de Prata</span>
+Shridhar Jayanthi (SP) - Medalha de Prata
 
 Ana Lúcia Martins de Toledo (SP)
 
@@ -131,7 +130,7 @@ Paulo Júlio O'Rely de Souza Pedrosa (RJ)
 ### 1998 -Nizhnij Arkyhz, Cáucaso/Rússia - 20 a 26 de outubro
 
   
-Shridhar Jayanthi &nbsp;(Anglo-SP)&nbsp;- <span style="color: #993300;">Medalha de Bronze</span>
+Shridhar Jayanthi &nbsp;(Anglo-SP)&nbsp;- Medalha de Bronze
 
 Kleber Iguchi (ETEP - SP)
 

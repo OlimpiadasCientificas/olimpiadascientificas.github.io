@@ -11,9 +11,9 @@ target="_blank"} e outras.
 ### 2014 - Suceava , Romênia
 
   
-Daniel Mitsutani (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Daniel Mitsutani (SP) - Medalha de Bronze
 
-Allan dos Santos Costa (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Allan dos Santos Costa (SP) - Medalha de Bronze
 
 Daniel Charles Heringer Gomes (SP) - Menção Honrosa
 
@@ -26,28 +26,26 @@ Pedro Guimarães Martins (MG) - Menção Honrosa
 ### 2013 - Volos, Grécia
 
   
-Daniel Mitsutani (SP) - <span style="color: #808080"> Medalha de Prata</span>
+Daniel Mitsutani (SP) -  Medalha de Prata
 
-Luis Fernando Machado Poletti Valle (SP) - <span style="color:
-#808080"> Medalha de Prata</span>
+Luis Fernando Machado Poletti Valle (SP) -  Medalha de Prata
 
-Allan dos Santos Costa (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Allan dos Santos Costa (SP) - Medalha de Bronze
 
-Fábio Kenji Arai (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Fábio Kenji Arai (SP) - Medalha de Bronze
 
-Larissa Fernandes de Aquino (PE) - <span style="color: #993300">Medalha de Bronze</span>
+Larissa Fernandes de Aquino (PE) - Medalha de Bronze
 
  
 
 ### 2012- Rio de Janeiro, Brasil
 
   
-Ivan Tadeu Ferreira Antunes Filho (Objetivo \| São Paulo, SP) -<span style="color: #808080"> Medalha de Prata</span>
+Ivan Tadeu Ferreira Antunes Filho (Objetivo \| São Paulo, SP) - Medalha de Prata
 
-Pedro Rangel Caetano (Ser Sorocaba \| Votorantim, SP)- <span
-style="color: #808080">Medalha de Prata</span>
+Pedro Rangel Caetano (Ser Sorocaba \| Votorantim, SP)- Medalha de Prata
 
-Breno Leví Corrêa (Coluni \| Viçosa, MG) - <span style="color:#993300">Medalha de Bronze</span>
+Breno Leví Corrêa (Coluni \| Viçosa, MG) - Medalha de Bronze
 
 Fábio Kenji Arai  (Etapa \| São Paulo, SP) -- Menção Honrosa
 
@@ -72,10 +70,9 @@ Gabriela Fernandes Martins (São Carlos \| São Carlos, SP)
 ### 2011 - Chorzów, Polônia
 
   
-Gustavo Haddad Francisco e Sampaio Braga (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Gustavo Haddad Francisco e Sampaio Braga (SP) - Medalha de Bronze
 
-Ivan Tadeu Ferreira Antunes Filho (SP) - <span style="color:
-#993300">Medalha de Bronze</span>
+Ivan Tadeu Ferreira Antunes Filho (SP) - Medalha de Bronze
 
 Tábata Cláudia Amaral de Pontes (SP) - Menção Honrosa
 
@@ -88,13 +85,13 @@ Rafael de Lima Bordoni (AM)
 ### 2010 - Beijing, China
 
   
-Thiago Saksanian Hallak (SP) - <span style="color: #999999">Medalha de Prata</span>
+Thiago Saksanian Hallak (SP) - Medalha de Prata
 
-Gustavo Haddad Francisco e Sampaio Braga (SP) - <span style="color:#993300">Medalha de Bronze</span>
+Gustavo Haddad Francisco e Sampaio Braga (SP) - Medalha de Bronze
 
-Tábata Cláudia Amaral de Pontes (SP) - <span style="color:#993300">Medalha de Bronze</span>
+Tábata Cláudia Amaral de Pontes (SP) - Medalha de Bronze
 
-Luis Filipe Martins Ramos (RJ) - <span style="color: #993300">Medalha de Bronze</span>
+Luis Filipe Martins Ramos (RJ) - Medalha de Bronze
 
 Tiago Lobato Gimenes (SP) - Menção Honrosa
 
@@ -103,13 +100,13 @@ Tiago Lobato Gimenes (SP) - Menção Honrosa
 ### 2009 - Teerã, Irã
 
   
-Daniel de Barros Soares (RJ) - <span style="color: #999999">Medalha de Prata</span>
+Daniel de Barros Soares (RJ) - Medalha de Prata
 
-Hugo Fonseca Araújo (RJ) - <span style="color: #999999">Medalha de Prata</span>
+Hugo Fonseca Araújo (RJ) - Medalha de Prata
 
-Leonardo Pereira Stédile (SP) - <span style="color: #999999">Medalha de Prata</span>
+Leonardo Pereira Stédile (SP) - Medalha de Prata
 
-Thiago Saksanian Hallak (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Thiago Saksanian Hallak (SP) - Medalha de Bronze
 
 Otávio de Macedo Menezes (RS) - Menção Honrosa
 
@@ -118,9 +115,9 @@ Otávio de Macedo Menezes (RS) - Menção Honrosa
 ### 2008 - Bandung, Indonésia
 
   
-Rafael Parpinel Cavina (SP) - <span style="color: #999999">Medalha de Prata</span>
+Rafael Parpinel Cavina (SP) - Medalha de Prata
 
-Cindy Yuchi Tsai (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Cindy Yuchi Tsai (SP) - Medalha de Bronze
 
 Otávio de Macedo Menezes (RS) - Menção Honrosa
 
@@ -131,11 +128,11 @@ Gustavo Perez Katague (SP)
 ### 2007 - Chiang Mai, Tailândia
 
   
-Thomas Ferreira de Lima (CE) - <span style="color: #999999">Medalha de Prata</span>
+Thomas Ferreira de Lima (CE) - Medalha de Prata
 
-Júlio César Neves Campagnolo (PR) - <span style="color: #993300">Medalha de Bronze</span>
+Júlio César Neves Campagnolo (PR) - Medalha de Bronze
 
-<span style="color: #993300"> </span>
+ 
 
 
 

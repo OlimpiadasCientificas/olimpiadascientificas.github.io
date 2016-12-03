@@ -13,7 +13,7 @@ author:
 ## 2012/2013 - Tangerang, Indonésia
 
   
-Ivan Tadeu Ferreira Antunes Filho - <span style="color: #888888;">Medalha de Prata</span>
+Ivan Tadeu Ferreira Antunes Filho - Medalha de Prata
 
 ## 2011/2012 - Lombok, Indonésia
 

@@ -7,24 +7,24 @@ Fonte: [Olimpíada Brasileira de Matemática][1]
 ### 2012 - Salvador (BA), Brasil
 
   
-Daniel Santana Rocha (RJ) -&nbsp;<span style="color: #ff9900;">Medalha de Ouro</span>
+Daniel Santana Rocha (RJ) -&nbsp;Medalha de Ouro
 
-Murilo Corato Zanarella (SP) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Murilo Corato Zanarella (SP) - Medalha de Ouro
 
-Daniel Lima Braga (CE) - <span style="color: #888888;">Medalha de Prata</span>
+Daniel Lima Braga (CE) - Medalha de Prata
 
-Victor Oliveira Reis (PE) - <span style="color: #888888;">Medalha de Prata</span>
+Victor Oliveira Reis (PE) - Medalha de Prata
 
 ### 2011 - Coimbra, Portugal
 
   
-Carlos Henrique de Andrade Silva (CE) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Carlos Henrique de Andrade Silva (CE) - Medalha de Ouro
 
-Gustavo Haddad Francisco e Sampaio Braga (SP) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Gustavo Haddad Francisco e Sampaio Braga (SP) - Medalha de Ouro
 
-Davi Coelho Amorim (CE) - <span style="color: #888888;">Medalha de Prata</span>
+Davi Coelho Amorim (CE) - Medalha de Prata
 
-Daniel Eiti Nishida Kawai (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Daniel Eiti Nishida Kawai (SP) - Medalha de Bronze
 
 
 

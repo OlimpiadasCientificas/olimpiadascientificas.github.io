@@ -8,240 +8,240 @@ Fonte: [Olimpíada Brasileira de Matemática][1]{: target="_blank"}
 ### 2013 - Assunção, Paraguai
 
   
-Victor Oliveira Reis (PE) - <span style="color: #ff9900">Medalha de Ouro</span>
+Victor Oliveira Reis (PE) - Medalha de Ouro
 
-Murilo Zanarella (SP) - <span style="color: #ff9900">Medalha de Ouro</span>
+Murilo Zanarella (SP) - Medalha de Ouro
 
-Pedro Henrique Sacramento de Oliveira (SP) - <span style="color: #888888">Medalha de Prata</span>
+Pedro Henrique Sacramento de Oliveira (SP) - Medalha de Prata
 
-Daniel Santana Rocha (RJ) - <span style="color: #888888">Medalha de Prata</span>
+Daniel Santana Rocha (RJ) - Medalha de Prata
 
 ### 2012 - Cuzco, Peru
 
   
-Rodrigo Sanches Angelo (SP) - <span style="color: #ff9900">Medalha de Ouro</span>
+Rodrigo Sanches Angelo (SP) - Medalha de Ouro
 
-Rafael Rodrigues Rocha de Melo (CE) - <span style="color: #888888">Medalha de Prata</span>
+Rafael Rodrigues Rocha de Melo (CE) - Medalha de Prata
 
-Henrique Fiuza do Nascimento (DF) - <span style="color: #888888">Medalha de Prata</span>
+Henrique Fiuza do Nascimento (DF) - Medalha de Prata
 
-Tadeu Belfort de Matos Belfort Neto (CE) - <span style="color: #993300">Medalha de Bronze</span>
+Tadeu Belfort de Matos Belfort Neto (CE) - Medalha de Bronze
 
 ### 2011 - La Paz, Bolívia
 
   
-Rafael Kazuhiro Miyazaki (SP) - <span style="color: #888888">Medalha de Prata</span>
+Rafael Kazuhiro Miyazaki (SP) - Medalha de Prata
 
-Henrique Fiuza do Nascimento (DF) - <span style="color: #888888">Medalha de Prata</span>
+Henrique Fiuza do Nascimento (DF) - Medalha de Prata
 
-Rafael Rodrigues Rocha de Melo (CE) - <span style="color: #888888">Medalha de Prata</span>
+Rafael Rodrigues Rocha de Melo (CE) - Medalha de Prata
 
-Vinícius Canto Costa (RJ) - <span style="color: #888888">Medalha de Prata</span>
+Vinícius Canto Costa (RJ) - Medalha de Prata
 
 ### 2010 - Águas de São Pedro, Brasil
 
   
-João Lucas Camelo Sá (CE) - <span style="color: #ff9900">Medalha de Ouro</span>
+João Lucas Camelo Sá (CE) - Medalha de Ouro
 
-Gabriel Militão Vinhas Lopes (CE) - <span style="color: #888888">Medalha de Prata</span>
+Gabriel Militão Vinhas Lopes (CE) - Medalha de Prata
 
-Maria Clara Mendes Silva (MG) - <span style="color: #888888">Medalha de Prata</span>
+Maria Clara Mendes Silva (MG) - Medalha de Prata
 
-Caíque Porto Lira (CE) - <span style="color: #993300">Medalha de Bronze</span>
+Caíque Porto Lira (CE) - Medalha de Bronze
 
 ### 2009 - Mar del Plata, Argentina
 
   
-Deborah Barbosa Alves (SP) - <span style="color: #888888">Medalha de Prata</span>
+Deborah Barbosa Alves (SP) - Medalha de Prata
 
-Matheus Barros de Paula (SP) - <span style="color: #888888">Medalha de Prata</span>
+Matheus Barros de Paula (SP) - Medalha de Prata
 
-Gabriel Militão Vinhas Lopes (CE) - <span style="color: #993300">Medalha de Bronze</span>
+Gabriel Militão Vinhas Lopes (CE) - Medalha de Bronze
 
-Matheus Secco Torres da Silva (RJ) - <span style="color: #993300">Medalha de Bronze</span>
+Matheus Secco Torres da Silva (RJ) - Medalha de Bronze
 
 ### 2008 - Chile
 
   
-Marcelo Tadeu de Sá Oliveira Sales (BH) - <span style="color: #888888">Medalha de Prata</span>
+Marcelo Tadeu de Sá Oliveira Sales (BH) - Medalha de Prata
 
-Matheus Secco Torres da Silva (RJ) - <span style="color: #888888">Medalha de Prata</span>
+Matheus Secco Torres da Silva (RJ) - Medalha de Prata
 
-Gustavo Lisbôa Empinotti (SC) - <span style="color: #993300">Medalha de Bronze</span>
+Gustavo Lisbôa Empinotti (SC) - Medalha de Bronze
 
-Matheus Araújo Marins(RJ)  - <span style="color: #993300">Medalha de Bronze</span>
+Matheus Araújo Marins(RJ)  - Medalha de Bronze
 
 ### 2007 - Uruguai
 
   
-Renan Henrique Finder - <span style="color: #ff9900">Medalha de Ouro</span>
+Renan Henrique Finder - Medalha de Ouro
 
-Marcelo Tadeu de Sá Oliveira Sales - <span style="color: #888888">Medalha de Prata</span>
+Marcelo Tadeu de Sá Oliveira Sales - Medalha de Prata
 
-Grazielly Muniz da Cunha - <span style="color: #888888">Medalha de Prata</span>
+Grazielly Muniz da Cunha - Medalha de Prata
 
-Thiago Ribeiro Ramos - <span style="color: #888888">Medalha de Prata</span>
+Thiago Ribeiro Ramos - Medalha de Prata
 
 ### 2006 - Argentina
 
   
-Henrique Pondé de Oliveira Pinto - <span style="color: #ff9900">Medalha de Ouro</span>
+Henrique Pondé de Oliveira Pinto - Medalha de Ouro
 
-Rafael Tupynambá Dutra - <span style="color: #888888">Medalha de Prata</span>
+Rafael Tupynambá Dutra - Medalha de Prata
 
-Ramon Moreira Nunes - <span style="color: #888888">Medalha de Prata</span>
+Ramon Moreira Nunes - Medalha de Prata
 
-Regis Prado Barbosa - <span style="color: #888888">Medalha de Prata</span>
+Regis Prado Barbosa - Medalha de Prata
 
 ### 2005 - Bolivia
 
   
-Edson Augusto Bezerra Lopes - <span style="color: #ff9900">Medalha de Ouro</span>
+Edson Augusto Bezerra Lopes - Medalha de Ouro
 
-Rafael Tupynambá Dutra - <span style="color: #ff9900">Medalha de Ouro</span>
+Rafael Tupynambá Dutra - Medalha de Ouro
 
-Guilherme R. Nogueira de Souza - <span style="color: #888888">Medalha de Prata</span>
+Guilherme R. Nogueira de Souza - Medalha de Prata
 
-Henrique Pondé de Oliveira Pinto - <span style="color: #888888">Medalha de Prata</span>
+Henrique Pondé de Oliveira Pinto - Medalha de Prata
 
 ### 2004 - Paraguai
 
   
-Gabriel Tavares Bujokas - <span style="color: #ff9900">Medalha de Ouro</span>
+Gabriel Tavares Bujokas - Medalha de Ouro
 
-Leandro Farias Maia - <span style="color: #888888">Medalha de Prata</span>
+Leandro Farias Maia - Medalha de Prata
 
-André Linhares Rodrigues - <span style="color: #993300">Medalha de Bronze</span>
+André Linhares Rodrigues - Medalha de Bronze
 
-Telmo Luis Correa Júnior - <span style="color: #993300">Medalha de Bronze</span>
+Telmo Luis Correa Júnior - Medalha de Bronze
 
 ### 2003 - Peru
 
   
-Rodrigo Aguiar Pinheiro - <span style="color: #ff9900">Medalha de Ouro</span>
+Rodrigo Aguiar Pinheiro - Medalha de Ouro
 
-Fábio Dias Moreira - <span style="color: #888888">Medalha de Prata</span>
+Fábio Dias Moreira - Medalha de Prata
 
-Henry Wei Cheng Hsu - <span style="color: #888888">Medalha de Prata</span>
+Henry Wei Cheng Hsu - Medalha de Prata
 
-Thiago Costa Leite Santos - <span style="color: #888888">Medalha de Prata</span>
+Thiago Costa Leite Santos - Medalha de Prata
 
 ### 2002 - Brasil
 
   
-Alex Corrêa Abreu - <span style="color: #ff9900">Medalha de Ouro</span>
+Alex Corrêa Abreu - Medalha de Ouro
 
-Larissa Cavalcante Queiroz de Lima - <span style="color: #ff9900">Medalha de Ouro</span>
+Larissa Cavalcante Queiroz de Lima - Medalha de Ouro
 
-Rafael Daigo Hirama - <span style="color: #ff9900">Medalha de Ouro</span>
+Rafael Daigo Hirama - Medalha de Ouro
 
-Israel Dourado Carrah - <span style="color: #993300">Medalha de Bronze</span>
+Israel Dourado Carrah - Medalha de Bronze
 
 ### 2001 - Chile
 
   
-Rafael Daigo Hirama - <span style="color: #ff9900">Medalha de Ouro</span>
+Rafael Daigo Hirama - Medalha de Ouro
 
-Larissa Cavalcante Queiroz de Lima - <span style="color: #888888">Medalha de Prata</span>
+Larissa Cavalcante Queiroz de Lima - Medalha de Prata
 
-Guilherme Issao C. Fujiwara - <span style="color: #888888">Medalha de Prata</span>
+Guilherme Issao C. Fujiwara - Medalha de Prata
 
 Einstein do Nascimento Jr.
 
 ### 2000 - Uruguai
 
   
-Humberto Silva Naves&nbsp;- <span style="color: #ff9900">Medalha de Ouro</span>
+Humberto Silva Naves&nbsp;- Medalha de Ouro
 
-Carlos Stein Naves de Brito - <span style="color: #888888">Medalha de Prata</span>
+Carlos Stein Naves de Brito - Medalha de Prata
 
-Larissa Cavalcante Queiroz de Lima - <span style="color: #888888">Medalha de Prata</span>
+Larissa Cavalcante Queiroz de Lima - Medalha de Prata
 
-Davi Máximo Alexandrino Nogueira - <span style="color: #993300">Medalha de Bronze</span>
+Davi Máximo Alexandrino Nogueira - Medalha de Bronze
 
 ### 1999 - Argentina
 
   
-Humberto Silva Naves - <span style="color: #888888">Medalha de Prata</span>
+Humberto Silva Naves - Medalha de Prata
 
-Fabrício Siqueira Benevides - <span style="color: #888888">Medalha de Prata</span>
+Fabrício Siqueira Benevides - Medalha de Prata
 
-Daniel Massaki Yamamoto - <span style="color: #993300">Medalha de Bronze</span>
+Daniel Massaki Yamamoto - Medalha de Bronze
 
-Daniel Pinheiro Sobreira - <span style="color: #993300">Medalha de Bronze</span>
+Daniel Pinheiro Sobreira - Medalha de Bronze
 
 ### 1998 - Brasil
 
   
-Fabrício Siqueira Benevides - <span style="color: #888888">Medalha de Prata</span>
+Fabrício Siqueira Benevides - Medalha de Prata
 
-Pedro Paulo de Simoni Gouveia - <span style="color: #888888">Medalha de Prata</span>
+Pedro Paulo de Simoni Gouveia - Medalha de Prata
 
-Mila Lopes Viana - <span style="color: #993300">Medalha de Bronze</span>
+Mila Lopes Viana - Medalha de Bronze
 
-Jônathas Diógenes Castello Branco - <span style="color: #993300">Medalha de Bronze</span>
+Jônathas Diógenes Castello Branco - Medalha de Bronze
 
 ### 1997 - Paraguai
 
   
-Murali Srinivasan Vajapeyam&nbsp;- <span style="color: #ff9900">Medalha de Ouro</span>
+Murali Srinivasan Vajapeyam&nbsp;- Medalha de Ouro
 
-Rui Lopes Viana Filho - <span style="color: #ff9900">Medalha de Ouro</span>
+Rui Lopes Viana Filho - Medalha de Ouro
 
-Danielle Veras de Andrade - <span style="color: #993300">Medalha de Bronze</span>
+Danielle Veras de Andrade - Medalha de Bronze
 
-Christian Iveson - <span style="color: #993300">Medalha de Bronze</span>
+Christian Iveson - Medalha de Bronze
 
 ### 1996 - Peru
 
   
-Carlos Yuzo Shine&nbsp;- <span style="color: #ff9900">Medalha de Ouro</span>
+Carlos Yuzo Shine&nbsp;- Medalha de Ouro
 
-Murali Srinivasan Vajapeyam - <span style="color: #ff9900">Medalha de Ouro</span>
+Murali Srinivasan Vajapeyam - Medalha de Ouro
 
-Emanuel Augusto de Souza Carneiro - <span style="color: #888888">Medalha de Prata</span>
+Emanuel Augusto de Souza Carneiro - Medalha de Prata
 
-Rui Lopes Viana Filho - <span style="color: #888888">Medalha de Prata</span>
+Rui Lopes Viana Filho - Medalha de Prata
 
 ### 1995 - Bolívia
 
   
-Artur &Aacute;vila Cordeiro de Melo&nbsp;- <span style="color: #ff9900">Medalha de Ouro</span>
+Artur &Aacute;vila Cordeiro de Melo&nbsp;- Medalha de Ouro
 
-Eduardo Cabral Balreira - <span style="color: #993300">Medalha de Bronze</span>
+Eduardo Cabral Balreira - Medalha de Bronze
 
-Vitor Almeida dos Santos - <span style="color: #993300">Medalha de Bronze</span>
+Vitor Almeida dos Santos - Medalha de Bronze
 
-José Aroldo Alves Júnior - <span style="color: #993300">Medalha de Bronze</span>
+José Aroldo Alves Júnior - Medalha de Bronze
 
 ### 1994 - Uruguai
 
   
-Artur &Aacute;vila Cordeiro de Melo - <span style="color: #888888">Medalha de Prata</span>
+Artur &Aacute;vila Cordeiro de Melo - Medalha de Prata
 
-Eduardo Cabral Balreira - <span style="color: #993300">Medalha de Bronze</span>
+Eduardo Cabral Balreira - Medalha de Bronze
 
-Vitor Almeida dos Santos - <span style="color: #993300">Medalha de Bronze</span>
+Vitor Almeida dos Santos - Medalha de Bronze
 
-Davi Araújo - <span style="color: #993300">Medalha de Bronze</span>
+Davi Araújo - Medalha de Bronze
 
 ### 1993 - Brasil
 
   
-Anderson Couto Esteves&nbsp;- <span style="color: #ff9900">Medalha de Ouro</span>
+Anderson Couto Esteves&nbsp;- Medalha de Ouro
 
-Guilherme Ellery - <span style="color: #888888">Medalha de Prata</span>
+Guilherme Ellery - Medalha de Prata
 
-Germano Bezerra - <span style="color: #993300">Medalha de Bronze</span>
+Germano Bezerra - Medalha de Bronze
 
-Esdras Medeiros - <span style="color: #993300">Medalha de Bronze</span>
+Esdras Medeiros - Medalha de Bronze
 
 ### 1992 - Chile
 
   
-Paulo José Bonfim Gomes Rodrigues - <span style="color: #993300">Medalha de Bronze</span>
+Paulo José Bonfim Gomes Rodrigues - Medalha de Bronze
 
-José Carlos Jucá Pompeu Filho - <span style="color: #993300">Medalha de Bronze</span>
+José Carlos Jucá Pompeu Filho - Medalha de Bronze
 
 Marcondes França Júnior
 
@@ -250,11 +250,11 @@ João Carlos Alencar Araripe Falcão
 ### 1991 - Argentina
 
   
-Márcio Palmeira - <span style="color: #888888">Medalha de Prata</span>
+Márcio Palmeira - Medalha de Prata
 
-Renato Madeira - <span style="color: #993300">Medalha de Bronze</span>
+Renato Madeira - Medalha de Bronze
 
-Albino Feijó - <span style="color: #993300">Medalha de Bronze</span>
+Albino Feijó - Medalha de Bronze
 
 Rodrigo Onias
 
@@ -271,7 +271,7 @@ Não houve competição.
 ### 1988 - Uruguai
 
   
-Raul Bazkhaus - <span style="color: #993300">Medalha de Bronze</span>
+Raul Bazkhaus - Medalha de Bronze
 
 
 

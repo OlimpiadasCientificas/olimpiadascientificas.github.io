@@ -9,65 +9,60 @@ Fonte:[http://pt.wikipedia.org/wiki/Olimp%C3%ADada\_Latino-Americana\_de\_Astron
 ### IV OLAA- 2012  Barranquilha- Colômbia
 
   
-Amanda Seraphim Pedarnig (Vinhedo, SP) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Amanda Seraphim Pedarnig (Vinhedo, SP) - Medalha de Ouro
 
-Weslley de Vasconcelos Rodrigues da Silva (Teresina, PI) - <span
-style="color: #ff9900;">Medalha de Ouro</span>
+Weslley de Vasconcelos Rodrigues da Silva (Teresina, PI) - Medalha de Ouro
 
-Larissa Fernandes de Aquino (Olinda, PE) - <span style="color:
-#888888;">Medalha de Prata</span>
+Larissa Fernandes de Aquino (Olinda, PE) - Medalha de Prata
 
-Luis Fernando Machado Poletti Valle (Guarulhos, SP) - <span
-style="color: #888888;">Medalha de Prata</span>
+Luis Fernando Machado Poletti Valle (Guarulhos, SP) - Medalha de Prata
 
-Victor Venturi (Campinas, SP) - <span style="color: #888888;">Medalha de Prata</span>
+Victor Venturi (Campinas, SP) - Medalha de Prata
 
  
 
 ### III OLAA- 2011 - Rio de Janeiro, Brasil
 
   
-Rafael de Lima Bordoni (AM) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Rafael de Lima Bordoni (AM) - Medalha de Ouro
 
-Tábata Cláudia Amaral de Pontes (SP) - <span style="color:
-#ff9900;">Medalha de Ouro</span>
+Tábata Cláudia Amaral de Pontes (SP) - Medalha de Ouro
 
-Felipe Marino Moreno (SP) - <span style="color: #999999;">Medalha de Prata</span>
+Felipe Marino Moreno (SP) - Medalha de Prata
 
-Lucas Henrique Moraes (SP) - <span style="color: #999999;">Medalha de Prata</span>
+Lucas Henrique Moraes (SP) - Medalha de Prata
 
-Victor Moraes de Oliveira (SP) - <span style="color: #999999;">Medalha de Prata</span>
+Victor Moraes de Oliveira (SP) - Medalha de Prata
 
  
 
 ### II OLAA - 2010 - Bogotá, Colômbia
 
   
-Catarina Amarante de Oliveira Neves (SP) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Catarina Amarante de Oliveira Neves (SP) - Medalha de Ouro
 
-Lucas de Freitas Smaira (MG) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Lucas de Freitas Smaira (MG) - Medalha de Ouro
 
-Richard Giovani Martim Souza (RJ) - <span style="color:
-#ff9900;">Medalha de Ouro</span>
+Richard Giovani Martim Souza (RJ) - Medalha de Ouro
 
-Rodrigo Inácio Pomgeluppi (MG) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Rodrigo Inácio Pomgeluppi (MG) - Medalha de Ouro
 
-Helena Wu (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Helena Wu (SP) - Medalha de Bronze
 
  
 
 ### I OLAA - 2009 - Rio de Janeiro, Brasil
 
   
-Catarina Amarante de Oliveira Neves (SP) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Catarina Amarante de Oliveira Neves (SP) - Medalha de Ouro
 
-Rafael Camargo Tafarello (SP) - <span style="color: #ff9900;">Medalha de Ouro</span>
+Rafael Camargo Tafarello (SP) - Medalha de Ouro
 
-Tiago Lobato Gimenes (SP) - <span style="color: #999999;">Medalha de Prata</span>
+Tiago Lobato Gimenes (SP) - Medalha de Prata
 
-Isabela Cunha Maia Nobre (AL) - <span style="color: #999999;">Medalha de Prata</span>
+Isabela Cunha Maia Nobre (AL) - Medalha de Prata
 
-Leonardo Pereira Papais (SP) - <span style="color: #993300;">Medalha de Bronze</span>
+Leonardo Pereira Papais (SP) - Medalha de Bronze
 
 
 

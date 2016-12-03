@@ -5,9 +5,9 @@ title: IOI
 ### 2013 - Brisbane, Austrália
 
   
-Renato Ferreira Pinto Júnior (SP) - <span style="color: #ffcc00">Medalha de Ouro</span>
+Renato Ferreira Pinto Júnior (SP) - Medalha de Ouro
 
-Ramon Silva Lima (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Ramon Silva Lima (SP) - Medalha de Bronze
 
 Michel Rozenberg Zelazny (SP)
 
@@ -18,9 +18,9 @@ Mateus Carvalho Dantas (PB)
 ### 2012 - Itália
 
   
-Renato Ferreira Pinto Júnior (SP)&nbsp;&ndash;&nbsp;<span style="color: #888888">Medalha de Prata</span>
+Renato Ferreira Pinto Júnior (SP) Medalha de Prata
 
-Marcos Kawakami (SP)-- <span style="color: #888888">Medalha de Prata</span>
+Marcos Kawakami (SP)-- Medalha de Prata
 
 Caíque Porto Lira (CE)
 
@@ -31,26 +31,23 @@ André Amaral de Sousa(SP)
 ### 2011- Pattaya, Tailândia
 
   
-Felipe Abella Cavalcante Mendonça de Souza (PB) - <span style="color: #ffcc00">Medalha de Ouro</span>
+Felipe Abella Cavalcante Mendonça de Souza (PB) - Medalha de Ouro
 
-Caíque Porto Lira (CE) - <span style="color: #993300">Medalha de Bronze</span>
+Caíque Porto Lira (CE) - Medalha de Bronze
 
-Marcos Massayuki Kawakami (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Marcos Massayuki Kawakami (SP) - Medalha de Bronze
 
-Renato Ferreira Pinto Júnior (SP) - <span style="color: #993300">Medalha de Bronze</span>
-
-### 
-
+Renato Ferreira Pinto Júnior (SP) - Medalha de Bronze
 
 
 ### 2010- Waterloo, Canadá
 
   
-Felipe Abella Cavalcante Mendonça de Souza (PB) - <span style="color: #888888">Medalha de Prata</span>
+Felipe Abella Cavalcante Mendonça de Souza (PB) - Medalha de Prata
 
-André Hahn Pereira (SP) - <span style="color: #993300">Medalha de Bronze</span>
+André Hahn Pereira (SP) - Medalha de Bronze
 
-Renato Ferreira Pinto Júnior (SP) -<span style="color: #993300"> Medalha de Bronze</span>
+Renato Ferreira Pinto Júnior (SP) - Medalha de Bronze
 
 Caíque Porto Lira (CE)
 
@@ -59,11 +56,11 @@ Caíque Porto Lira (CE)
 ### 2009- Plovdiv, Bulgária
 
   
-Felipe Abella Cavalcante Mendonça de Souza (PB) - <span style="color: #888888">Medalha de Prata</span>
+Felipe Abella Cavalcante Mendonça de Souza (PB) - Medalha de Prata
 
-André Hahn Pereira (SP) - <span style="color: #993300">Medalha de Bronze</span>
+André Hahn Pereira (SP) - Medalha de Bronze
 
-Gabriel Luis Mello Dalalio (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Gabriel Luis Mello Dalalio (SP) - Medalha de Bronze
 
 Renato Ferreira Pinto Júnior (SP)
 
@@ -72,13 +69,13 @@ Renato Ferreira Pinto Júnior (SP)
 ### 2008- Cairo, Egito
 
   
-Gabriel Luis Mello Dalalio (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Gabriel Luis Mello Dalalio (SP) - Medalha de Bronze
 
-Marcelo Galvão Povoa (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Marcelo Galvão Povoa (SP) - Medalha de Bronze
 
-Pedro Veras Bezerra da Silva (RJ) - <span style="color: #993300">Medalha de Bronze</span>
+Pedro Veras Bezerra da Silva (RJ) - Medalha de Bronze
 
-Ricardo Hahn Pereira (SP) - <span style="color: #993300">Medalha de Bronze</span>
+Ricardo Hahn Pereira (SP) - Medalha de Bronze
 
  
 
