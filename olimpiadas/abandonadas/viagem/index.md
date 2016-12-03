@@ -2,7 +2,7 @@
 layout: olimpiada
 title: Viagem do Conhecimento
 link:  http://www.viagemdoconhecimento.com.br/
-image: febrace.png
+image: viagem.png
 fullname: Desafio National Geographic
 ---
 # Organizada Pela Última vez em 2015
