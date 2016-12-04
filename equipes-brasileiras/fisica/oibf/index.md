@@ -10,8 +10,8 @@ author:
 *Prêmio de melhor equipe*{: style="color: Green"}  
 Ilo Pereira Sá Emerenciano - Medalha de Ouro  
 Victor Matheo de Sousa Fernanders -  Medalha de Ouro  
-Luciano Drozda Dantas Martins (CE)- Medalha de Prata  
-Liara Guinsberg (SP)- Medalhade Bronze  
+Luciano Drozda Dantas Martins (CE)- Prata  
+Liara Guinsberg (SP)- Bronze  
 
 ### 2011 - Guayaquil, Equador  
 Davi Lima de Mesquita (CE) - Medalha de Bronze  
