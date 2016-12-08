@@ -43,3 +43,4 @@ Obrigado a todos!
 * William paixão
 * Matheus Vitti Santos
 * Misael Mateus
+* Tiago Lubiana

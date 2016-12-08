@@ -13,7 +13,7 @@ link: http://www.sbfisica.org.br/~obfep
 Destinada a estudantes da rede pública, a OBFEP conta com o apoio do Ministério de Ciência, Tecnologia e Inovação (MCTI) através do Conselho Nacional de Pesquisas (CNPq) e o apoio do Ministério de Educação (MEC).
 
   
-&nbsp;
+ 
 
 ## O que é?
 
@@ -257,7 +257,7 @@ programa básico, mas, quando o forem, conterão informações suficientes para 
 Medalhas de Ouro, Prata e Bronze aos melhores colocados.
 
   
-&nbsp;
+ 
 
 Fonte: [site oficial da OBFEP](www.sbfisica.org.br/~obfep/&lrm; "Site oficial da OBFEP"){: target="_blank"}[  
  ][1]

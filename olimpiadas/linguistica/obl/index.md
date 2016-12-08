@@ -6,11 +6,11 @@ image: obl.png
 fullname: Olimpíada Brasileira de Linguística
 ---
 
-**O que é:**&nbsp;Olimpíada de lógica, línguas e linguística para estudantes brasileiros do ensino médio, de todos os tipos de escola.&nbsp;Um problema típico é baseado em informações de uma linguagem não familiar e requer que os competidores descbram alguma parte do sistema baseado nos dados. O conteúdo da prova não é parte do cúrrículo escolar normal, mas não é necessário conhecimento prévio de linguística para a resolução da prova &mdash; embora ajude, e muito! Apenas é necessário curiosidade e habilidades básicas de solução de problemas.
+**O que é:** Olimpíada de lógica, línguas e linguística para estudantes brasileiros do ensino médio, de todos os tipos de escola. Um problema típico é baseado em informações de uma linguagem não familiar e requer que os competidores descbram alguma parte do sistema baseado nos dados. O conteúdo da prova não é parte do cúrrículo escolar normal, mas não é necessário conhecimento prévio de linguística para a resolução da prova &mdash; embora ajude, e muito! Apenas é necessário curiosidade e habilidades básicas de solução de problemas.
 
  **Quem organiza: **Comissão Organizadora da OBL
   
-**Ano de Fundação:**&nbsp;2011
+**Ano de Fundação:** 2011
 
 ** N° de Participantes:** 1.000 (2011)
 

@@ -11,7 +11,7 @@ fullname: Olimpíada Internacional de Física
 ---
 
   
-&nbsp;
+ 
 
 ### **O que é**
 

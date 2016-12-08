@@ -8,7 +8,7 @@ fullname: Olimpíada Brasileira de Biologia
 
 
   
-&nbsp;
+ 
 
 ### O que estudar?
 
@@ -114,7 +114,7 @@ biologia.</span></span>
 ### Premiação
 
   
-A OBB premia os 10 primeiros colocado com uma semana de treinamento no Rio de Janeiro, medalhas, certificados e livros. &nbsp;Além disso, os 8 primeiros representarão a equipe nacional na [IBO][3]{: target="_blank"}&nbsp;ou[ OIAB][4]{: target="_blank"}!
+A OBB premia os 10 primeiros colocado com uma semana de treinamento no Rio de Janeiro, medalhas, certificados e livros.  Além disso, os 8 primeiros representarão a equipe nacional na [IBO][3]{: target="_blank"} ou[ OIAB][4]{: target="_blank"}!
 
 
 

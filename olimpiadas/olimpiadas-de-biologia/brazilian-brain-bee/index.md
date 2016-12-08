@@ -43,7 +43,7 @@ Todas as informações sobre [regulamentos e premiações][1] no link ao lado.
 {: style="text-align: left;"}
 
   
-&nbsp;
+ 
 
 **Como se Inscrever: **
 
@@ -66,7 +66,7 @@ Rio de Janeiro -  [http://cienciasecognicao.org/riobrainbee/inscricoes-e-formul
 {: style="text-align: left;"}
 
   
-Juiz de Fora - contate&nbsp;[brainbeejf@gmail.com][4]&nbsp;e&nbsp;[gbrockbrain@me.com](mailto:gbrockbrain@me.com)&nbsp;para informações
+Juiz de Fora - contate [brainbeejf@gmail.com][4] e [gbrockbrain@me.com](mailto:gbrockbrain@me.com) para informações
 
  
 

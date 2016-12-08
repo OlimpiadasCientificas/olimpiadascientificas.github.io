@@ -10,7 +10,7 @@ fullname: Desafio National Geographic
 ### **O que é**
 
   
-A [Viagem do Conhecimento][2]{: target="_blank"} é a maior competição de geografia do país, por isso é tida como a \"olimpíada brasileira de geografia\".&nbsp;Ela é dividida em três fases:
+A [Viagem do Conhecimento][2]{: target="_blank"} é a maior competição de geografia do país, por isso é tida como a \"olimpíada brasileira de geografia\". Ela é dividida em três fases:
 **Primeira Fase:** As provas contendo vinte e cinco questões de múltipla escolha são aplicadas pelas próprias escolas aos seus alunos. A duração da prova é de duas horas e meia. Para a segunda fase são classificados os
 alunos que obtiverem dezoito acertos ou mais.
 

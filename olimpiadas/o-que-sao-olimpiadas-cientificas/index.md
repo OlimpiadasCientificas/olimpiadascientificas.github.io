@@ -53,20 +53,20 @@ target="_blank"}"! Você pode explorar mais as competições nacionais e interna
 Talvez você conheça algumas das principais **Olimpíadas Científicas Nacionais** de comerciais de televisão, páginas na Internet ou Facebook, ou dos murais de seu colégio. Elas são:
 
   
-&nbsp;
+ 
 [![Olimpíada Brasileira de Matemática - OBM]({{ site.baseurl }}/static/images/obm.png){: style="float: left;  display: block; margin-right:1em;"width="106.5" height="150"}**Olimpíada Brasileira de
 Matemática (OBM)**][11] - Competição de Matemática, na qual participam alunos de 5ª série (6ºano) do ensino fundamental a alunos do 3º ano do ensino médio. Provas realizada em 3 fases, a primeira no primeiro semestre e
 as outras duas no segundo. Ela convoca os alunos para a seleção de equipes brasileiras de diversas Olimpíadas Internacionais de Matemática!
 
 
-&nbsp;
+ 
 
 [![Olimpíada Brasileira de Física - OBF]({{ site.baseurl }}/static/images/obf.png){: style="float: left;  display: block; margin-right:1em;"width="147" height="150"}**Olimpíada Brasileira de
 Física (OBF)**][12] - Competição de Física na qual participam alunos do 8º ano do Ensino Fundamental ao 3º ano do Ensino Médio. Provas realizadas em 3 fases, todas no segundo semestre de cada ano. Ela convoca os melhores
 medalhistas para a seleção das equipes brasileiras que representarão o Brasil nas Olimpíadas Internacionais de Física!
   
   
-&nbsp;
+ 
  
 
 [![Olimpíada Brasileira de Química Júnior - OBQ Jr]({{ site.baseurl }}/static/images/obqjr.png){: style="float: left;  display: block; margin-right:1em;"width="110" height="59"}**Olimpíada Brasileira de
@@ -74,13 +74,13 @@ Química Júnior (OBQ Jr.)**][13] - Competição de Química para alunos do 8º 
 OBQ no ano seguinte!
 
   
-&nbsp;
+ 
 [![Olimpíada Brasileira de Química- OBQ]({{ site.baseurl }}/static/images/obq.png){: style="float: left;  display: block; margin-right:1em;"width="161" height="150"}**Olimpíada Brasileira de Química
 (OBQ)**][8] - Competição de Química para alunos do 1º,2º e 3º colegial, realizada em 6 fases, sendo duas delas realizadas por outra competição, como a Olimpíada Brasileira de Química Junior ([OBQJr][14]) ou a [Olimpíada
 de (Seu Estado) de Química][15], tendo sido premiado em alguma destas competições anteriormente à OBQ de um determinado ano. E, por ela, você poderá chegar às Olimpíadas Internacionais de Quimica!
 
   
-&nbsp;
+ 
  
 
 [![Olimpíada Brasileira de Astronomia- OBA]({{ site.baseurl }}/static/images/oba.png){: style="float: left;  display: block; margin-right:1em;"width="151" height="150"}**Olimpíada Brasileira de Astronomia e
@@ -88,7 +88,7 @@ Astronáutica (OBA)**][16] - Competição de Astronomia e Astronáutica para alu
 conteúdos de Lógica, Física, Geografia ou Matemática. Possui fase única, realizada no 1º semestre, e classifica para a seletiva dos estudantes que nos representarão nas Olimpíadas Internacionais de Astronomia!
 
   
-&nbsp;
+ 
  
 
 [![Olimpíada Brasileira de História]({{ site.baseurl }}/static/images/onhb.png){: style="float: left;  display: block; margin-right:1em;"width="120" height="120"}**Olimpíada Nacional em História do Brasil
@@ -96,7 +96,7 @@ conteúdos de Lógica, Física, Geografia ou Matemática. Possui fase única, re
 questões, com exceção da Fase Final, que é uma prova presencial, na qual o professor representante da equipe não participa.
 
   
-&nbsp;
+ 
  
 
 [![IJSO Brasil]({{ site.baseurl }}/static/images/ijsobr.png){: style="float: left;  display: block; margin-right:1em;"width="120" height="120"}**Olimpíada Internacional de Ciências Junior Brasil (IJSO Br)**][18] -
@@ -104,7 +104,7 @@ Prova de Física, Química e Biologia realizada em duas fases, ambas no segundo 
 a matéria de 1º, 2º e 3º de Física, Química (sem Orgânica) e Biologia. Os 6 vencedores desta representam o Brasil na IJSO internacional!
 
   
-&nbsp;
+ 
  
 
 [![Olimpíada Brasileira de Biologia]({{ site.baseurl }}/static/images/obb.png){: style="float: left;  display: block; margin-right:1em;"width="120" height="127"}**Olimpíada Brasileira de Biologia (OBB)**][19] -
@@ -112,7 +112,7 @@ Prova de Biologia feita para alunos do Ensino Médio. Cobre a matéria do Ensino
 desta representam o Brasil na Olimpíada Internacional de Biologia (IBO) e na Iberoamericana de Biologia!
 
   
-&nbsp;
+ 
  
 
 [![Olimpíada Brasileira de Informática- OBI]({{ site.baseurl }}/static/images/obi.png){: style="float: left;  display: block; margin-right:1em;"width="120" height="117"}**Olimpíada Brasileira de Informática
@@ -120,14 +120,14 @@ desta representam o Brasil na Olimpíada Internacional de Biologia (IBO) e na Ib
 colegial) e Programação 2(até o 1º ano da faculdade). Os vencedores da P2 participam da seletiva que seleciona os alunos que nos representarào na Olimpíada Internacional de Informática!
 
   
-&nbsp;
+ 
  
 
 [![Olimpíada Brasileira de Robótica- OBR]({{ site.baseurl }}/static/images/obr.png){: style="float: left;  display: block; margin-right:1em;" width="120" height="70"}**Olimpíada Brasileira de Robótica (OBR)**][21] - Competição de robótica subdividida em duas modalidades teóricas (Teórica e Duathlon) e uma prática. Na modalidade Teórica participam alunos de 1ª a 8ª série (6º ao 9º ano). Na modalidade Duathlon participam Alunos do
 Ensino Médio que nunca tenham participado da construção de algum robô. Na modalidade Prática, todos podem participar.
 
   
-&nbsp;
+ 
  
 
 [![IYPT Br - Torneio Internacional de Jovens Físicos]({{ site.baseurl }}/static/images/iypt-brasil.png){: style="float: left;  display: block; margin-right:1em;"width="120" height="76"}**International Young Phisics
@@ -136,7 +136,7 @@ Tournament Brasil (IYPT Br)**][2] - Competição de física diferente, em que, n
 ser de escolas diferentes. Os capitães das equipes vencedoras represntam o Brasil na IYPT internacional! Temos uma ótima [página com dicas sobre o IYPT][23]!
 
   
-&nbsp;
+ 
  
 
 [![TVQ - Torneio Virtual de Química]({{ site.baseurl }}/static/images/tvq.png){: style="float: left;  display: block; margin-right:1em;"width="150" height="75"}**Torneio Virtual de Química
@@ -167,7 +167,7 @@ Aproveite e explore o site para se informar ainda mais sobre as competições e 
 
 
   
-&nbsp;
+ 
 Você também pode nos encontrar no **[Facebook][28]**, **[Twitter][29]** e **[Youtube][30]**. Para entrar em contato, acesse: **[Contato][31]**. Nós também temos um fórum para discussão de problemas, confira! **[Fórum
 Olimpíadas Científicas][32]**. E além do Fórum, criamos um grupo no facebook para reunir participantes e ex-participantes de olimpíadas regionais, nacionais e internacionais, o<b
 id="internal-source-marker_0.729625876294449"> </b>[**Apoio Olimpíadas Científicas**{::}**!**{: #internal-source-marker_0.729625876294449}][33]

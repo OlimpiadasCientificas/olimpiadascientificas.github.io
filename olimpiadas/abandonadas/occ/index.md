@@ -24,7 +24,7 @@ comments:
   date: '2013-04-26 13:19:07 -0400'
   date_gmt: '2013-04-26 16:19:07 -0400'
   content: "[...] na competi&ccedil;&atilde;o deve ser feita por meio de cadastro
-    das escolas, que pode ser realizado no&nbsp;site da OCC. O regulamento completo
+    das escolas, que pode ser realizado no site da OCC. O regulamento completo
     e mais informa&ccedil;&otilde;es sobre o projeto tamb&eacute;m est&atilde;o dispon&iacute;veis
     no [...]"
 ---
@@ -243,7 +243,7 @@ target="_blank"}
 {: style="text-align: justify"}
 
   
--Link para o cadastro das escolas:&nbsp;[http://olimpiadacatavento.com/cadastro/][2]
+-Link para o cadastro das escolas: [http://olimpiadacatavento.com/cadastro/][2]
 
 [1]: {{ site.baseurl }}/static/images//olimpiadas/interdisciplinar/occ/logo-2/
 [2]: http://olimpiadacatavento.wordpress.com/cadastro/ "Cadastro Olimpíada Catavento de Ciências OCC"
