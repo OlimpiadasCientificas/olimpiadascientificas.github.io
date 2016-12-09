@@ -3,7 +3,7 @@ layout: olimpiada
 title: IOAA  
 author:  
   display_name: Ivan Tadeu Ferreira Antunes Filho  
-link: http://http://www.ioaa2016.in/
+link: http://www.ioaa2016.in/
 image: ioaa.png
 fullname: International Olympiad on Astronomy and Astrophysics
 ---  
