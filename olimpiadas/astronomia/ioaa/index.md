@@ -3,7 +3,7 @@ layout: olimpiada
 title: IOAA  
 author:  
   display_name: Ivan Tadeu Ferreira Antunes Filho  
-link: http://www.ioaa2013.gr/
+link: http://http://www.ioaa2016.in/
 image: ioaa.png
 fullname: International Olympiad on Astronomy and Astrophysics
 ---  
@@ -12,7 +12,7 @@ fullname: International Olympiad on Astronomy and Astrophysics
 **O que é:** Olimpíada de astronomia para estudantes do Ensino Médio de todo o mundo.   
 
 **Estatuto e regras da competição:**  
-[Documento em PDF disponível para download](http://www.ioaa2013.gr/index.php?option=com_rokdownloads&amp;view=file&amp;Itemid=117)   
+[Neste link](http://www.ioaa2016.in/ioaa-statutes/)   
 
 **Quem organiza:** IOAA International Board Meeting  
 
