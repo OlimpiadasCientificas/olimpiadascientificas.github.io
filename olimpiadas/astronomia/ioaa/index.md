@@ -77,4 +77,4 @@ As provas podem ser encontradas [no site do CCD-OBA](http://ccd-oba.blogspot.com
 Veja a página de [equipes anteriores]({{ site.baseurl }}/equipes-brasileiras/astronomia/ioaa/) aqui no OC.  
 
 **Fontes**  
-[IOAA 2012 - Brasil](http://www.ioaa2012.ufrj.br/), [IOAA 2013 - Grécia](http://www.ioaa2013.gr/), [IOAA 2015 - Indonésia](http://ioaa2015.org/index.php/site/index?view=home)
+[IOAA 2012 - Brasil](http://www.ioaa2012.ufrj.br/), [IOAA 2013 - Grécia](http://www.ioaa2013.gr/), [IOAA 2015 - Indonésia](http://ioaa2015.org/index.php/site/index?view=home), [IOAA 2016 - India](http://www.ioaa2016.in/)
