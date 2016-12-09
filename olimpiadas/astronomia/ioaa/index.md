@@ -29,7 +29,7 @@ fullname: International Olympiad on Astronomy and Astrophysics
 **Quem participa:** 5 alunos brasileiros são selecionados a partir dos participantes do Nível 4 da [OBA]({{ site.url }}/olimpiadas/astronomia/oba/)".  
 
 **Programa / Temário / Syllabus**  
-[Documento em PDF](http://www.ioaa2012.ufrj.br/pdfs/IOAA-Syllabus.pdf)  
+[Link do Syllabus](http://www.ioaa2016.in/ioaa-syllabus/)  
 **Nível**: único, para alunos do Ensino Médio.  
 **Formato:** A competição dura dez dias em um país específico. São feitas quatro provas:  
   
