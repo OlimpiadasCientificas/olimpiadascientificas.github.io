@@ -4,8 +4,31 @@ Estamos ainda realizando a migração. Para nosso roadmap veja os [issues](https
 
 Se quiser nos auxiliar a migrar o site, veja 
 https://github.com/OlimpiadasCientificas/olimpiadascientificas.github.io/blob/master/equipes-brasileiras/interdisciplinar/ijso/index.md e https://github.com/OlimpiadasCientificas/olimpiadascientificas.github.io/blob/master/olimpiadas/astronomia/ioaa/index.md
+como páginas de exemplo
 
-Run  kramdown -i html -o remove\_html\_tags,kramdown index.html  > index.md to convert files pretty fast (minor problems still need to be fixed)
 
+Toda página de olimpíada precisa de:`
+---  
+layout: olimpiada  
+title: IOAA  
+link: http://www.ioaa2016.in/
+image: ioaa.png
+fullname: International Olympiad on Astronomy and Astrophysics
+---  `
+
+Qualquer outra informação, como autor, será ignorada no momento e se está presente foi porque ainda não deletamos.
+
+
+Toda página de equipe precisa de:`
+---  
+layout: equipe  
+title: IJSO  
+---  `
+
+no topo.
+
+
+
+Rode no terminal  kramdown --html-to-native --line-width 220  -i html -o remove_html_tags,kramdown index.html > index.md && rm index.html  para converter os arquivos rapidamente, porém você ainda terá que editar páginas.
 Build with jekyll serve --incremental
 
