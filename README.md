@@ -7,23 +7,27 @@ https://github.com/OlimpiadasCientificas/olimpiadascientificas.github.io/blob/ma
 como páginas de exemplo
 
 
-Toda página de olimpíada precisa de:`
+Toda página de olimpíada precisa de:
+<pre>
 ---  
 layout: olimpiada  
 title: IOAA  
 link: http://www.ioaa2016.in/
 image: ioaa.png
 fullname: International Olympiad on Astronomy and Astrophysics
----  `
+---  
+</pre>
 
 Qualquer outra informação, como autor, será ignorada no momento e se está presente foi porque ainda não deletamos.
 
 
-Toda página de equipe precisa de:`
+Toda página de equipe precisa de:
+<pre>
 ---  
 layout: equipe  
 title: IJSO  
----  `
+---  
+</pre>
 
 no topo.
 
