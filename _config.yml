@@ -16,12 +16,12 @@ copyright: © 2016  Olimpíadas Científicas. Todos os direitos reservados.
 baseurl: "" # the subpath of your site, e.g. /blog
 mediaurl: "/static/"
 url: "olimpiadascientificas.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: OCientificas
+github_username:  OlimpiadasCientificas/olimpiadascientificas.github.io
 
 # Build settings
 markdown: kramdown
-exclude: [node_modules]
+
 auto-menu: false
 
 compress_html:
