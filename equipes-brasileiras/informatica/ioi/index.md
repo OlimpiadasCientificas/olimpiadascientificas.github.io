@@ -2,6 +2,59 @@
 layout: equipe
 title: IOI
 --- 
+
+### 2017 - Tehran, Irã
+
+
+Pedro Henrique Sacramento de Oliveira (SP) - Medalha de Ouro
+
+Rogério Aristida Guimarães Júnior (CE) - Medalha de Bronze
+
+Gabriel Silva Simões (SP)
+
+William Hideki Kondo (SP)
+
+
+
+### 2016 - Kazan, Rússia
+
+
+Rogério Aristida Guimarães Júnior (CE) - Medalha de Prata
+
+Lucca Siaudzionis (CE) - Medalha de Prata
+
+Pedro Henrique Sacramento de Oliveira (SP)
+
+Carlos Vinícios Ferreira Santos (SE)
+
+
+
+### 2015 - Almaty, Cazaquistão
+
+
+Lucca Siaudzionis (CE) - Medalha de Bronze
+
+Arthur Pratti Dadalto (ES) - Medalha de Bronze
+
+Mateus Bezrutchka (SP)
+
+Murilo Corato Zanarella (SP)
+
+
+
+### 2014 - Taipei, Taiwan
+
+  
+Mateus Bezrutchka (SP) - Medalha de Prata
+
+Arthur Ferreira do Nascimento (SP) - Medalha de Prata
+
+Arthur Pratti Dadalto (ES) - Medalha de Prata
+
+Michel Rozenberg Zelazny (SP) - Medalha de Bronze
+
+
+
 ### 2013 - Brisbane, Austrália
 
   
