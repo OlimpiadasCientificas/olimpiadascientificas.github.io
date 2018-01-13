@@ -1,7 +1,7 @@
 ---
 layout: olimpiada
 title: OBB
-link:  http://www.anbiojovem.org.br/
+link:  http://olimpiadasdebiologia.butantan.gov.br/
 image: obb.png
 fullname: Olimpíada Brasileira de Biologia
 ---
