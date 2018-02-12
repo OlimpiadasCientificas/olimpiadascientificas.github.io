@@ -189,7 +189,7 @@ fazer uma diferença positiva no Brasil, pois além de atuarmos diretamente com 
 
 
 
-[1]: {{ site.baseurl }}/olimpiadas/
+[1]: {{ site.baseurl }}/olimpiadas/por-que-participar/
 [2]: {{ site.baseurl }}/olimpiadas/olimpiadas-de-fisica/iypt-br/ "Fase Nacional do International Young Physicists' Tournament"
 [3]: {{ site.baseurl }}/olimpiadas/olimpiadas-de-quimica/tvq/ "Torneio Virtual de Química"
 [4]: {{ site.baseurl }}/ "Ou também OC."
