@@ -6,8 +6,27 @@ layout: default
 
 {%if paginator.page <= 1 %}
   {%endif%}
-  <h1 class="page-heading">Posts</h1>
   {% include list-posts.html %}
+    <h2 class="">Posts de outros sites sobre olimpíadas</h1>
+    <script language="JavaScript" src="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fnoic.com.br%2Frss&chan=y&num=15&au=y&date=y&utf=y&css=noic&html=a"  charset="UTF-8" t ype="text/javascript"></script>
+
+    <noscript>
+    <a href="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fnoic.com.br%2Frss&chan=y&num=15&au=y&date=y&utf=y&css=noic&html=y">View RSS feed</a>
+    </noscript>
+    
+<script language="JavaScript" src="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fwww.rssmix.com%2Fu%2F8276430%2Frss.xml&chan=titlelinkno&num=15&desc=300&au=y&date=y&utf=y&css=obmepeiros"  charset="UTF-8" type="text/javascript"></script>
+
+<noscript>
+<a href="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fwww.rssmix.com%2Fu%2F8276430%2Frss.xml&chan=titlelinkno&num=15&desc=300&au=y&date=y&utf=y&css=obmepeiros&html=y">View RSS feed</a>
+</noscript>
+
+
+
+   <br></br>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+<div class="text-center">
+  {% include nav_paginator.html %}
+</div>
 
 </div>
