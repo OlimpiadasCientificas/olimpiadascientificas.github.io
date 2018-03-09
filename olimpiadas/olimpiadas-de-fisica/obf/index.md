@@ -6,6 +6,7 @@ author:
 link: http://www.sbfisica.org.br/v1/olimpiada/ 
 image: obf.png
 fullname: Olimpíada Brasileira de Física
+redirect_from: /obf
 ---
 
 **O que é:** Olimpíada de Física para estudantes brasileiros (EF II e

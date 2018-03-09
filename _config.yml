@@ -36,11 +36,15 @@ excerpt_separator: "<!--more-->"
 permalink: /:year/:month/:day/:title/
 
 
-gems: [jekyll-paginate]
+
 paginate: 10
 
 prose:
   rooturl: ''
   siteurl: 'http://olimpiadascientificas.github.io/'
   media: 'static/images'
+  
+plugins:
+  - jekyll-redirect-from
+  - jekyll-paginate
   
