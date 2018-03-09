@@ -5,7 +5,7 @@ link:  https://obap.ifsuldeminas.edu.br/
 image: obap.png
 author: admin
 fullname: Olimpíada Brasileira de Agropecuária
-redirect_from: /obb
+redirect_from: /obap
 --- 
 
   
