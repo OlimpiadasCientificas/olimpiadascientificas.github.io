@@ -6,6 +6,10 @@ author:
 link: 
 image: oibf.png
 fullname: Olimpíada Iberoamericana de Física
+redirect_from: 
+    - /oibf
+    - /olimpiadas/olimpiadas-de-fisica/oibf-iberoamericana
+ano: 2015
 ---
 
 

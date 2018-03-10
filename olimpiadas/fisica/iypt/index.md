@@ -1,11 +1,15 @@
 ---
 layout: olimpiada
-title: OIbF
+title: IYPT
 author:
   display_name: Barbara
 link: http://iypt.org 
 image: logo-iypt.png
 fullname: International Young Physiscist's Tournament
+redirect_from: 
+    - /iypt
+    - /olimpiadas/olimpiadas-de-fisica/iypt
+ano: 2015
 ---
 
 Nesta página você encontrará algumas informações gerais sobre o [International Young Physiscist\'s Tournament][2] (IYPT).

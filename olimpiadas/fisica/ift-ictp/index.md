@@ -4,6 +4,10 @@ title: IFT-ICTP
 link:  http://www.ictp-saifr.org/?page_id=9199
 image: iftictp.png
 fullname: Prêmio IFT-ICTP para Jovens Físicos
+redirect_from: 
+    - /ift-ictp
+    - /olimpiadas/olimpiadas-de-fisica/ift-ictp
+ano: 2015
 ---
 
 ### O que é?

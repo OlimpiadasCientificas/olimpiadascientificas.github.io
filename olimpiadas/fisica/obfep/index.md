@@ -4,6 +4,10 @@ fullname: Olimpíada Brasileira de Física das Escolas Públicas
 title: OBFEP
 image: obfep.png
 link: http://www.sbfisica.org.br/~obfep
+redirect_from: 
+    - /obfep
+    - /olimpiadas/olimpiadas-de-fisica/obfep
+ano: 2015
 ---
 
 **Site da competição: **[OBFEP Oficial](www.sbfisica.org.br/~obfep/&lrm; "Site oficial da OBFEP"){: target="_blank"}
