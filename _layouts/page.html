@@ -11,7 +11,7 @@ layout: default
     {{ content }}
   </div>
 </article>
-{% if page.comments %}
+{% if page.comment == true %}
 {% include comments.html %}
 {% endif %}
 
