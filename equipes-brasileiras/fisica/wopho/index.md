@@ -5,10 +5,10 @@ author:
     display_name: Ivan Tadeu Ferreira Antunes Filho     
 ---
 
-#WoPhO (World Physics Olympiad)#
+# WoPhO (World Physics Olympiad)
 
   
-[![Logo da WoPhO](/wp-content/uploads/2013/01/Logo_WoPhO-350x124.jpg){: .size-medium .wp-image-4577 .aligncenter width="350" height="124"}][1]
+[![Logo da WoPhO](/static/images/wopho.png){: .size-medium .wp-image-4577 .aligncenter width="350" height="124"}][1]
 
 ## 2012/2013 - Tangerang, Indonésia
 
