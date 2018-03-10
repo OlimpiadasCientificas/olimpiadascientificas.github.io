@@ -4,6 +4,10 @@ title: OIaB
 link:  http://www.anbiojovem.org.br/
 image: oiab.png
 fullname: Olimpíada Iberoamericana de Biologia
+redirect_from: 
+    - /oiab
+    - /olimpiadas/olimpiadas-de-biologia/oiab
+ano: 2015
 ---
 
 

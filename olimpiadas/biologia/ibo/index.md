@@ -4,6 +4,10 @@ title: IBO
 link:  http://www.ibo-info.org/
 image: ibo.png
 fullname: International Biology Olympiad - Olimpíada Internacional de Biologia
+redirect_from: 
+    - /ibo
+    - /olimpiadas/olimpiadas-de-biologia/ibo
+ano: 2015
 ---
 
 **O que é**

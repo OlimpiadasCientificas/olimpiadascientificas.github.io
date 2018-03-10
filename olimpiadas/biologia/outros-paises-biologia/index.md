@@ -4,6 +4,9 @@ title: Outros Paises - Biologia
 link:  
 image: obb1.png
 fullname: Outros Paises - Biologia
+redirect_from: 
+    - /olimpiadas/olimpiadas-de-biologia/outros-paises-biologia
+ano: 2015
 ---
 
 Olimpíadas Nacionais e Regionais de Biologia em outros países. Os nomes marcados em \* são páginas que possuem versão em inglês; marcados com # possuem páginas em espanhol.

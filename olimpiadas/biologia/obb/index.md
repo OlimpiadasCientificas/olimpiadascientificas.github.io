@@ -4,7 +4,10 @@ title: OBB
 link:  http://olimpiadasdebiologia.butantan.gov.br/Paginas/default.aspx
 image: obb.png
 fullname: Olimpíada Brasileira de Biologia
-redirect_from: /obb
+redirect_from: 
+    - /obb
+    - /olimpiadas/olimpiadas-de-biologia/obb
+ano: 2015
 ---
 
 
