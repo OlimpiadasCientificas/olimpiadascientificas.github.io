@@ -3,7 +3,9 @@ layout: olimpiada
 link: http://www.oma.org.ar/internacional/may.htm
 image: maio.png 
 fullname: Olimpíada de Maio 
-redirect_from: /maio
+redirect_from: 
+    - /maio
+    - /olimpiadas/olimpiadas-de-matematica/olimpiada-de-maio
 ano: 2015
 status: publish
 published: true

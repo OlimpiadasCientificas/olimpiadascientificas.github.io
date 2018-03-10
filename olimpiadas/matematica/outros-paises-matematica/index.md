@@ -3,6 +3,8 @@ layout: olimpiada
 link: 
 image: 
 fullname: "Outros Países: Matemática"
+redirect_from: 
+    - /olimpiadas/olimpiadas-de-matematica/outros-paises-matematica
 ano: 2015
 status: publish
 published: true

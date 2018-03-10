@@ -3,7 +3,9 @@ layout: olimpiada
 link: http://www.oei.es/oim/index.html
 image: oim.png 
 fullname: Olimpíada Ibero-Americana de Matemática 
-redirect_from: /oim 
+redirect_from: 
+    - /oim
+    - /olimpiadas/olimpiadas-de-matematica/ibero-americana
 ano: 2015
 status: publish
 published: true

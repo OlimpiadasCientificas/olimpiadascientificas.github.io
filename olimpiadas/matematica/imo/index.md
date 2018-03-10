@@ -3,7 +3,9 @@ layout: olimpiada
 link: http://www.imo-official.org/
 image: imo.png 
 fullname:  Olimpíada Internacional de Matemática
-redirect_from: /imo 
+redirect_from: 
+    - /imo
+    - /olimpiadas/olimpiadas-de-matematica/imo
 ano: 2015
 status: publish
 published: true

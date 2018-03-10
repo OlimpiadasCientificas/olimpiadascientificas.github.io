@@ -3,7 +3,10 @@ layout: olimpiada
 link: http://www.obm.org.br/
 image: obm.png 
 fullname: Olimpíada Brasileira de Matemática 
-redirect_from: /obm
+redirect_from: 
+    - /obm
+    - /olimpiadas/olimpiadas-de-matematica/obm
+ano: 2015
 status: publish
 published: true
 title: OBM

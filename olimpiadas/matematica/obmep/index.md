@@ -3,7 +3,9 @@ layout: olimpiada
 link: http://www.obmep.org.br/
 image: obmep.png 
 fullname: Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP) 
-redirect_from: /obmep
+redirect_from: 
+    - /obmep
+    - /olimpiadas/olimpiadas-de-matematica/obmep
 ano: 2015
 status: publish
 published: true

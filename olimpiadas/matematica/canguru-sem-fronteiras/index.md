@@ -6,6 +6,10 @@ title: Canguru Sem fronteiras
 link: http://www.math-ksf.org/index.php?menu=doc&amp;id=Charter.swf
 image: canguru.png
 fullname: KANGOUROU SANS FRONTIERES
+redirect_from: 
+    - /csf
+    - /olimpiadas/olimpiadas-de-matematica/canguru-sem-fronteiras
+ano: 2015
 ---
 
 ### **O que é**

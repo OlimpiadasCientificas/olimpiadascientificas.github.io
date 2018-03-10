@@ -6,6 +6,7 @@ fullname: Olimpíada de Matemática da Lusofonia (OML)
 redirect_from: 
                 - /oml
                 - /omcplp
+                - /olimpiadas/olimpiadas-de-matematica/olimpiada-de-matematica-da-lusofonia
 ano: 2015
 status: publish
 published: true
