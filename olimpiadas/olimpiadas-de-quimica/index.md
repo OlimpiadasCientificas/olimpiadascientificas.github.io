@@ -19,6 +19,6 @@ categories: []
 tags: []
 comments: []
 ---
-<p>(Em breve)</p>
-<p>Um texto sobre as olimpíadas de química e por que participar delas.</p>
-<p> </p>
+(Em breve)
+
+Um texto sobre as olimpíadas de química e por que participar delas.

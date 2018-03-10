@@ -6,13 +6,19 @@ layout: default
   <header class="olimpiada-header">
    <div class="warning">
     <h3>
-      Esta página não é atualizada desde 2015. <br>Acesse a <a href="{{page.link}}"> página oficial da competição </a> ou a <a href="https://pt.wikipedia.org/wiki/Olimp%C3%ADadas_de_Conhecimento"> wikipedia </a> para as informações mais recentes.
+      Esta página não é atualizada desde 2015. <br>Acesse a <a href="{{page.link}}"> página oficial da competição </a> ou a <a href="https://pt.wikipedia.org/wiki/Olimp%C3%ADadas_de_Conhecimento"> wikipedia </a> para as informações mais recentes. <br>
     </h3>
   </div>
+  {% if page.link %}
   <a href="{{page.link}}">
+  {% endif %}
+  {% if page.image %}
     <img src="{{ site.baseurl }}/static/images/{{page.image}}" alt="{{page.title}}" style="margin: auto; display: block;">
+  {% endif %}
     <h1 style="text-align: center"><strong>{{page.fullname}}</strong></h1>
-    </a>
+  {% if page.link %}
+  </a>
+  {% endif %}
   </header>
   <div class="olimpiada-content">
     {{ content }}

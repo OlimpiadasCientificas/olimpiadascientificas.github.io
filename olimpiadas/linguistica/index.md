@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Física
+title: Linguística
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
   login: itadeufa
@@ -11,14 +11,14 @@ author:
 author_login: itadeufa
 author_email: itadeufa@gmail.com
 author_url: http://ivan.olimpiadascientificas.com
-wordpress_id: 2184
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=2184
-date: '2012-06-26 19:29:28 -0400'
-date_gmt: '2012-06-26 22:29:28 -0400'
+wordpress_id: 2634
+wordpress_url: http://www.olimpiadascientificas.com/?page_id=2634
+date: '2012-07-12 16:30:44 -0400'
+date_gmt: '2012-07-12 19:30:44 -0400'
 categories: []
 tags: []
 comments: []
 ---
-<p>(Em breve)</p>
-<p>Um texto sobre as olimpíadas de física e por que participar delas.</p>
-<p> </p>
+(Em breve)
+
+Um texto sobre as olimpíadas de linguística e por que participar delas.
