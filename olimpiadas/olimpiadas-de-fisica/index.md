@@ -12,7 +12,7 @@ author_login: itadeufa
 author_email: itadeufa@gmail.com
 author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 2184
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=2184
+wordpress_url: /?page_id=2184
 date: '2012-06-26 19:29:28 -0400'
 date_gmt: '2012-06-26 22:29:28 -0400'
 categories: []

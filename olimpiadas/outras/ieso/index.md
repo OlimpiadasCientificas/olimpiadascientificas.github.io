@@ -17,7 +17,7 @@ author_login: cassioss
 author_email: cassiosantossousa@gmail.com
 author_url: http://cassio.olimpiadascientificas.com
 wordpress_id: 4654
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=4654
+wordpress_url: /?page_id=4654
 date: '2013-01-28 01:13:01 -0500'
 date_gmt: '2013-01-28 03:13:01 -0500'
 categories: []
@@ -144,9 +144,9 @@ Veja a página dos [times participantes da IESO][3] em nosso site, com comentár
 
 
 
-[1]: http://www.olimpiadascientificas.com/ieso/ "Logo da IESO"
-[2]: http://www.olimpiadascientificas.com/olimpiadas/outras/obap/ "OBAP"
-[3]: http://www.olimpiadascientificas.com/equipes-brasileiras/interdisciplinar/ieso/ "Países e participação brasileira na IESO"
+[1]: /ieso/ "Logo da IESO"
+[2]: /olimpiadas/outras/obap/ "OBAP"
+[3]: /equipes-brasileiras/interdisciplinar/ieso/ "Países e participação brasileira na IESO"
 [4]: http://eartholympiad.webs.com/ "Site indiano sobre a IESO"
 [5]: http://en.wikipedia.org/wiki/International_Earth_Science_Olympiad "Página da IESO em Inglês"
 [6]: http://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Ci%C3%AAncias_da_Terra "Versão em Português da IESO"

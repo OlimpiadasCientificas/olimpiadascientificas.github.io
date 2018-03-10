@@ -16,7 +16,7 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 2311
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=2311
+wordpress_url: /?page_id=2311
 date: '2012-06-30 23:24:37 -0400'
 date_gmt: '2012-07-01 02:24:37 -0400'
 categories: []
@@ -96,7 +96,7 @@ Fonte: [OBMEP][3]{: target="_blank"} / [Fan Page OBMEP][7]{: target="_blank"}
 
 
 
-[1]: http://www.olimpiadascientificas.com/wp-content/uploads/2014/02/logo_obmep2014.png
+[1]: /wp-content/uploads/2014/02/logo_obmep2014.png
 [2]: http://www.obmep.org.br/
 [3]: http://www.obmep.org.br "Página Oficial da OBMEP"
 [4]: http://www.obmep.org.br/provas.htm "Provas e soluções"

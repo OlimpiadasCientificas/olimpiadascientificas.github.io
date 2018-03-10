@@ -68,7 +68,7 @@ principais fontes de estudos, sugerimos:
 
 
 [1]: http://sites.google.com/site/olimpiadalinguistica/home
-[2]: http://www.olimpiadascientificas.com/olimpiadas/linguistica/iol/ "IOL"
+[2]: /olimpiadas/linguistica/iol/ "IOL"
 [3]: http://pt.wikipedia.org/wiki/Fonologia_da_l%C3%ADngua_portuguesa
 [4]: http://ivan.olimpiadascientificas.com/?download=Linguistica
 [5]: https://sites.google.com/site/olimpiadalinguistica/provas-anteriores

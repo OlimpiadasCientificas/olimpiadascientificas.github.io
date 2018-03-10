@@ -120,6 +120,6 @@ A OBB premia os 10 primeiros colocado com uma semana de treinamento no Rio de Ja
 
 
 [1]: http://www.anbiojovem.org.br/
-[2]: http://www.olimpiadascientificas.com/estudo/biologia/
-[3]: http://www.olimpiadascientificas.com/olimpiadas/internacionais/ibo/
-[4]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-biologia/oiab/
+[2]: /estudo/biologia/
+[3]: /olimpiadas/internacionais/ibo/
+[4]: /olimpiadas/olimpiadas-de-biologia/oiab/

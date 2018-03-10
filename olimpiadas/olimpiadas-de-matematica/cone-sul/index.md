@@ -31,7 +31,7 @@ Vejam os premiados e as equipes brasileiras participantes do Cone Sul na área [
 Para a seleção, acesse o [blog][4]{: target="_blank"} onde é dado listas de treinamento e seleção para a olimpíada. Já para a prova, vejam as [provas anteriores][5]{: target="_blank"} no site oficial da OBM.
 
 [1]: http://www.obm.org.br/opencms/competicoes/internacionais/olimp_conesul.html "Cone Sul"
-[2]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-matematica/obm/ "OBM"
-[3]: http://www.olimpiadascientificas.com/equipes-brasileiras/matematica/cone-sul/ "Equipes Brasileira"
+[2]: /olimpiadas/olimpiadas-de-matematica/obm/ "OBM"
+[3]: /equipes-brasileiras/matematica/cone-sul/ "Equipes Brasileira"
 [4]: http://www.treinamentoconesul.blogspot.com "Treinamento Cone Sul"
 [5]: http://www.obm.org.br/opencms/como_se_preparar/provas/provas_conesul.html "Provas anteriores"

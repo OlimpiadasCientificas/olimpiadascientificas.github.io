@@ -37,7 +37,7 @@ A seleção é feita por meio da [OBI][4] - [Olimpíada Brasileira de Informáti
 
 A IOI disponibiliza seu syllabus, lista de conteúdos que podem e não podem cair na competição: [http://people.ksp.sk/~misof/ioi-syllabus/ioi-syllabus.pdf][5]
 
-Sugestões de materiais para estudo e treinamento podem ser encontrados na nossa página: [http://www.olimpiadascientificas.com/estudo/informatica/][6]{: target="_blank"}
+Sugestões de materiais para estudo e treinamento podem ser encontrados na nossa página: [/estudo/informatica/][6]{: target="_blank"}
 
  
 
@@ -79,7 +79,7 @@ Os exercícios das edições passadas podem ser encontradas nos respectivos site
 
 **Equipes Brasileiras**
 
-[http://www.olimpiadascientificas.com/equipes-brasileiras/informatica/ioi/][15]
+[/equipes-brasileiras/informatica/ioi/][15]
 
  
 
@@ -95,9 +95,9 @@ Os exercícios das edições passadas podem ser encontradas nos respectivos site
 [1]: http://ioinformatics.org/
 [2]: http://www.ioi2012.org/competition/rules/
 [3]: http://ioinformatics.org/rules/
-[4]: http://www.olimpiadascientificas.com/olimpiadas/informatica/obi/
+[4]: /olimpiadas/informatica/obi/
 [5]: http://people.ksp.sk/~misof/ioi-syllabus/ioi-syllabus.pdf
-[6]: http://www.olimpiadascientificas.com/estudo/informatica/
+[6]: /estudo/informatica/
 [7]: http://www.spoj.com/OI/problems/main/
 [8]: http://www.ioi2013.org
 [9]: http://www.ioi2012.org/
@@ -106,7 +106,7 @@ Os exercícios das edições passadas podem ser encontradas nos respectivos site
 [12]: http://www.ioi2009.org/
 [13]: http://br.spoj.com/problems/seletiva_ioi/
 [14]: http://olimpiada.ic.unicamp.br/
-[15]: http://www.olimpiadascientificas.com/equipes-brasileiras/informatica/ioi/
+[15]: /equipes-brasileiras/informatica/ioi/
 [16]: http://ioinformatics.org
 [17]: http://www.ioi2012.org
 [18]: http://olympiads.win.tue.nl/ioi/study/books.html

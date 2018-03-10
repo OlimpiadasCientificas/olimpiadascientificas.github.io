@@ -66,7 +66,7 @@ parte teórica e uma parte prática e será aplicada  nos  Centros de Aplicaç
 ## Calendário da OBFEP 2012
 
   
-[![](http://www.olimpiadascientificas.com/wp-content/uploads/2012/07/Calendário-OBFEP-20121-500x258.jpg){: .aligncenter .size-large .wp-image-2444 width="500" height="258"}][3]{: rel="attachment wp-att-2444"}
+[![](/wp-content/uploads/2012/07/Calendário-OBFEP-20121-500x258.jpg){: .aligncenter .size-large .wp-image-2444 width="500" height="258"}][3]{: rel="attachment wp-att-2444"}
 
 ## Níveis de Participação
 
@@ -267,5 +267,5 @@ Fonte: [site oficial da OBFEP](www.sbfisica.org.br/~obfep/&lrm; "Site oficial da
 
 
 [1]: http://www.sbf1.sbfisica.org.br/olimpiadas/obfep2012/index.html
-[2]: http://www.olimpiadascientificas.com/estudo/fisica/
-[3]: http://www.olimpiadascientificas.com/olimpiadas/nacionais/obfep/calendario-obfep-2012-2/
+[2]: /estudo/fisica/
+[3]: /olimpiadas/nacionais/obfep/calendario-obfep-2012-2/

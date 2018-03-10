@@ -17,7 +17,7 @@ author_login: itadeufa
 author_email: itadeufa@gmail.com
 author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 3256
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=3256
+wordpress_url: /?page_id=3256
 date: '2012-09-13 21:32:37 -0400'
 date_gmt: '2012-09-14 00:32:37 -0400'
 categories: []
@@ -124,9 +124,9 @@ Fontes:<strong> </strong>[Romanian Master of Mathematics][1]{: target="_blank"} 
 
 [1]: http://rmm.lbi.ro/ "RMM - Romanian Master of Mathematics"
 [2]: http://rmm.lbi.ro/index.php?id=regulation "Regulamento"
-[3]: http://www.olimpiadascientificas.com/estudo/matematica/ "Estudo Matemática"
+[3]: /estudo/matematica/ "Estudo Matemática"
 [4]: http://www.obm.org.br/opencms/como_se_preparar/provas/provas_rmm.html "OBM"
 [5]: http://rmm.lbi.ro/index.php?id=problems_math "Provas"
-[6]: http://www.olimpiadascientificas.com/equipes-brasileiras/matematica/rmm/ "Equipes RMM"
+[6]: /equipes-brasileiras/matematica/rmm/ "Equipes RMM"
 [7]: http://rmm.lbi.ro/index.php?id=results_math "RMM"
 [8]: http://www.obm.org.br/opencms/competicoes/internacionais/RMM.html "OBM"

@@ -94,4 +94,4 @@ Fonte: [http://www.obm.org.br/opencms/][1]{: target="_blank"}
 [8]: http://www.obm.org.br/opencms/como_se_preparar/bibliografia/
 [9]: http://www.obm.org.br/opencms/como_se_preparar/links/
 [10]: http://www.obm.org.br/opencms/como_se_preparar/lista_discussao/
-[11]: http://www.olimpiadascientificas.com/estudo/matematica/
+[11]: /estudo/matematica/

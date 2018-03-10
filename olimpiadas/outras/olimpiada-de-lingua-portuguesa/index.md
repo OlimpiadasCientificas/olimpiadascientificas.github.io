@@ -16,7 +16,7 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 2310
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=2310
+wordpress_url: /?page_id=2310
 date: '2012-06-30 23:39:46 -0400'
 date_gmt: '2012-07-01 02:39:46 -0400'
 categories: []

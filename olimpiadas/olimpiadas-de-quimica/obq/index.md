@@ -120,5 +120,5 @@ enviados por correio.
 
 
 [1]: http://www.obquimica.org/
-[2]: http://www.olimpiadascientificas.com/estudo/quimica/ "dicas de estudo"
+[2]: /estudo/quimica/ "dicas de estudo"
 [3]: http://www.obq.ufc.br/obqexam.html

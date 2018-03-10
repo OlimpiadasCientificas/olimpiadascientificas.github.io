@@ -8,7 +8,7 @@ author:
 #WoPhO (World Physics Olympiad)#
 
   
-[![Logo da WoPhO](http://www.olimpiadascientificas.com/wp-content/uploads/2013/01/Logo_WoPhO-350x124.jpg){: .size-medium .wp-image-4577 .aligncenter width="350" height="124"}][1]
+[![Logo da WoPhO](/wp-content/uploads/2013/01/Logo_WoPhO-350x124.jpg){: .size-medium .wp-image-4577 .aligncenter width="350" height="124"}][1]
 
 ## 2012/2013 - Tangerang, Indonésia
 
@@ -22,4 +22,4 @@ Gabriel Bonuccelli Heringer Lisboa
 
 
 
-[1]: http://www.olimpiadascientificas.com/equipes-brasileiras/fisica/wopho/ "Logo da WoPhO"
+[1]: /equipes-brasileiras/fisica/wopho/ "Logo da WoPhO"

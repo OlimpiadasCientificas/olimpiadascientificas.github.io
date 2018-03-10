@@ -12,7 +12,7 @@ author_login: itadeufa
 author_email: itadeufa@gmail.com
 author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 2626
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=2626
+wordpress_url: /?page_id=2626
 date: '2012-07-12 09:00:31 -0400'
 date_gmt: '2012-07-12 12:00:31 -0400'
 categories: []
@@ -56,4 +56,4 @@ certeza que você será bem acolhido :)
 
 
 
-[1]: http://www.olimpiadascientificas.com/olimpiadas/ "Por que participar?"
+[1]: /olimpiadas/ "Por que participar?"

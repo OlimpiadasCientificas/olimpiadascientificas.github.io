@@ -157,8 +157,8 @@ Fontes:
 
 
 
-[1]: http://www.olimpiadascientificas.com/equipes-brasileiras/astronomia/iao/iao-2003/
-[2]: http://www.olimpiadascientificas.com/equipes-brasileiras/astronomia/iao/iao-2002/
-[3]: http://www.olimpiadascientificas.com/equipes-brasileiras/astronomia/iao/iao-2000/
-[4]: http://www.olimpiadascientificas.com/equipes-brasileiras/astronomia/iao/iao-1999/
+[1]: /equipes-brasileiras/astronomia/iao/iao-2003/
+[2]: /equipes-brasileiras/astronomia/iao/iao-2002/
+[3]: /equipes-brasileiras/astronomia/iao/iao-2000/
+[4]: /equipes-brasileiras/astronomia/iao/iao-1999/
 [5]: http://www.oba.org.br/site/?p=conteudo&amp;pag=conteudo&amp;idconteudo=557&amp;idcat=10&amp;subcat=

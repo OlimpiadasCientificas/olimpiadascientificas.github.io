@@ -18,7 +18,7 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 4780
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=4780
+wordpress_url: /?page_id=4780
 date: '2013-01-20 19:38:02 -0500'
 date_gmt: '2013-01-20 21:38:02 -0500'
 categories: []
@@ -86,5 +86,5 @@ Fonte: [Brasil][4]{: target="_blank"} / [OBM][1]{: target="_blank"}
 
 [1]: http://www.obm.org.br/opencms/competicoes/internacionais/lusofonia.html "Lusofonia"
 [2]: http://www.uc.pt/fctuc/dmat/oml/Regulamento "Regulamento"
-[3]: http://www.olimpiadascientificas.com/equipes-brasileiras/matematica/lusofonia/ "Equipes Brasileira"
+[3]: /equipes-brasileiras/matematica/lusofonia/ "Equipes Brasileira"
 [4]: http://www.brasil.gov.br/noticias/arquivos/2012/07/31/brasil-conquista-o-primeiro-lugar-nas-olimpiadas-de-matematica "Brasil"

@@ -119,12 +119,12 @@ Em 2013, o modelo sofreu uma pequena alteração:
 
 
 
-[1]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-fisica/iypt-br/
+[1]: /olimpiadas/olimpiadas-de-fisica/iypt-br/
 [2]: http://iypt.com.br "Site oficial do IYPT Brasil"
-[3]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-fisica/iypt/ "IYPT"
+[3]: /olimpiadas/olimpiadas-de-fisica/iypt/ "IYPT"
 [4]: http://iypt.com.br/contato.html "Contato - IYPT Brasil"
 [5]: http://iypt.com.br/regulamento.html "Regulamento - IYPT Brasil"
 [6]: http://iypt.com.br/problemas.html "Problemas do IYPT"
-[7]: http://www.olimpiadascientificas.com/estudo/iypt/ "Estudo - IYPT"
+[7]: /estudo/iypt/ "Estudo - IYPT"
 [8]: http://iyptbr.wordpress.com/ "IYPT BR - blog"
-[9]: http://www.olimpiadascientificas.com/olimpiadas/internacionais/iypt/ "IYPT - informações sobre a internacional"
+[9]: /olimpiadas/internacionais/iypt/ "IYPT - informações sobre a internacional"

@@ -74,4 +74,4 @@ Vale ressaltar que o prêmio FIFT premiava do 6º ao 10º colocados com uma Men�
 
 [1]: http://www.ictp-saifr.org/?page_id=3246 "Com explicações gerais sobre a competição."
 [2]: http://www.ift.unesp.br/premioFIFT/ "A consulta a estas provas é fortemente sugerida aos participantes."
-[3]: http://www.olimpiadascientificas.com/equipes-brasileiras/fisica/premio-ift-ictp-fift/ "Completa, com classificação e prêmios obtidos"
+[3]: /equipes-brasileiras/fisica/premio-ift-ictp-fift/ "Completa, com classificação e prêmios obtidos"

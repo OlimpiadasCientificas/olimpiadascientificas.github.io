@@ -16,7 +16,7 @@ author:
 author_login: guihenrique
 author_email: guilhermehpa97@hotmail.com
 wordpress_id: 8091
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=8091
+wordpress_url: /?page_id=8091
 date: '2014-05-20 23:07:21 -0400'
 date_gmt: '2014-05-21 02:07:21 -0400'
 categories: []
@@ -131,7 +131,7 @@ Solving). Recomenda-se também resolver os problemas das edições passadas, as 
 [2]: http://www.onlinescienceolympiads.org/#!contact/cgbd "Contato - IPhOO"
 [3]: http://www.onlinescienceolympiads.org/#!register/cg09 "Registro"
 [4]: http://www.onlinescienceolympiads.org/#!about/cq4r "Inscrição"
-[5]: http://www.olimpiadascientificas.com/estudo/fisica/ "Estudos - Física"
+[5]: /estudo/fisica/ "Estudos - Física"
 [6]: https://brilliant.org "Brilliant"
 [7]: http://www.artofproblemsolving.com/ "AoPS"
 [8]: http://www.onlinescienceolympiads.org/#!project/cngp "Past Contests"

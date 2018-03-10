@@ -16,7 +16,7 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 3993
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=3993
+wordpress_url: /?page_id=3993
 date: '2012-11-04 14:00:27 -0500'
 date_gmt: '2012-11-04 17:00:27 -0500'
 categories: []
@@ -24,7 +24,7 @@ tags: []
 comments: []
 ---
 
-### **[![](http://www.olimpiadascientificas.com/wp-content/uploads/2012/11/ibero-matematica.png "Olimpíada Ibero-Americana de Matemática"){: .aligncenter .size-full .wp-image-4016 width="208" height="165"}][1]**
+### **[![](/wp-content/uploads/2012/11/ibero-matematica.png "Olimpíada Ibero-Americana de Matemática"){: .aligncenter .size-full .wp-image-4016 width="208" height="165"}][1]**
 {: style="text-align: center;"}
 
 
@@ -110,8 +110,8 @@ Fonte: [OBM][6]{: target="_blank"}
 
 
 [1]: http://www.oei.es/oim/index.html
-[2]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-matematica/obm/ "OBM"
-[3]: http://www.olimpiadascientificas.com/estudo/matematica/ "Estudo Matemática"
+[2]: /olimpiadas/olimpiadas-de-matematica/obm/ "OBM"
+[3]: /estudo/matematica/ "Estudo Matemática"
 [4]: http://www.obm.org.br/opencms/como_se_preparar/provas/provas_ibero.html "Provas Anteriores"
 [5]: http://imoibero.blogspot.com.br/ "Seleção para a IMO e Iberoamericana"
 [6]: http://www.obm.org.br "OBM"

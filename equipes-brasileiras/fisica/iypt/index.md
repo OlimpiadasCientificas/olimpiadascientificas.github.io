@@ -12,7 +12,7 @@ author_login: cassioss
 author_email: cassiosantossousa@gmail.com
 author_url: http://cassio.olimpiadascientificas.com
 wordpress_id: 1390
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=1390
+wordpress_url: /?page_id=1390
 date: '2012-03-18 23:21:11 -0400'
 date_gmt: '2012-03-19 02:21:11 -0400'
 categories: []

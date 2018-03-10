@@ -128,8 +128,8 @@ e serviços ofertados por patrocinadores, e serão divulgados juntamente com a c
 
 
 [1]: http://www.obr.org.br/
-[2]: http://www.olimpiadascientificas.com/#
-[3]: http://www.olimpiadascientificas.com/
+[2]: /#
+[3]: /
 [4]: http://www.cnpq.br/
 [5]: http://www.obr.org.br/?page_id=41
 [6]: http://www.obr.org.br/?page_id=45

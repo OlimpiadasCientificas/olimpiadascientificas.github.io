@@ -221,11 +221,11 @@ No país, há um processo de seleção pelos quais participam premiados com meda
 
 
 [1]: http://www.imo-official.org/ "IMO"
-[2]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-matematica/obm/ "OBM"
+[2]: /olimpiadas/olimpiadas-de-matematica/obm/ "OBM"
 [3]: http://olympiads.win.tue.nl/imo/index.html "IMO"
 [4]: http://imoibero.blogspot.com.br/ "Seleção para a IMO e Iberoamericana"
 [5]: http://www.obm.org.br/opencms/como_se_preparar/provas/provas_oim.html "Provas Anteriores"
-[6]: http://www.olimpiadascientificas.com/estudo/matematica/ "Estudo de Matemática"
-[7]: http://www.olimpiadascientificas.com/equipes-brasileiras/matematica/imo/ "Equipes IMO"
+[6]: /estudo/matematica/ "Estudo de Matemática"
+[7]: /equipes-brasileiras/matematica/imo/ "Equipes IMO"
 [8]: http://www.obm.org.br/opencms/ "OBM"
 [9]: http://pt.wikipedia.org/wiki/Olimp%C3%ADada_Internacional_de_Matem%C3%A1tica "Wikipédia"

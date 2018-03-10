@@ -142,5 +142,5 @@ Nós recomendamos : [Estudo informática][6]{: target="_self"}, [IOI][7]{: targe
 [3]: http://www.unicamp.br/
 [4]: http://olimpiada.ic.unicamp.br/info_geral/programacao/programacao_nivel1/dicas
 [5]: http://olimpiada.ic.unicamp.br/info_geral
-[6]: http://www.olimpiadascientificas.com/estudo/informatica/
-[7]: http://www.olimpiadascientificas.com/olimpiadas/internacionais/ioi/
+[6]: /estudo/informatica/
+[7]: /olimpiadas/internacionais/ioi/

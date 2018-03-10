@@ -9,7 +9,7 @@ fullname: International Linguistics Olympiad- Olimpíada Internacional de Lingu�
 
 **O que é**
 
-[http://www.olimpiadascientificas.com/artigos/o-que-e-a-olimpiada-de-linguistica/][2]
+[/artigos/o-que-e-a-olimpiada-de-linguistica/][2]
 
 **Link para o regulamento**
 
@@ -43,7 +43,7 @@ A seleção é feita pela OBL, Olimpíada Brasileira de Linguística.
 
 **O que estudar**
 
-[http://www.olimpiadascientificas.com/estudo/linguistica/][4]{: target="_blank"}
+[/estudo/linguistica/][4]{: target="_blank"}
 
 [Manual incompleto de resolução de problemas de linguística][4]{: target="_blank"}
 
@@ -81,7 +81,7 @@ Problemas e organização
 
 **Equipes Brasileiras**-
 
-[http://www.olimpiadascientificas.com/equipes-brasileiras/linguistica/iol/][7]
+[/equipes-brasileiras/linguistica/iol/][7]
 
  
 
@@ -95,9 +95,9 @@ Problemas e organização
 
 
 [1]: http://www.ioling.org/
-[2]: http://www.olimpiadascientificas.com/artigos/o-que-e-a-olimpiada-de-linguistica/
+[2]: /artigos/o-que-e-a-olimpiada-de-linguistica/
 [3]: http://www.ioling.org/rules/
-[4]: http://www.olimpiadascientificas.com/estudo/linguistica/  
+[4]: /estudo/linguistica/  
 [5]: http://www.ioling.org/2012/
 [6]: https://sites.google.com/site/olimpiadalinguistica/
-[7]: http://www.olimpiadascientificas.com/equipes-brasileiras/linguistica/iol/
+[7]: /equipes-brasileiras/linguistica/iol/

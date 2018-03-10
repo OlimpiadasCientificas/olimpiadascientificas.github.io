@@ -245,13 +245,13 @@ OBF: [2010][17], [2009][18], [2008][19], [2007][20], [2006][21], [2005][22], [20
 
    
 
-[1]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-fisica/obf/ "Olimpíada Brasileira de Física"
-[2]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-fisica/obfep/ "Olimpíada Brasileira de Física das Escolas Públicas"
-[3]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-fisica/ipho/ "International Physics Olympiad"
-[4]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-fisica/wopho/ "World Physics Olympiad"
-[5]: http://www.olimpiadascientificas.com/estaduaisregionais/sp/opf/ "Olimpíada Paulista de Física"
-[6]: http://www.olimpiadascientificas.com/static/pdf/formulasheet-pt_br1.0.pdf
-[7]: http://www.olimpiadascientificas.com/forum/viewforum.php?f=3
+[1]: /olimpiadas/olimpiadas-de-fisica/obf/ "Olimpíada Brasileira de Física"
+[2]: /olimpiadas/olimpiadas-de-fisica/obfep/ "Olimpíada Brasileira de Física das Escolas Públicas"
+[3]: /olimpiadas/olimpiadas-de-fisica/ipho/ "International Physics Olympiad"
+[4]: /olimpiadas/olimpiadas-de-fisica/wopho/ "World Physics Olympiad"
+[5]: /estaduaisregionais/sp/opf/ "Olimpíada Paulista de Física"
+[6]: /static/pdf/formulasheet-pt_br1.0.pdf
+[7]: /forum/viewforum.php?f=3
 [8]: http://www.ciencia-cultura.com/fisica.asp
 [9]: http://www.fisica.ufs.br/CorpoDocente/egsantana/
 [10]: http://www.physicsforums.com/library.php

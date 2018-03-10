@@ -20,7 +20,7 @@ comments: \[\]
 
 --- 
 
-# ![logoobbfinal2](http://www.olimpiadascientificas.com/static/images/obb1.png){: .aligncenter .size-thumbnail .wp-image-5937 width="132" height="150"}
+# ![logoobbfinal2](/static/images/obb1.png){: .aligncenter .size-thumbnail .wp-image-5937 width="132" height="150"}
 {: style="text-align: center;"}
 
 # Estudo: Biologia
@@ -166,12 +166,12 @@ Recomendação do site da OBB:
 
 
 
-[1]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-biologia/obb/
-[2]: http:/http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-biologia/ibo/
-[3]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-biologia/oiab/
-[4]: http://www.olimpiadascientificas.com/static/pdf/Resolu%C3%A7%C3%A3o_OBB_VI_fase2.pdf
-[5]: http://www.olimpiadascientificas.com/static/pdf/Resolu%C3%A7%C3%A3o_OBB_VII_fase2.pdf
-[6]: http://www.olimpiadascientificas.com/static/pdf/Resolução_OBB_IX_fase1.pdf
+[1]: /olimpiadas/olimpiadas-de-biologia/obb/
+[2]: http://olimpiadas/olimpiadas-de-biologia/ibo/
+[3]: /olimpiadas/olimpiadas-de-biologia/oiab/
+[4]: /static/pdf/Resolu%C3%A7%C3%A3o_OBB_VI_fase2.pdf
+[5]: /static/pdf/Resolu%C3%A7%C3%A3o_OBB_VII_fase2.pdf
+[6]: /static/pdf/Resolução_OBB_IX_fase1.pdf
 [7]: http://www.biologicando.com.br/site/bioconteudo/teoricos/Teoria___RESUMAO_GERAL_DE_BIOLOGIA_2008.pdf "Um ótimo resumão."
 [8]: http://www.biologicando.com.br/ "Cheio de dicas e curiosidades, para todos os gostos."
 [9]: http://www.professor.bio.br/index.asp "Questões de Vestibulares em geral, resolvidas e comentadas"

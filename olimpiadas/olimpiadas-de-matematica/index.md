@@ -14,7 +14,7 @@ author_login: itadeufa
 author_email: itadeufa@gmail.com
 author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 2585
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=2585
+wordpress_url: /?page_id=2585
 date: '2012-07-10 23:11:09 -0400'
 date_gmt: '2012-07-11 02:11:09 -0400'
 categories: []
@@ -58,4 +58,4 @@ José Robson Jr.
 
 
 
-[1]: http://www.olimpiadascientificas.com/olimpiadas/ "Por que participar?"
+[1]: /olimpiadas/ "Por que participar?"

@@ -116,17 +116,17 @@ Podendo haver prêmios especiais, como de melhor teórico ou melhor solução.
 
 
 
-Veja as equipes brasileiras no link: [http://www.olimpiadascientificas.com/equipes-brasileiras/fisica/oibf/][8]
+Veja as equipes brasileiras no link: [/equipes-brasileiras/fisica/oibf/][8]
 
 
 
 
 
 [1]: http://oc.uan.edu.co/oibf/oibfreg.htm "Em espanhol, de fácil entendimento."
-[2]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-fisica/obf/
-[3]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-fisica/ipho/
-[4]: http://www.olimpiadascientificas.com/wp-content/uploads/2012/08/Programa-OIBF.pdf "Programa da OIbF aqui no OC, só clicar."
-[5]: http://www.olimpiadascientificas.com/estudo/fisica/ "&Uacute;til para todas as olimpíadas de Física."
+[2]: /olimpiadas/olimpiadas-de-fisica/obf/
+[3]: /olimpiadas/olimpiadas-de-fisica/ipho/
+[4]: /wp-content/uploads/2012/08/Programa-OIBF.pdf "Programa da OIbF aqui no OC, só clicar."
+[5]: /estudo/fisica/ "&Uacute;til para todas as olimpíadas de Física."
 [6]: http://oc.uan.edu.co/oibf/oibf.htm
 [7]: http://olimpiadas.spf.pt/oibf/oibf.shtml
-[8]: http://www.olimpiadascientificas.com/equipes-brasileiras/fisica/oibf/
+[8]: /equipes-brasileiras/fisica/oibf/

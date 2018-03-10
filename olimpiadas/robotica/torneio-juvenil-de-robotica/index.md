@@ -16,15 +16,13 @@ author:
 author_login: augusto
 author_email: gutobenn@gmail.com
 wordpress_id: 1204
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=1204
+wordpress_url: /?page_id=1204
 date: '2012-01-22 01:30:08 -0500'
 date_gmt: '2012-01-22 04:30:08 -0500'
 categories: []
 tags: []
 comments: []
 ---
-
-[![](http://www.olimpiadascientificas.com/wp-content/uploads/2012/01/Logo2-TJR-2011-500x379.jpg "Logo2 TJR 2011"){: .aligncenter .size-large .wp-image-1211 width="500" height="379"}][1]
 
 **Torneio Juvenil de Robótica** é um dos eventos que busca promover a difusão e o desenvolvimento da robótica para estudantes em vários estados do Brasil.
 

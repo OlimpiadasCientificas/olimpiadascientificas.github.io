@@ -101,7 +101,7 @@ Além disto também são premiadas as 3 melhores equipes do Rally.
 
 **Equipes Brasileiras**
 
-Veja as equipes brasileiras passadas em: [http://www.olimpiadascientificas.com/equipes-brasileiras/biologia/ibero/][7]{: target="_blank"}
+Veja as equipes brasileiras passadas em: [/equipes-brasileiras/biologia/ibero/][7]{: target="_blank"}
 
  
 
@@ -117,10 +117,10 @@ Veja as equipes brasileiras passadas em: [http://www.olimpiadascientificas.com/
 
 [1]: http://www.oiab.org/
 [2]: http://www.oiab.org/descargas/Reglamento-OIAB.pdf
-[3]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-biologia/obb/
+[3]: /olimpiadas/olimpiadas-de-biologia/obb/
 [4]: http://www.oiab.org/temario.html
 [5]: http://www.anbiojovem.org.br/obb/index.php?mod=sec&amp;id_secao=11
 [6]: http://nossobioma.blogspot.com/2010/06/colecao-obb.html
-[7]: http://www.olimpiadascientificas.com/equipes-brasileiras/biologia/ibero/
+[7]: /equipes-brasileiras/biologia/ibero/
 [8]: http://www.oiab2012.com/#!__pt
 [9]: http://www.anbiojovem.org.br/obb/

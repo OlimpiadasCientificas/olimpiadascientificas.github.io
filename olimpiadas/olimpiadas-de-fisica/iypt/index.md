@@ -39,8 +39,8 @@ Após a seleção do time brasileiro, há alguns encontros presenciais para veri
 
 
 
-[1]: http://www.olimpiadascientificas.com/olimpiadas/internacionais/iypt/logo-iypt/
+[1]: /olimpiadas/internacionais/iypt/logo-iypt/
 [2]: http://iypt.org "IYPT - site oficial"
 [3]: http://iypt.org/Problems "Regulamento para proposição de problemas"
-[4]: http://www.olimpiadascientificas.com/olimpiadas/nacionais/iypt-br/ "OC - IYPT Brasil"
-[5]: http://www.olimpiadascientificas.com/estudo/iypt/ "Estudos - IYPT"
+[4]: /olimpiadas/nacionais/iypt-br/ "OC - IYPT Brasil"
+[5]: /estudo/iypt/ "Estudos - IYPT"

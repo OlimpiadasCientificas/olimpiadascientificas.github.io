@@ -116,8 +116,8 @@ Fonte: [http://www.torneiovirtualdequimica.com.br/][2]
 
 
 
-[1]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-quimica/tvq/tvq-3/
+[1]: /olimpiadas/olimpiadas-de-quimica/tvq/tvq-3/
 [2]: http://www.torneiovirtualdequimica.com.br/ "tvq"
 [3]: http://www.torneiovirtualdequimica.com.br/pdf/d06c96a0a6c95ea62bcf945d05abfa61.pdf "edital"
 [4]: http://www.torneiovirtualdequimica.com.br/exames.php "provas antigas tvq"
-[5]: http://www.olimpiadascientificas.com/estudo/quimica/ "estudo quimica"
+[5]: /estudo/quimica/ "estudo quimica"

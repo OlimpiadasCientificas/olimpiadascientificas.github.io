@@ -77,7 +77,7 @@ A maior competição internacional de biologia para alunos do ensino médio, ou
 > 
 > <strong>O que estudar / O que treinar/ Programa ou link para o programa </strong>
 > 
-> consulte o site de estudo de biologia para informações mais detalhadas sobre o treinamento para a parte teórica: [http://www.olimpiadascientificas.com/estudo/biologia/][4]
+> consulte o site de estudo de biologia para informações mais detalhadas sobre o treinamento para a parte teórica: [/estudo/biologia/][4]
 > 
 > Estude principalmente os livros Life e Campbell, que contém o suficiente para atender o temário, junto com todas as provas nacionais, internacionais e norte-americanas para garantir um resultado decente, e então leia
 > os livros recomendados no link de estudos na ordem de prioridade.
@@ -90,7 +90,7 @@ A maior competição internacional de biologia para alunos do ensino médio, ou
 > 
 > **Como estudar / Como treinar**
 > 
-> Consulte [http://www.olimpiadascientificas.com/estudo/biologia/][4] , pagina para estudos de biologia, que se for cumprida garante bons resultados para a delegação na parte teórica.
+> Consulte [/estudo/biologia/][4] , pagina para estudos de biologia, que se for cumprida garante bons resultados para a delegação na parte teórica.
 > 
 > Recomenda-se começar estudando com o Life e o Campbell já para a primeira fase nacional, e terminar as semifinais das USABOs e as IBOs anteriores para a segunda fase para garantir seleção com uma boa colocação um bom
 > resultado nas IBOs, então após terminadas todas as provas recomenda-se que sejam lidos os livros na ordem de prioridade do link de estudos.
@@ -122,7 +122,7 @@ A maior competição internacional de biologia para alunos do ensino médio, ou
 > 
 > <strong>Equipes Brasileiras / Premiados </strong>
 > 
-> [ http://www.olimpiadascientificas.com/equipes-brasileiras/biologia/ibo/][7]{: target="_blank"}
+> [ /equipes-brasileiras/biologia/ibo/][7]{: target="_blank"}
 > 
 > <strong>Competição de vídeo - </strong>
 > 
@@ -733,10 +733,10 @@ A maior competição internacional de biologia para alunos do ensino médio, ou
 [1]: http://www.ibo-info.org/
 [2]: http://www.ibo-info.org/pdf/IBO_Guide23.pdf
 [3]: http://pt.wikipedia.org/wiki/Ensino_secund%C3%A1rio
-[4]: http://www.olimpiadascientificas.com/estudo/biologia/
+[4]: /estudo/biologia/
 [5]: http://www.ibo-info.org/pdf/IBO-Guide.pdf
 [6]: http://www.ibo-info.org/ibo-results-and-awards
-[7]: http://www.olimpiadascientificas.com/equipes-brasileiras/biologia/ibo/
+[7]: /equipes-brasileiras/biologia/ibo/
 [8]: http://www.ibo-info.org/pdf/IBO-Sample-Questions-Theory.pdf/view
 [9]: http://www.cee.org/programs/usabo/study-guides
 [10]: http://www.amazon.com/Read-more/lm/R3RSJGW1PS3CKB/ref=cm_srch_res_rpli_alt_1

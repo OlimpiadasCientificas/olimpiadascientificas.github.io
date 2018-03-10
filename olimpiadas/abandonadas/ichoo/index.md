@@ -16,7 +16,7 @@ author:
 author_login: guihenrique
 author_email: guilhermehpa97@hotmail.com
 wordpress_id: 8103
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=8103
+wordpress_url: /?page_id=8103
 date: '2014-05-23 22:14:45 -0400'
 date_gmt: '2014-05-24 01:14:45 -0400'
 categories: []
@@ -133,10 +133,10 @@ Para mais informações, não deixe de conferir nosso [Guia de Estudos de Quími
 
 
 [1]: http://www.onlinescienceolympiads.org/ "Site oficial das OSOs"
-[2]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-fisica/iphoo/ "Página da IPhOO "
+[2]: /olimpiadas/olimpiadas-de-fisica/iphoo/ "Página da IPhOO "
 [3]: http://www.onlinescienceolympiads.org/#!contact/cgbd "Contato - IChOO"
 [4]: http://www.onlinescienceolympiads.org/#!register/cg09 "Registro"
 [5]: http://www.onlinescienceolympiads.org/#!about/cq4r "Inscrição"
 [6]: https://brilliant.org/ "Brilliant"
 [7]: http://www.artofproblemsolving.com/ "AoPS"
-[8]: http://www.olimpiadascientificas.com/estudo/quimica/ "Estudos - Química"
+[8]: /estudo/quimica/ "Estudos - Química"

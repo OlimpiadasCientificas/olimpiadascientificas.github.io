@@ -68,4 +68,4 @@ href="http://www.math-ksf.org/index.php?menu=doc&amp;id=Charter.swf">http://www.
 [1]: http://www.math-ksf.org/index.php?menu=doc&amp;id=Charter.swf "Canguru"
 [2]: http://www.cangurudematematicabrasil.com.br/index.php?option=com_content&amp;view=frontpage&amp;Itemid=28
 [3]: http://www.mat.uc.pt/canguru/ "canguru"
-[4]: http://www.olimpiadascientificas.com/estudo/matematica/ "dicas de estudo"
+[4]: /estudo/matematica/ "dicas de estudo"

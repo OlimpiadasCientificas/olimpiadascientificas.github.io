@@ -187,10 +187,10 @@ Veja aqui no OC as [equipes selecionadas para a IESO][5], com detalhes sobre o p
 
 
 
-[1]: http://www.olimpiadascientificas.com/wp-content/uploads/2011/10/OBAP.jpg
+[1]: /wp-content/uploads/2011/10/OBAP.jpg
 [2]: https://obap.ifsuldeminas.edu.br/images/regulamento_OBAP_2017_anexo.pdf "Regulamento detalhado sobre a OBAP"
 [3]: http://catalogonct.mec.gov.br/ "Catálogo nacional do MEC para cursos técnicos"
 [4]: hhttps://obap.ifsuldeminas.edu.br/images/regulamento_OBAP_2017_anexo.pdf "Programa detalhado da OBAP"
-[5]: http://www.olimpiadascientificas.com/equipes-brasileiras/interdisciplinar/ieso/ "Equipes selecionadas para a IESO"
+[5]: /equipes-brasileiras/interdisciplinar/ieso/ "Equipes selecionadas para a IESO"
 [6]: http://www.ifsuldeminas.edu.br/~obap/ "Página oficial da OBAP"
 [7]: http://pt.wikipedia.org/wiki/Olimp%C3%ADada_Brasileira_de_Agropecu%C3%A1ria "Página da OBAP no Wikipédia"

@@ -16,7 +16,7 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 3393
-wordpress_url: http://www.olimpiadascientificas.com/?page_id=3393
+wordpress_url: /?page_id=3393
 date: '2012-09-25 13:23:08 -0400'
 date_gmt: '2012-09-25 16:23:08 -0400'
 categories: []
@@ -24,7 +24,7 @@ tags: []
 comments: []
 ---
 
-[![](http://www.olimpiadascientificas.com/wp-content/uploads/2012/09/maio.png){: .aligncenter .size-full .wp-image-3394 width="302" height="195"}][1]{: target="_blank"}
+[![](/wp-content/uploads/2012/09/maio.png){: .aligncenter .size-full .wp-image-3394 width="302" height="195"}][1]{: target="_blank"}
 
 ### O que é?
 
@@ -62,7 +62,7 @@ Fonte: [OBM][5]{: target="_blank"}
 
 
 [1]: http://www.oma.org.ar/internacional/may.htm "Olimpíadas de Maio"
-[2]: http://www.olimpiadascientificas.com/olimpiadas/olimpiadas-de-matematica/obm/ "Olimpíada Brasileira de Matemática"
+[2]: /olimpiadas/olimpiadas-de-matematica/obm/ "Olimpíada Brasileira de Matemática"
 [3]: http://www.obm.org.br/opencms/como_se_preparar/provas/provas_maio.html "Olimpíada Brasileira de Matemática"
-[4]: http://www.olimpiadascientificas.com/estudo/matematica/ "Estudo de Matemática"
+[4]: /estudo/matematica/ "Estudo de Matemática"
 [5]: http://www.obm.org.br/opencms/competicoes/internacionais/olimp_maio.html "Olimpíadas de Maio"

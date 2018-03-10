@@ -108,7 +108,7 @@ seguintes recebem Menções Honrosas (então 67% - cerca de 2/3 - dos alunos sã
 
 
 
-[http://www.olimpiadascientificas.com/equipes-brasileiras/fisica/ipho/][8]{: target="_blank"}
+[/equipes-brasileiras/fisica/ipho/][8]{: target="_blank"}
 
 
 
@@ -118,7 +118,7 @@ seguintes recebem Menções Honrosas (então 67% - cerca de 2/3 - dos alunos sã
 [2]: http://pt.wikipedia.org/wiki/Ensino_secund%C3%A1rio "Link explicativo da Wikipédia"
 [3]: http://ipho.phy.ntnu.edu.tw/statutes.html
 [4]: http://ipho.phy.ntnu.edu.tw/syllabus.html
-[5]: http://www.olimpiadascientificas.com/estudo/fisica/
+[5]: /estudo/fisica/
 [6]: http://olympiads.win.tue.nl/ipho/books.html
 [7]: http://ipho.phy.ntnu.edu.tw/problems-and-solutions.html
-[8]: http://www.olimpiadascientificas.com/equipes-brasileiras/fisica/ipho/
+[8]: /equipes-brasileiras/fisica/ipho/

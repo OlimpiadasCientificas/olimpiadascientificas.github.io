@@ -172,7 +172,7 @@ Todos os finalistas ganham a mesma medalha de finalista, sem distinção entre o
 
 
 
-[1]: http://www.olimpiadascientificas.com/wp-content/uploads/2013/03/Viagem-do-Conhecimento.jpg
+[1]: /wp-content/uploads/2013/03/Viagem-do-Conhecimento.jpg
 [2]: http://www.viagemdoconhecimento.com.br/
 [3]: http://viagemdoconhecimento.com.br/arquivos/VC_Caderno_AF.pdf
 [4]: http://www.viagemdoconhecimento.com.br
