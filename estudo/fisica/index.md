@@ -3,7 +3,8 @@ layout: page
 title: Física  
 author:  
   display_name: Ivan Tadeu Ferreira Antunes Filho  
-
+ano: 2015
+comments: true
 ---  
 
 # Estudo de Física

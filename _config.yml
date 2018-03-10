@@ -19,6 +19,8 @@ url: "http://olimpiadascientificas.com" # the base hostname & protocol for your 
 twitter_username: OCientificas
 github_username:  OlimpiadasCientificas/olimpiadascientificas.github.io
 
+disqus-shortname: olimpiadascientificas-com
+
 # Build settings
 markdown: kramdown
 
