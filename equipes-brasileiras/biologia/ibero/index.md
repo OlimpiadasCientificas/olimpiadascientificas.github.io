@@ -2,6 +2,44 @@
 layout: equipe 
 title: OIAB 
 --- 
+### 2017 - Açores, Portugal
+Lucca Paolo Hsu Helmich (PR) - Ouro - <span style="color: #008000;"> Primeiro Lugar, Top Gold </span>
+
+João Victor Almeida Oliveira Santos (BA) - Ouro
+
+Lucas Gonçalves de Oliveira (GO) - Prata
+
+Henrique Barata Ferreira (PA) - Prata
+
+### 2016 - Brasília, Brasil
+Bruno Teixeira Gomes, de Fortaleza, no Ceará - Ouro
+
+Beatriaz Marques de Brito, de São Paulo capital - Prata
+
+Bernardo Habriele Collação, de Fortaleza,  Ceará - Prata
+
+Caio Manuel Caetano Adamian, Fortaleza, Ceará - Bronze
+
+
+### 2015 - El Salvador
+Arthur Joaquim de Noronha Feitosa Viana	Ceará - Prata
+
+Gerardo Albino Nogueira Filho	Ceará - Prata
+
+Lucas Almeida MAgalhães	Ceará - Bronze
+
+Michael Natsubori Sato	São Paulo - Bronze
+
+### 2014 - México
+
+Letícia Pereira de Souza - Ouro
+
+Gabriel Voltani Guedes - Prata
+
+Ana Luisa Smith Rocha - Prata
+
+Mario Anderson Alves Oliveira - Bronze
+
 ### 2013 - Córdoba, Argentina
 
 
