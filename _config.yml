@@ -15,7 +15,7 @@ info: "Este site não tem qualquer ligação com a organização oficial das oli
 copyright: © 2016  Olimpíadas Científicas. Todos os direitos reservados. 
 baseurl: "" # the subpath of your site, e.g. /blog
 mediaurl: "/static/"
-url: "olimpiadascientificas.github.io" # the base hostname & protocol for your site
+url: "http://olimpiadascientificas.com" # the base hostname & protocol for your site
 twitter_username: OCientificas
 github_username:  OlimpiadasCientificas/olimpiadascientificas.github.io
 
