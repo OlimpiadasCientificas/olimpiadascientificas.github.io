@@ -3,7 +3,9 @@ layout: olimpiada
 link: http://www.obquimica.org/ 
 image: obq.png 
 fullname: Olimpíada Brasileira de Química (OBQ) 
-redirect_from: /obq
+redirect_from: 
+    - /obq
+    - /olimpiadas/olimpiadas-de-quimica/obq
 ano: 2015
 status: publish
 published: true

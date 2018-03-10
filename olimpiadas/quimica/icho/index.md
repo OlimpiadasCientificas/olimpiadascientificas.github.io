@@ -3,7 +3,9 @@ layout: olimpiada
 link: http://www.ichosc.org/
 image: icho.png 
 fullname: Olimpíada Internacional de Química (IChO) 
-redirect_from: /icho 
+redirect_from: 
+    - /icho 
+    - /olimpiadas/olimpiadas-de-quimica/icho
 ano: 2015
 status: publish
 published: true

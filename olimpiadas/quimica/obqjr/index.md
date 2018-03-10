@@ -3,7 +3,9 @@ layout: olimpiada
 link: http://www.obquimica.org/olimpiadas/junior
 image: obqjr.png 
 fullname: Olimpíada Brasileira de Química Junior 
-redirect_from: /obqjr 
+redirect_from: 
+    - /obqjr 
+    - /olimpiadas/olimpiadas-de-quimica/obqjr
 ano: 2015
 status: publish
 published: true

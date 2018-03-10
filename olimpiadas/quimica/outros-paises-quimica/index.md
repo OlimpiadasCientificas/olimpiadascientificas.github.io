@@ -3,6 +3,7 @@ layout: olimpiada
 link: 
 image: 
 fullname: 'Outros Países: Química'  
+redirect_from: /olimpiadas/olimpiadas-de-quimica/outros-paises-quimica
 ano: 2015
 status: publish
 published: true
