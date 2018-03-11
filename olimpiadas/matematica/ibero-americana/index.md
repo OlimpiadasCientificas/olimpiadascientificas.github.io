@@ -6,6 +6,7 @@ fullname: Olimpíada Ibero-Americana de Matemática
 redirect_from: 
     - /oim
     - /olimpiadas/olimpiadas-de-matematica/ibero-americana
+    - /olimpiadas/olimpiadas-de-matematica/ibero-americana/
 ano: 2015
 status: publish
 published: true

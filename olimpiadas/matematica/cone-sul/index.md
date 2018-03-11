@@ -9,6 +9,7 @@ fullname: Olimpíada de Matemática Cone Sul
 redirect_from: 
     - /cs
     - /olimpiadas/olimpiadas-de-matematica/cone-sul
+    - /olimpiadas/olimpiadas-de-matematica/cone-sul/
 ano: 2015
 ---
 

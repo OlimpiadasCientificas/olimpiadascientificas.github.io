@@ -6,6 +6,7 @@ fullname: Torneio Virtual de Química
 redirect_from: 
     - /tvq 
     - /olimpiadas/olimpiadas-de-quimica/tvq
+    - /olimpiadas/olimpiadas-de-quimica/tvq/
 ano: 2015
 status: publish
 published: true

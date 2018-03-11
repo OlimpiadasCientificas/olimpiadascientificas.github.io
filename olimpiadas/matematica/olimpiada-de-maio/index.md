@@ -6,6 +6,7 @@ fullname: Olimpíada de Maio
 redirect_from: 
     - /maio
     - /olimpiadas/olimpiadas-de-matematica/olimpiada-de-maio
+    - /olimpiadas/olimpiadas-de-matematica/olimpiada-de-maio/
 ano: 2015
 status: publish
 published: true

@@ -11,6 +11,7 @@ fullname: Olimpíada Internacional de Física
 redirect_from: 
     - /ipho
     - /olimpiadas/olimpiadas-de-fisica/ipho
+    - /olimpiadas/olimpiadas-de-fisica/ipho/
 ano: 2015
 ---
 

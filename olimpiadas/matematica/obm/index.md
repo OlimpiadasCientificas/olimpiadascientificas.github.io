@@ -6,6 +6,7 @@ fullname: Olimpíada Brasileira de Matemática
 redirect_from: 
     - /obm
     - /olimpiadas/olimpiadas-de-matematica/obm
+    - /olimpiadas/olimpiadas-de-matematica/obm/
 ano: 2015
 status: publish
 published: true

@@ -7,6 +7,7 @@ fullname: Brazilian Brain Bee - Olimpíada Brasileira de Neurociências
 redirect_from: 
     - /bbb
     - /olimpiadas/olimpiadas-de-biologia/brazilian-brain-bee
+    - /olimpiadas/olimpiadas-de-biologia/brazilian-brain-bee/
 ano: 2015
 ---
 

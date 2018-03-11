@@ -7,6 +7,7 @@ fullname: Prêmio IFT-ICTP para Jovens Físicos
 redirect_from: 
     - /ift-ictp
     - /olimpiadas/olimpiadas-de-fisica/ift-ictp
+    - /olimpiadas/olimpiadas-de-fisica/ift-ictp/
 ano: 2015
 ---
 

@@ -7,6 +7,7 @@ fullname: International Biology Olympiad - Olimpíada Internacional de Biologia
 redirect_from: 
     - /ibo
     - /olimpiadas/olimpiadas-de-biologia/ibo
+    - /olimpiadas/olimpiadas-de-biologia/ibo/
 ano: 2015
 ---
 

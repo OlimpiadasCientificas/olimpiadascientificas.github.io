@@ -9,6 +9,7 @@ fullname: Olimpíada Brasileira de Física
 redirect_from: 
     - /obf
     - /olimpiadas/olimpiadas-de-fisica/obf
+    - /olimpiadas/olimpiadas-de-fisica/obf/
 ano: 2015
 ---
 

@@ -6,6 +6,7 @@ fullname: Romanian Master of Mathematics - RMM
 redirect_from: 
     - /rmm 
     - /olimpiadas/olimpiadas-de-matematica/rmm-romanian-master-of-mathematics
+    - /olimpiadas/olimpiadas-de-matematica/rmm-romanian-master-of-mathematics/
 ano: 2015
 status: publish
 published: true

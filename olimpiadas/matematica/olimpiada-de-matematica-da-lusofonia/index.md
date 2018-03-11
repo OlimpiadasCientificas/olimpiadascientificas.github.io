@@ -7,6 +7,7 @@ redirect_from:
                 - /oml
                 - /omcplp
                 - /olimpiadas/olimpiadas-de-matematica/olimpiada-de-matematica-da-lusofonia
+                - /olimpiadas/olimpiadas-de-matematica/olimpiada-de-matematica-da-lusofonia/
 ano: 2015
 status: publish
 published: true

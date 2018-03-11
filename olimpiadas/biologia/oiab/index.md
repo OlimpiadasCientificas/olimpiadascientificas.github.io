@@ -7,6 +7,7 @@ fullname: Olimpíada Iberoamericana de Biologia
 redirect_from: 
     - /oiab
     - /olimpiadas/olimpiadas-de-biologia/oiab
+    - /olimpiadas/olimpiadas-de-biologia/oiab/
 ano: 2015
 ---
 

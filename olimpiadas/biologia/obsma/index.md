@@ -7,6 +7,7 @@ fullname: Olimpíada Brasileira de Saúde e Meio Ambiente
 redirect_from: 
     - /obsma
     - /olimpiadas/olimpiadas-de-biologia/obsma
+    - /olimpiadas/olimpiadas-de-biologia/obsma/
 ano: 2015
 ---
 

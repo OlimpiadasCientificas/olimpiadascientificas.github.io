@@ -6,6 +6,7 @@ fullname: Olimpíada Brasileira de Química (OBQ)
 redirect_from: 
     - /obq
     - /olimpiadas/olimpiadas-de-quimica/obq
+    - /olimpiadas/olimpiadas-de-quimica/obq/
 ano: 2015
 status: publish
 published: true

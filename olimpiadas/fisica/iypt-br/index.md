@@ -7,6 +7,7 @@ link: http://iypt.com.br
 redirect_from: 
     - /iypt-br
     - /olimpiadas/olimpiadas-de-fisica/iypt-br
+    - /olimpiadas/olimpiadas-de-fisica/iypt-br/
 ano: 2015
 ---
 

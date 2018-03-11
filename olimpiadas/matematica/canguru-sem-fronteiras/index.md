@@ -9,6 +9,7 @@ fullname: KANGOUROU SANS FRONTIERES
 redirect_from: 
     - /csf
     - /olimpiadas/olimpiadas-de-matematica/canguru-sem-fronteiras
+    - /olimpiadas/olimpiadas-de-matematica/canguru-sem-fronteiras/
 ano: 2015
 ---
 

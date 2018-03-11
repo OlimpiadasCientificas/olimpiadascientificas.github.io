@@ -7,6 +7,7 @@ link: http://www.sbfisica.org.br/~obfep
 redirect_from: 
     - /obfep
     - /olimpiadas/olimpiadas-de-fisica/obfep
+    - /olimpiadas/olimpiadas-de-fisica/obfep/
 ano: 2015
 ---
 

@@ -6,6 +6,7 @@ fullname: Olimpíada Internacional de Química (IChO)
 redirect_from: 
     - /icho 
     - /olimpiadas/olimpiadas-de-quimica/icho
+    - /olimpiadas/olimpiadas-de-quimica/icho/
 ano: 2015
 status: publish
 published: true

@@ -7,6 +7,7 @@ fullname: Olimpíada Brasileira de Biologia
 redirect_from: 
     - /obb
     - /olimpiadas/olimpiadas-de-biologia/obb
+    - /olimpiadas/olimpiadas-de-biologia/obb/
 ano: 2015
 ---
 

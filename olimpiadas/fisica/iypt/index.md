@@ -9,6 +9,7 @@ fullname: International Young Physiscist's Tournament
 redirect_from: 
     - /iypt
     - /olimpiadas/olimpiadas-de-fisica/iypt
+    - /olimpiadas/olimpiadas-de-fisica/iypt/
 ano: 2015
 ---
 

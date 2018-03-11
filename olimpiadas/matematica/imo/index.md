@@ -6,6 +6,7 @@ fullname:  Olimpíada Internacional de Matemática
 redirect_from: 
     - /imo
     - /olimpiadas/olimpiadas-de-matematica/imo
+    - /olimpiadas/olimpiadas-de-matematica/imo/
 ano: 2015
 status: publish
 published: true

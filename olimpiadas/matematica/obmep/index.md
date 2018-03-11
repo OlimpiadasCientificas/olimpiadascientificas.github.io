@@ -6,6 +6,7 @@ fullname: Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)
 redirect_from: 
     - /obmep
     - /olimpiadas/olimpiadas-de-matematica/obmep
+    - /olimpiadas/olimpiadas-de-matematica/obmep/
 ano: 2015
 status: publish
 published: true
