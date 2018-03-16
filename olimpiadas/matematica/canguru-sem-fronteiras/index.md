@@ -3,7 +3,7 @@ layout: olimpiada
 status: publish
 published: true
 title: Canguru Sem fronteiras
-link: http://www.math-ksf.org/index.php?menu=doc&amp;id=Charter.swf
+link: https://www.cangurudematematicabrasil.com.br/
 image: canguru.png
 fullname: KANGOUROU SANS FRONTIERES
 redirect_from: 
@@ -18,8 +18,9 @@ ano: 2015
   
 Canguru Sem Fronteiras: O canguru é, nas palavras de seu fundador, André Deledicq, um jogo-concurso, não uma competição entre estudantes. Inspirado em evento semelhante na Austrália (daí o nome), foi criado em 1991 na França, com enorme sucesso, atraindo a atenção dos países vizinhos. Foi então criado o Canguru Sem Fronteiras, com a fundação em 1995, em Paris, de uma associação com membros representantes de 10 países: Espanha, França, Grã-Bretanha, Hungria, Itália, Moldávia, Polônia, Rússia e Eslovênia. Atualmente, a associação conta com representantes de 47 países e mais de 5 milhões de participantes em todo o mundo.
 
-**Página oficial da competição brasileira:** [http://www.cangurudematematicabrasil.com.br/index.php?option=com\_content&amp;view=frontpage&amp;Itemid=28][2]{: target="_blank"}
+**Página oficial da competição brasileira:** [http://www.cangurudematematicabrasil.com.br/index.php?option=com\_content&amp;view=frontpage&amp;Itemid=28][2]
 
+**Página oficial da competição Internactional:** [http://www.aksf.org/](http://www.aksf.org/)
 ### **Quem pode participar**
 
   
