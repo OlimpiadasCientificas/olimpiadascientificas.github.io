@@ -78,7 +78,11 @@ Material contribuído pela equipe do Olimpíadas Científicas.[Resolução OBB V
 [Resource Links][14]{: target="_blank"} \|\| [NABT][14]{: target="_blank"}  
  Links didáticos explicando todos os tópicos da Biologia. Site em Inglês.
 {: style="text-align: justify;"}
-[The Biology Project]{target="http://www.projeto-biologico.arizona.edu/default.html"} || Titulo em inglês, mas o site está em portugues, traduzido pela Universidade Federal de Pernambuco. Pode ajudar na coompreensão de questões de bioquimica/biologia molecular, como por exemplo questões que lidam com desacopladores da cadeia de transporte de eletrons.
+
+[The Biology Project]{: target="http://www.projeto-biologico.arizona.edu/default.html"} || Titulo em inglês, 
+mas o site está em portugues, site traduzido pela Universidade Federal de Pernambuco. 
+Pode ajudar na coompreensão de questões de bioquimica/biologia molecular, como por exemplo questões que 
+lidam com desacopladores da cadeia de transporte de eletrons.
 
 ## Livros
 
