@@ -4,6 +4,34 @@ title: IMO
 --- 
 Fontes: [Olimpíada Brasileira de Matemática][1] / [IMO Oficial][2]
 
+### 2017 Rio de Janeiro, Brasil
+
+João César Campos Vargas 	21 pontos 	Prata
+
+Davi Cavalcanti Sena 	19 pontos 	Prata
+
+George Lucas Diniz Alencar 	17 pontos 	Bronze
+
+André Yuji Hisatsuga 	15 pontos 	 Menção Honrosa
+
+Bruno Brasil Meinhart 	15 pontos 	 Menção Honrosa
+
+Pedro Henrique Sacramento de Oliveira 	14 pontos 	 Menção Honrosa
+
+### 2016 Hong Kong
+
+João César Campos Vargas 	Passa Tempo - MG 	25 	Prata
+
+Andrey Jhen Shan Chen 	Campinas - SP 	25 	Prata
+
+Daniel Lima Braga 	Fortaleza - CE 	24 	Prata
+
+Pedro Henrique Sacramento de Oliveira 	Vinhedo - SP 	24 	Prata
+
+Gabriel Toneatti Vercelli 	Osasco - SP 	22 	Prata
+
+George Lucas Diniz Alencar 	Fortaleza - CE 	18 	Bronze
+
 ### 2015 Chiang Mai, Tailândia
 
 Pedro Henrique Sacramento de Oliveira 	SP 	Prata
