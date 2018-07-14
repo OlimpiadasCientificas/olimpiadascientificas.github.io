@@ -4,6 +4,21 @@ title: IMO
 --- 
 Fontes: [Olimpíada Brasileira de Matemática][1] / [IMO Oficial][2]
 
+
+### 2014
+
+Murilo Corato Zanarella - 24 Pontos - Prata
+
+Rodrigo Sanches Angelo - 23 Pontos - Prata
+
+Daniel Lima Braga  - 22 Pontos - Prata
+
+Alexandre Perozim de Faveri  - 21 Pontos - Bronze
+
+Victor Oliveira Reis  - 17 Pontos - Bronze
+
+Alessandro Augusto Pinto de Oliveira Pacanowski  - 15 Pontos - Menção Honrosa
+
 ### 2013 - Santa Maria, Colômbia
 
   
