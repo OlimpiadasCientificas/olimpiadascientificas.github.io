@@ -36,3 +36,5 @@ no topo.
 Rode no terminal  kramdown --html-to-native --line-width 220  -i html -o remove_html_tags,kramdown index.html > index.md && rm index.html  para converter os arquivos rapidamente, porém você ainda terá que editar páginas.
 Build with jekyll serve --incremental
 
+
+Para gerar o menu automaticamente, mude auto-menu: false em \_config para auto-menu: true. Quando false, o menu é copiado do arquivo https://github.com/OlimpiadasCientificas/olimpiadascientificas.github.io/blob/master/_includes/fast-menu.html
