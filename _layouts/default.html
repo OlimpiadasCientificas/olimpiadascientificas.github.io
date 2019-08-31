@@ -11,6 +11,7 @@ layout: compress
   {% else %}
     {% include  fast-menu.html %}
   {% endif %}
+      {% include js.html %}
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
@@ -18,7 +19,6 @@ layout: compress
     </div>
 
     {% include footer.html %}
-    {% include js.html %}
     {% include google-analytics.html %}
   </body>
 
