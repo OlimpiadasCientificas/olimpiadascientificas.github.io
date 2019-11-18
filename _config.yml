@@ -24,7 +24,7 @@ twitter_username: OCientificas
 github_username: OlimpiadasCientificas/olimpiadascientificas.github.io
 disqus-shortname: olimpiadascientificas-com
 markdown: kramdown
-auto-menu: false
+auto-menu: true
 compress_html:
   blanklines: false
 kramdown:
@@ -40,3 +40,4 @@ prose:
 plugins:
 - jekyll-redirect-from
 - jekyll-paginate
+- jekyll-include-cache

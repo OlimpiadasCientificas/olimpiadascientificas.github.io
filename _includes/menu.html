@@ -17,7 +17,7 @@
         {% assign sorted_pages = site.pages | sort:"dir" %}
         {% assign is_first = true%}
         {% for node in sorted_pages %}
-            {% if node.title %}
+           {% if node.title and node.title != "404"%}
                 {% assign node_url_parts = node.url | split: '/' %}
                 {% assign node_url_parts_size = node_url_parts | size %}
                 {% if is_first %}

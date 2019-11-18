@@ -8,7 +8,8 @@ layout: compress
 <body>
   {% include header.html %}
   {% if site.auto-menu %}
-    {% include  menu.html %}
+  {% capture this_date_hour %}{{site.time | date: '%Y%B%d%H%M'}}{% endcapture %}
+    {% include_cached  menu.html date=this_date_hour %}
   {% else %}
     {% include  fast-menu.html %}
   {% endif %}
