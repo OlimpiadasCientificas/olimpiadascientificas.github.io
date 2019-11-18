@@ -1,5 +1,5 @@
 ---
-title: 2002 -- Nizhnij Arkhyz, Rússia
+title: IAO 2002 -- Nizhnij Arkhyz, Rússia
 layout: equipe
 ---
 
