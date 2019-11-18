@@ -1,7 +1,7 @@
---- 
-layout: equipe
+---
 title: IOI
---- 
+layout: equipe
+---
 
 ### 2017 - Tehran, Irã
 

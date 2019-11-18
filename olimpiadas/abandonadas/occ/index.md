@@ -1,8 +1,8 @@
 ---
+title: OCC
+date: 2013-03-24 21:56:00 Z
 layout: page
 status: publish
-published: true
-title: OCC
 author:
   display_name: admin
   login: admin
@@ -11,7 +11,6 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 5454
-date: '2013-03-24 17:56:00 -0400'
 date_gmt: '2013-03-24 20:56:00 -0400'
 categories: []
 tags: []
@@ -24,8 +23,8 @@ comments:
   date: '2013-04-26 13:19:07 -0400'
   date_gmt: '2013-04-26 16:19:07 -0400'
   content: "[...] na competi&ccedil;&atilde;o deve ser feita por meio de cadastro
-    das escolas, que pode ser realizado no site da OCC. O regulamento completo
-    e mais informa&ccedil;&otilde;es sobre o projeto tamb&eacute;m est&atilde;o dispon&iacute;veis
+    das escolas, que pode ser realizado no site da OCC. O regulamento completo e mais
+    informa&ccedil;&otilde;es sobre o projeto tamb&eacute;m est&atilde;o dispon&iacute;veis
     no [...]"
 ---
 

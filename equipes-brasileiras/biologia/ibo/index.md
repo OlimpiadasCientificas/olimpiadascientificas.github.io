@@ -1,7 +1,7 @@
---- 
-layout: equipe 
-title: IBO 
---- 
+---
+title: IBO
+layout: equipe
+---
 
 Fontes:
 

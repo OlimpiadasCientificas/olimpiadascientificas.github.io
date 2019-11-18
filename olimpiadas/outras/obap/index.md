@@ -1,14 +1,13 @@
---- 
-layout: olimpiada
+---
 title: OBAP
-link:  https://obap.ifsuldeminas.edu.br/
+layout: olimpiada
+link: https://obap.ifsuldeminas.edu.br/
 image: obap.png
 author: admin
 fullname: Olimpíada Brasileira de Agropecuária
-redirect_from: /obap
---- 
+redirect_from: "/obap"
+---
 
-  
 **O Que é?**
 
 A **OBAP** é uma competição científica nacional e visa estimular o ingresso de jovens do ensino médio integrado/concomitante e técnico subsequente nas carreiras técnico-científicas por meio da pesquisa e da inovação em

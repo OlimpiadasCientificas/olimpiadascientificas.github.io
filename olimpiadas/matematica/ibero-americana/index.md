@@ -1,16 +1,16 @@
 ---
-layout: olimpiada 
+title: OIM
+date: 2012-11-04 19:00:27 Z
+layout: olimpiada
 link: http://www.oei.es/oim/index.html
-image: oim.png 
-fullname: Olimpíada Ibero-Americana de Matemática 
-redirect_from: 
-    - /oim
-    - /olimpiadas/olimpiadas-de-matematica/ibero-americana
-    - /olimpiadas/olimpiadas-de-matematica/ibero-americana/
+image: oim.png
+fullname: Olimpíada Ibero-Americana de Matemática
+redirect_from:
+- "/oim"
+- "/olimpiadas/olimpiadas-de-matematica/ibero-americana"
+- "/olimpiadas/olimpiadas-de-matematica/ibero-americana/"
 ano: 2015
 status: publish
-published: true
-title: OIM
 author:
   display_name: admin
   login: admin
@@ -19,8 +19,7 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 3993
-wordpress_url: /?page_id=3993
-date: '2012-11-04 14:00:27 -0500'
+wordpress_url: "/?page_id=3993"
 date_gmt: '2012-11-04 17:00:27 -0500'
 categories: []
 tags: []

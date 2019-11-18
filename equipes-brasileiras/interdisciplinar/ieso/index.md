@@ -1,7 +1,8 @@
---- 
-layout: equipe
+---
 title: IESO
---- 
+layout: equipe
+---
+
 **Fontes:** [IF Sul de Minas][1]{: target="_blank"}, [OBAP][2]{: target="_blank"}
 
 ## 2013 - Mysore, Índia

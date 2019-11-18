@@ -1,10 +1,10 @@
 ---
-layout: olimpiada
 title: OBI Universitária
-link:  http://olimpiada.ic.unicamp.br/
+layout: olimpiada
+link: http://olimpiada.ic.unicamp.br/
 image: obi.png
 fullname: Olimpíada Brasileira de Informática - Modalidade Universitária
-redirect_from: /obiu
+redirect_from: "/obiu"
 ---
 
 ## O que é

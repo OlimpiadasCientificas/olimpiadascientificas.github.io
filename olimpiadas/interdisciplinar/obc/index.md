@@ -1,7 +1,7 @@
 ---
-layout: olimpiada
 title: OBC
-link:  http://ijso-official.org/
+layout: olimpiada
+link: http://ijso-official.org/
 image: obc.png
 fullname: Olimpíada Brasileira de Ciências
 ---

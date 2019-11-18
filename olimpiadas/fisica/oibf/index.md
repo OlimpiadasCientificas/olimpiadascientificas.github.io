@@ -1,18 +1,16 @@
 ---
-layout: olimpiada
 title: OIbF
+layout: olimpiada
 author:
   display_name: Augusto
 link: 
 image: oibf.png
 fullname: Olimpíada Iberoamericana de Física
-redirect_from: 
-    - /oibf
-    - /olimpiadas/olimpiadas-de-fisica/oibf-iberoamericana
+redirect_from:
+- "/oibf"
+- "/olimpiadas/olimpiadas-de-fisica/oibf-iberoamericana"
 ano: 2015
 ---
-
-
 
 ### **O que é**
 

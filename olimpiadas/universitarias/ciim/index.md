@@ -1,14 +1,11 @@
 ---
-layout: olimpiada
 title: CIIM
-link:  https://www.obm.org.br/competencia-ibero-americana-interuniversitaria-de-matematicas/
+layout: olimpiada
+link: https://www.obm.org.br/competencia-ibero-americana-interuniversitaria-de-matematicas/
 image: ciim.png
 fullname: Competição Iberoamericana Interuniversitária de Matemática (CIIM)
-redirect_from: /ciim
+redirect_from: "/ciim"
 ---
-
-
-
 
 ## O que é
 

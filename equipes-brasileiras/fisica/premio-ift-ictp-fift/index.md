@@ -1,9 +1,10 @@
----  
-layout: equipe  
-title: Prêmio IFT-ICTP / FIFT 
-author:  
-  display_name: Cassio dos Santos Sousa  
----    
+---
+title: Prêmio IFT-ICTP / FIFT
+layout: equipe
+author:
+  display_name: Cassio dos Santos Sousa
+---
+
  Fontes: [site do Prêmio FIFT][1]{: target="_blank"} / [Ganhadores do
 Prêmio IFT-ICTP 2012](www.ictp-saifr.org/?page_id=2711 "Apenas um post
 feito com o nome dos ganhadores."){: target="_blank"}

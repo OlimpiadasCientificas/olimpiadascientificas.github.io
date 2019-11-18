@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Todos Autores
+layout: page
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
 ---

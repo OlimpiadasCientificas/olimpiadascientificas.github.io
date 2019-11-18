@@ -1,14 +1,11 @@
 ---
-layout: olimpiada
 title: ACM-ICPC
-link:  https://icpc.baylor.edu/
+layout: olimpiada
+link: https://icpc.baylor.edu/
 image: icpc.png
 fullname: ACM-ICPC International Collegiate Programming Contest
-redirect_from: /icpc
+redirect_from: "/icpc"
 ---
-
-
-
 
 ## O que é
 

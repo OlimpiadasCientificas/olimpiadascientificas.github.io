@@ -1,7 +1,8 @@
---- 
-layout: equipe
-title: Olimpíada de Maio
 ---
+title: Olimpíada de Maio
+layout: equipe
+---
+
 Fonte: [Olimpíada Brasileira de Matemática][1]{: target="_blank"}
 
 ### 2012

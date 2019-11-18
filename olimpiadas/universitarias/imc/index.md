@@ -1,14 +1,11 @@
 ---
-layout: olimpiada
 title: IMC
-link:  https://www.imc-math.org.uk/
+layout: olimpiada
+link: https://www.imc-math.org.uk/
 image: imc.jpg
-fullname: International Mathematics Competition for University Students 
-redirect_from: /imc
+fullname: International Mathematics Competition for University Students
+redirect_from: "/imc"
 ---
-
-
-
 
 ## O que é
 

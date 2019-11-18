@@ -1,17 +1,17 @@
 ---
-layout: olimpiada 
+title: 'Olimpíada de Matemática da Lusofonia '
+date: 2013-01-21 00:38:02 Z
+layout: olimpiada
 link: http://omcplp.obmep.org.br/
-image: lusofonia.png 
-fullname: Olimpíada de Matemática da Lusofonia (OML) 
-redirect_from: 
-                - /oml
-                - /omcplp
-                - /olimpiadas/olimpiadas-de-matematica/olimpiada-de-matematica-da-lusofonia
-                - /olimpiadas/olimpiadas-de-matematica/olimpiada-de-matematica-da-lusofonia/
+image: lusofonia.png
+fullname: Olimpíada de Matemática da Lusofonia (OML)
+redirect_from:
+- "/oml"
+- "/omcplp"
+- "/olimpiadas/olimpiadas-de-matematica/olimpiada-de-matematica-da-lusofonia"
+- "/olimpiadas/olimpiadas-de-matematica/olimpiada-de-matematica-da-lusofonia/"
 ano: 2015
 status: publish
-published: true
-title: 'Olimpíada de Matemática da Lusofonia '
 author:
   display_name: admin
   login: admin
@@ -20,8 +20,7 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 4780
-wordpress_url: /?page_id=4780
-date: '2013-01-20 19:38:02 -0500'
+wordpress_url: "/?page_id=4780"
 date_gmt: '2013-01-20 21:38:02 -0500'
 categories: []
 tags: []

@@ -1,7 +1,6 @@
---- 
-layout: equipe 
-published: true 
+---
 title: OLAA
+layout: equipe
 ---
 
 Fonte:[http://pt.wikipedia.org/wiki/Olimp%C3%ADada\_Latino-Americana\_de\_Astronomia\_e\_Astron%C3%A1utica][1]

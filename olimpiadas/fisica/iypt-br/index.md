@@ -1,13 +1,13 @@
---- 
+---
+title: IYPT BR
 layout: olimpiada
 fullname: IYPT Brasil
-title: IYPT BR
 image: iypt-brasil.png
 link: http://iypt.com.br
-redirect_from: 
-    - /iypt-br
-    - /olimpiadas/olimpiadas-de-fisica/iypt-br
-    - /olimpiadas/olimpiadas-de-fisica/iypt-br/
+redirect_from:
+- "/iypt-br"
+- "/olimpiadas/olimpiadas-de-fisica/iypt-br"
+- "/olimpiadas/olimpiadas-de-fisica/iypt-br/"
 ano: 2015
 ---
 

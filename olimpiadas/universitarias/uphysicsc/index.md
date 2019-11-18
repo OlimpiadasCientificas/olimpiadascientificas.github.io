@@ -1,10 +1,10 @@
 ---
-layout: olimpiada
 title: UPhysicsC (UPC)
-link:  http://www.uphysicsc.com/home.html
+layout: olimpiada
+link: http://www.uphysicsc.com/home.html
 image: 
 fullname: University Physics Competition
-redirect_from: /upc
+redirect_from: "/upc"
 ---
 
 ## O que é

@@ -1,13 +1,13 @@
 ---
-layout: olimpiada 
+title: Olimpíada do Conhecimento
+date: 2012-11-20 20:51:27 Z
+layout: olimpiada
 link: http://www.mundosenai.com.br/eventos/olimpiada-do-conhecimento/
-image: olimpiadasenai.png 
-fullname: Olimpíada do Conhecimento 
-redirect_from: /odc 
+image: olimpiadasenai.png
+fullname: Olimpíada do Conhecimento
+redirect_from: "/odc"
 ano: 2015
 status: publish
-published: true
-title: Olimpíada do Conhecimento
 author:
   display_name: admin
   login: admin
@@ -16,13 +16,13 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 4282
-wordpress_url: /?page_id=4282
-date: '2012-11-20 15:51:27 -0500'
+wordpress_url: "/?page_id=4282"
 date_gmt: '2012-11-20 17:51:27 -0500'
 categories: []
 tags: []
 comments: []
 ---
+
 ### **O que é**
 Ocorre em geral uma vez a cada dois anos.
   

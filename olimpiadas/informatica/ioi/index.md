@@ -1,11 +1,10 @@
 ---
-layout: olimpiada
 title: IOI
-link:  http://ioinformatics.org/
+layout: olimpiada
+link: http://ioinformatics.org/
 image: ioi.png
 fullname: International Olympiad in Informatics - Olimpíada Internacional de Informática
 ---
-
 
 **O que é**
 

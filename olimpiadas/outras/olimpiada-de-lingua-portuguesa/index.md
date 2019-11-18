@@ -1,13 +1,13 @@
 ---
-layout: olimpiada 
+title: Olimpíada de Língua Portuguesa
+date: 2012-07-01 03:39:46 Z
+layout: olimpiada
 link: http://www.escrevendo.cenpec.org.br
-image: olp.png 
-fullname: Olimpíada de Língua Portuguesa 
-redirect_from: /olp 
+image: olp.png
+fullname: Olimpíada de Língua Portuguesa
+redirect_from: "/olp"
 ano: 2015
 status: publish
-published: true
-title: Olimpíada de Língua Portuguesa
 author:
   display_name: admin
   login: admin
@@ -16,13 +16,13 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 2310
-wordpress_url: /?page_id=2310
-date: '2012-06-30 23:39:46 -0400'
+wordpress_url: "/?page_id=2310"
 date_gmt: '2012-07-01 02:39:46 -0400'
 categories: []
 tags: []
 comments: []
 ---
+
 ### **O que é**
 
 A Olimpíada de Língua Portuguesa desenvolve ações de formação de professores com o objetivo de contribuir para a melhoria do ensino da leitura e escrita nas escolas públicas brasileiras. A Olimpíada tem caráter bienal e,

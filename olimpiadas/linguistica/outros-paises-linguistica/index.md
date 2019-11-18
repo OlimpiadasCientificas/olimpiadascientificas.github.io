@@ -1,7 +1,7 @@
 ---
-layout: olimpiada
 title: Outros Países - Linguística
-link:  http://www.obling.org/
+layout: olimpiada
+link: http://www.obling.org/
 image: obl.png
 fullname: Outros Países - Linguística
 ---

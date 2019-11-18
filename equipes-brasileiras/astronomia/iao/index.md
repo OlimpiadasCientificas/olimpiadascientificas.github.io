@@ -1,7 +1,7 @@
---- 
+---
+title: IAO
 layout: equipe
-title: IAO 
---- 
+---
 
 ### 2007 - Simeiz, Ucrânia
 

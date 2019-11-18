@@ -1,13 +1,12 @@
----  
-layout: olimpiada  
-title: IOAA  
-author:  
-  display_name: Ivan Tadeu Ferreira Antunes Filho  
+---
+title: IOAA
+layout: olimpiada
+author:
+  display_name: Ivan Tadeu Ferreira Antunes Filho
 link: http://www.ioaa2016.in/
 image: ioaa.png
 fullname: International Olympiad on Astronomy and Astrophysics
----  
-  
+---
 
 **O que é:** Olimpíada de astronomia para estudantes do Ensino Médio de todo o mundo.   
 

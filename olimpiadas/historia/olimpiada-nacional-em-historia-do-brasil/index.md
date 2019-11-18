@@ -1,13 +1,10 @@
 ---
-layout: olimpiada
 title: ONHB
-link:  http://www.olimpiadadehistoria.com.br/
+layout: olimpiada
+link: http://www.olimpiadadehistoria.com.br/
 image: onhb.png
 fullname: Olimpíada Nacional em História do Brasil
 ---
-
-
-  
 
 ### O que é
 

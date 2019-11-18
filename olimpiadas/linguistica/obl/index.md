@@ -1,7 +1,7 @@
 ---
-layout: olimpiada
 title: OBL
-link:  http://www.obling.org/
+layout: olimpiada
+link: http://www.obling.org/
 image: obl.png
 fullname: Olimpíada Brasileira de Linguística
 ---

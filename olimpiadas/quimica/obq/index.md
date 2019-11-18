@@ -1,16 +1,16 @@
 ---
-layout: olimpiada 
-link: http://www.obquimica.org/ 
-image: obq.png 
-fullname: Olimpíada Brasileira de Química (OBQ) 
-redirect_from: 
-    - /obq
-    - /olimpiadas/olimpiadas-de-quimica/obq
-    - /olimpiadas/olimpiadas-de-quimica/obq/
+title: OBQ
+date: 2011-10-11 22:11:57 Z
+layout: olimpiada
+link: http://www.obquimica.org/
+image: obq.png
+fullname: Olimpíada Brasileira de Química (OBQ)
+redirect_from:
+- "/obq"
+- "/olimpiadas/olimpiadas-de-quimica/obq"
+- "/olimpiadas/olimpiadas-de-quimica/obq/"
 ano: 2015
 status: publish
-published: true
-title: OBQ
 author:
   display_name: Augusto
   login: augusto
@@ -20,7 +20,6 @@ author_login: augusto
 author_email: gutobenn@gmail.com
 wordpress_id: 234
 wordpress_url: http://olimpiadascientificas.info/?page_id=234
-date: '2011-10-11 18:11:57 -0400'
 date_gmt: '2011-10-11 21:11:57 -0400'
 categories: []
 tags: []

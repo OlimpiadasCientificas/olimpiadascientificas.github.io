@@ -1,13 +1,13 @@
 ---
-layout: olimpiada 
+title: Torneio Juvenil de Robótica
+date: 2012-01-22 06:30:08 Z
+layout: olimpiada
 link: http://www.torneiojrobotica.org
-image: tjr.png 
-fullname: Torneio Juvenil de Robótica 
-redirect_from: /tjr 
+image: tjr.png
+fullname: Torneio Juvenil de Robótica
+redirect_from: "/tjr"
 ano: 2015
 status: publish
-published: true
-title: Torneio Juvenil de Robótica
 author:
   display_name: Augusto
   login: augusto
@@ -16,8 +16,7 @@ author:
 author_login: augusto
 author_email: gutobenn@gmail.com
 wordpress_id: 1204
-wordpress_url: /?page_id=1204
-date: '2012-01-22 01:30:08 -0500'
+wordpress_url: "/?page_id=1204"
 date_gmt: '2012-01-22 04:30:08 -0500'
 categories: []
 tags: []

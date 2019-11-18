@@ -1,16 +1,16 @@
 ---
-layout: olimpiada 
+title: OBM
+date: 2011-10-11 21:50:43 Z
+layout: olimpiada
 link: http://www.obm.org.br/
-image: obm.png 
-fullname: Olimpíada Brasileira de Matemática 
-redirect_from: 
-    - /obm
-    - /olimpiadas/olimpiadas-de-matematica/obm
-    - /olimpiadas/olimpiadas-de-matematica/obm/
+image: obm.png
+fullname: Olimpíada Brasileira de Matemática
+redirect_from:
+- "/obm"
+- "/olimpiadas/olimpiadas-de-matematica/obm"
+- "/olimpiadas/olimpiadas-de-matematica/obm/"
 ano: 2015
 status: publish
-published: true
-title: OBM
 author:
   display_name: Augusto
   login: augusto
@@ -20,7 +20,6 @@ author_login: augusto
 author_email: gutobenn@gmail.com
 wordpress_id: 204
 wordpress_url: http://olimpiadascientificas.info/?page_id=204
-date: '2011-10-11 17:50:43 -0400'
 date_gmt: '2011-10-11 20:50:43 -0400'
 categories: []
 tags: []

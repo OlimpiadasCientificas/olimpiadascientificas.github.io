@@ -1,52 +1,45 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: Olimpíadas Científicas
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  equipe:
+    title: equipe
+    output: true
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
- Informações sobre as principais Olimpíadas Científicas.
- OBM, OBQ, OBA, OBF, OBL, ONHB, OBG, IYPT, IJSO, OBI, OBB, OBQJr, IPhO, IOAA, IMO, IOL, IChO, IBO
-info: "Este site não tem qualquer ligação com a organização oficial das olimpíadas aqui divulgadas. Partes técnicas relativas a inscrições, resultados individuais e afins devem ser tratadas diretamente com os organizadores das olimpíadas."
-copyright: © 2016  Olimpíadas Científicas. Todos os direitos reservados. 
-baseurl: "" # the subpath of your site, e.g. /blog
+description: 'Informações sobre as principais Olimpíadas Científicas. OBM, OBQ, OBA,
+  OBF, OBL, ONHB, OBG, IYPT, IJSO, OBI, OBB, OBQJr, IPhO, IOAA, IMO, IOL, IChO, IBO
+
+'
+info: Este site não tem qualquer ligação com a organização oficial das olimpíadas
+  aqui divulgadas. Partes técnicas relativas a inscrições, resultados individuais
+  e afins devem ser tratadas diretamente com os organizadores das olimpíadas.
+copyright: "© 2016  Olimpíadas Científicas. Todos os direitos reservados."
+baseurl: ''
 mediaurl: "/static/"
-url: "http://olimpiadascientificas.org" # the base hostname & protocol for your site
+url: http://olimpiadascientificas.org
 twitter_username: OCientificas
-github_username:  OlimpiadasCientificas/olimpiadascientificas.github.io
-
+github_username: OlimpiadasCientificas/olimpiadascientificas.github.io
 disqus-shortname: olimpiadascientificas-com
-
-# Build settings
 markdown: kramdown
-
 auto-menu: false
-
 compress_html:
   blanklines: false
-
 kramdown:
   input: GFM
   hard_wrap: false
-
 excerpt_separator: "<!--more-->"
-
-permalink: /:year/:month/:day/:title/
-
-
-
+permalink: "/:year/:month/:day/:title/"
 paginate: 10
-
 prose:
   rooturl: ''
-  siteurl: 'http://olimpiadascientificas.github.io/'
-  media: 'static/images'
-  
+  siteurl: http://olimpiadascientificas.github.io/
+  media: static/images
 plugins:
-  - jekyll-redirect-from
-  - jekyll-paginate
-  
+- jekyll-redirect-from
+- jekyll-paginate

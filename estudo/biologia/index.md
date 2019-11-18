@@ -1,24 +1,22 @@
---- 
-layout: page   
-status: publish   
-published: true   
-title: Biologia   
+---
+title: Biologia
+date: 2011-10-09 00:14:32 Z
+layout: page
+status: publish
 author: 
-display\_name: admin 
-login: admin 
-email: webmaster@olimpiadascientificas.com 
-url: \'\' 
-author\_login: admin 
-author\_email: webmaster@olimpiadascientificas.com 
-wordpress\_id: 25 
-wordpress\_url: http://www.u3b.com.br/labs/?page\_id=25 
-date: \'2011-10-08 20:14:32 -0400\' 
-date\_gmt: \'2011-10-08 20:14:32 -0400\' 
-categories: \[\] 
-tags: \[\] 
-comments: \[\] 
-
---- 
+display\_name: admin
+login: admin
+email: webmaster@olimpiadascientificas.com
+url: "\\'\\'"
+author\_login: admin
+author\_email: webmaster@olimpiadascientificas.com
+wordpress\_id: 25
+wordpress\_url: http://www.u3b.com.br/labs/?page\_id=25
+date\_gmt: "\\'2011-10-08 20:14:32 -0400\\'"
+categories: "\\[\\]"
+tags: "\\[\\]"
+comments: "\\[\\]"
+---
 
 # ![logoobbfinal2](/static/images/obb1.png){: .aligncenter .size-thumbnail .wp-image-5937 width="132" height="150"}
 {: style="text-align: center;"}

@@ -1,7 +1,8 @@
---- 
+---
+title: OIM
 layout: equipe
-title: OIM 
---- 
+---
+
 Fonte: [Olimpíada Brasileira de Matemática][1]{: target="_blank"}
 
 ### 2013 - Panamá

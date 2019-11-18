@@ -1,9 +1,10 @@
----  
-layout: equipe  
-title: OIbF  
-author:  
-  display_name: Augusto  
----    
+---
+title: OIbF
+layout: equipe
+author:
+  display_name: Augusto
+---
+
  Fonte:[http://www.sbf1.sbfisica.org.br/olimpiadas/obf2010/EquipeBROIbF.shtm][1]  
 
 ### 2012 - XVII OIbF - Granada, Espanha  

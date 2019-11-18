@@ -1,13 +1,13 @@
 ---
-layout: olimpiada 
+title: IChOO
+date: 2014-05-24 02:14:45 Z
+layout: olimpiada
 link: http://www.onlinescienceolympiads.org/
-image: ichoo.png 
-fullname: International Chemistry Online Olympiad 
-redirect_from: /ichoo 
+image: ichoo.png
+fullname: International Chemistry Online Olympiad
+redirect_from: "/ichoo"
 ano: 2015
 status: publish
-published: true
-title: IChOO
 author:
   display_name: Guilherme Henrique
   login: guihenrique
@@ -16,13 +16,13 @@ author:
 author_login: guihenrique
 author_email: guilhermehpa97@hotmail.com
 wordpress_id: 8103
-wordpress_url: /?page_id=8103
-date: '2014-05-23 22:14:45 -0400'
+wordpress_url: "/?page_id=8103"
 date_gmt: '2014-05-24 01:14:45 -0400'
 categories: []
 tags: []
 comments: []
 ---
+
 **O que é:**
 {: style="text-align: justify"}
 

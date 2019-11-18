@@ -1,7 +1,8 @@
---- 
-layout: equipe
+---
 title: OIAQ
---- 
+layout: equipe
+---
+
 ### 2012- Santa Fé, Argentina
 
   

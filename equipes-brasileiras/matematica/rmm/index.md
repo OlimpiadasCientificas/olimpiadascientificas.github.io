@@ -1,6 +1,6 @@
---- 
-layout: equipe
+---
 title: RMM
+layout: equipe
 ---
 
 Fonte: [Olimpíada Brasileira de Matemática][1]{: target="_blank"}

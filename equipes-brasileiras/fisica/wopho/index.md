@@ -1,8 +1,8 @@
---- 
+---
+title: WoPhO
 layout: equipe
-title: WoPhO 
-author: 
-    display_name: Ivan Tadeu Ferreira Antunes Filho     
+author:
+  display_name: Ivan Tadeu Ferreira Antunes Filho
 ---
 
 # WoPhO (World Physics Olympiad)

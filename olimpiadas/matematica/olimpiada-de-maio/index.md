@@ -1,16 +1,16 @@
 ---
-layout: olimpiada 
+title: Olimpíada de Maio
+date: 2012-09-25 17:23:08 Z
+layout: olimpiada
 link: http://www.oma.org.ar/internacional/may.htm
-image: maio.png 
-fullname: Olimpíada de Maio 
-redirect_from: 
-    - /maio
-    - /olimpiadas/olimpiadas-de-matematica/olimpiada-de-maio
-    - /olimpiadas/olimpiadas-de-matematica/olimpiada-de-maio/
+image: maio.png
+fullname: Olimpíada de Maio
+redirect_from:
+- "/maio"
+- "/olimpiadas/olimpiadas-de-matematica/olimpiada-de-maio"
+- "/olimpiadas/olimpiadas-de-matematica/olimpiada-de-maio/"
 ano: 2015
 status: publish
-published: true
-title: Olimpíada de Maio
 author:
   display_name: admin
   login: admin
@@ -19,8 +19,7 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 3393
-wordpress_url: /?page_id=3393
-date: '2012-09-25 13:23:08 -0400'
+wordpress_url: "/?page_id=3393"
 date_gmt: '2012-09-25 16:23:08 -0400'
 categories: []
 tags: []

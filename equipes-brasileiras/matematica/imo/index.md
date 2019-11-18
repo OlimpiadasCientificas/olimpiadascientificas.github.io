@@ -1,7 +1,8 @@
---- 
-layout: equipe
+---
 title: IMO
---- 
+layout: equipe
+---
+
 Fontes: [Olimpíada Brasileira de Matemática][1] / [IMO Oficial][2]
 
 ### 2017 Rio de Janeiro, Brasil

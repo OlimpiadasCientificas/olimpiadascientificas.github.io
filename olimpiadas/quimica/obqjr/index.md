@@ -1,16 +1,16 @@
 ---
-layout: olimpiada 
+title: OBQJR
+date: 2011-10-11 22:10:09 Z
+layout: olimpiada
 link: http://www.obquimica.org/olimpiadas/junior
-image: obqjr.png 
-fullname: Olimpíada Brasileira de Química Junior 
-redirect_from: 
-    - /obqjr 
-    - /olimpiadas/olimpiadas-de-quimica/obqjr
-    - /olimpiadas/olimpiadas-de-quimica/obqjr/
+image: obqjr.png
+fullname: Olimpíada Brasileira de Química Junior
+redirect_from:
+- "/obqjr"
+- "/olimpiadas/olimpiadas-de-quimica/obqjr"
+- "/olimpiadas/olimpiadas-de-quimica/obqjr/"
 ano: 2015
 status: publish
-published: true
-title: OBQJR
 author:
   display_name: Augusto
   login: augusto
@@ -20,7 +20,6 @@ author_login: augusto
 author_email: gutobenn@gmail.com
 wordpress_id: 230
 wordpress_url: http://olimpiadascientificas.info/?page_id=230
-date: '2011-10-11 18:10:09 -0400'
 date_gmt: '2011-10-11 21:10:09 -0400'
 categories: []
 tags: []

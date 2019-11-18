@@ -1,15 +1,14 @@
 ---
+title: Cone Sul
 layout: olimpiada
 status: publish
-published: true
-title: Cone Sul
-link: http://www.obm.org.br/opencms/competicoes/internacionais/olimp_conesul.html 
+link: http://www.obm.org.br/opencms/competicoes/internacionais/olimp_conesul.html
 image: cone-sul.png
 fullname: Olimpíada de Matemática Cone Sul
-redirect_from: 
-    - /cs
-    - /olimpiadas/olimpiadas-de-matematica/cone-sul
-    - /olimpiadas/olimpiadas-de-matematica/cone-sul/
+redirect_from:
+- "/cs"
+- "/olimpiadas/olimpiadas-de-matematica/cone-sul"
+- "/olimpiadas/olimpiadas-de-matematica/cone-sul/"
 ano: 2015
 ---
 

@@ -1,10 +1,10 @@
 ---
-layout: page  
-fullname: Matemática 
+title: Matemática
+date: 2012-07-11 03:11:09 Z
+layout: page
+fullname: Matemática
 ano: 2015
 status: publish
-published: true
-title: Matemática
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
   login: itadeufa
@@ -14,8 +14,7 @@ author_login: itadeufa
 author_email: itadeufa@gmail.com
 author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 2585
-wordpress_url: /?page_id=2585
-date: '2012-07-10 23:11:09 -0400'
+wordpress_url: "/?page_id=2585"
 date_gmt: '2012-07-11 02:11:09 -0400'
 categories: []
 tags: []

@@ -1,15 +1,15 @@
 ---
-layout: olimpiada
 title: IYPT
+layout: olimpiada
 author:
   display_name: Barbara
-link: http://iypt.org 
+link: http://iypt.org
 image: logo-iypt.png
 fullname: International Young Physiscist's Tournament
-redirect_from: 
-    - /iypt
-    - /olimpiadas/olimpiadas-de-fisica/iypt
-    - /olimpiadas/olimpiadas-de-fisica/iypt/
+redirect_from:
+- "/iypt"
+- "/olimpiadas/olimpiadas-de-fisica/iypt"
+- "/olimpiadas/olimpiadas-de-fisica/iypt/"
 ano: 2015
 ---
 

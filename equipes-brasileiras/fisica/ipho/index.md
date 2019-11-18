@@ -1,9 +1,9 @@
----  
-layout: equipe  
-title: IPhO  
-author:  
-  display_name: Augusto  
----  
+---
+title: IPhO
+layout: equipe
+author:
+  display_name: Augusto
+---
 
 Fonte: [Site da OBF - Equipes Brasileiras na IPhO][1]{: target="_blank"}
 

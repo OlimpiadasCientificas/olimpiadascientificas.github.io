@@ -1,16 +1,16 @@
 ---
-layout: olimpiada 
+title: TVQ
+date: 2011-10-11 21:57:57 Z
+layout: olimpiada
 link: http://www.torneiovirtualdequimica.com.br/
-image: tvq.png 
-fullname: Torneio Virtual de Química 
-redirect_from: 
-    - /tvq 
-    - /olimpiadas/olimpiadas-de-quimica/tvq
-    - /olimpiadas/olimpiadas-de-quimica/tvq/
+image: tvq.png
+fullname: Torneio Virtual de Química
+redirect_from:
+- "/tvq"
+- "/olimpiadas/olimpiadas-de-quimica/tvq"
+- "/olimpiadas/olimpiadas-de-quimica/tvq/"
 ano: 2015
 status: publish
-published: true
-title: TVQ
 author:
   display_name: Augusto
   login: augusto
@@ -20,12 +20,12 @@ author_login: augusto
 author_email: gutobenn@gmail.com
 wordpress_id: 212
 wordpress_url: http://olimpiadascientificas.info/?page_id=212
-date: '2011-10-11 17:57:57 -0400'
 date_gmt: '2011-10-11 20:57:57 -0400'
 categories: []
 tags: []
 comments: []
 ---
+
 ### **O que é**
 
   

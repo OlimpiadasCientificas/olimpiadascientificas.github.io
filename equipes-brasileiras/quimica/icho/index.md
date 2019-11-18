@@ -1,7 +1,8 @@
---- 
-layout: equipe
+---
 title: IChO
---- 
+layout: equipe
+---
+
 Fonte:[http://www.obquimica.org/][1]
 
 ### 2013 - Moscou, Rússia

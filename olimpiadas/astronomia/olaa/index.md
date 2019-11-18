@@ -1,13 +1,11 @@
 ---
-layout: olimpiada
 title: OLAA
-link:  
+layout: olimpiada
+link: 
 image: olaa.png
 fullname: Olimpíada Latino-Americana de Astronomia e Astronáutica
 ---
 
-
-  
 **O que é:** Olimpíada de Astronomia e Astronáutica para estudantes do
 Ensino Médio de países da América Latina.
 
