@@ -1,5 +1,5 @@
 ---
-title: 2000 -- Nizhnij Arkhyz, Rússia
+title: IAO 2000 -- Nizhnij Arkhyz, Rússia
 layout: equipe
 ---
 
