@@ -1,7 +1,7 @@
---- 
-layout: equipe 
+---
 title: 2002 -- Nizhnij Arkhyz, Rússia
---- 
+layout: equipe
+---
 
 ### 2002 -- Nizhnij Arkhyz, Rússia
 

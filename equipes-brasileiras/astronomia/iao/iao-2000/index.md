@@ -1,7 +1,7 @@
---- 
-layout: equipe 
-title:  2000 -- Nizhnij Arkhyz, Rússia
---- 
+---
+title: 2000 -- Nizhnij Arkhyz, Rússia
+layout: equipe
+---
 
 ### 2000 -- Nizhnij Arkhyz, Rússia
 

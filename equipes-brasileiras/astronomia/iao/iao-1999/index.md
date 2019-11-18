@@ -1,7 +1,7 @@
---- 
-layout: equipe 
+---
 title: IAO 1999 - Nauchnij, Ucrânia
---- 
+layout: equipe
+---
 
 ### 1999 -- Nauchnij, Ucrânia
 

@@ -1,7 +1,7 @@
---- 
-layout: equipe 
+---
 title: 2003 -- Estocolmo, Suécia
---- 
+layout: equipe
+---
 
 ### 2003 -- Estocolmo, Suécia
 
