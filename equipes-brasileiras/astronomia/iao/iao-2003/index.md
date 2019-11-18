@@ -1,5 +1,5 @@
 ---
-title: 2003 -- Estocolmo, Suécia
+title: IAO 2003 -- Estocolmo, Suécia
 layout: equipe
 ---
 
