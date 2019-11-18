@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  equipe:
+    title: equipe
+    output: true
 email: your-email@domain.com
 description: 'Informações sobre as principais Olimpíadas Científicas. OBM, OBQ, OBA,
   OBF, OBL, ONHB, OBG, IYPT, IJSO, OBI, OBB, OBQJr, IPhO, IOAA, IMO, IOL, IChO, IBO
