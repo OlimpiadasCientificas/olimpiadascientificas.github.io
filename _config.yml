@@ -42,6 +42,6 @@ plugins:
 - jekyll-paginate
 - jekyll-include-cache
 whitelist:
-  - jekyll-redirect-from
-  - jekyll-paginate
-  - jekyll-include-cache
+- jekyll-redirect-from
+- jekyll-paginate
+- jekyll-include-cache
