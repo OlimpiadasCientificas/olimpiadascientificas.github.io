@@ -1,7 +1,8 @@
---- 
-layout: equipe 
-title: OIAB 
---- 
+---
+title: OIAB
+layout: equipe
+---
+
 ### 2017 - Açores, Portugal
 Lucca Paolo Hsu Helmich (PR) - Ouro - <span style="color: #008000;"> Primeiro Lugar, Top Gold </span>
 

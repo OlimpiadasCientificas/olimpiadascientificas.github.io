@@ -1,16 +1,16 @@
 ---
-layout: olimpiada 
+title: RMM - Romanian Master of Mathematics
+date: 2012-09-14 01:32:37 Z
+layout: olimpiada
 link: http://rmm.lbi.ro/
-image: rmm.png 
-fullname: Romanian Master of Mathematics - RMM 
-redirect_from: 
-    - /rmm 
-    - /olimpiadas/olimpiadas-de-matematica/rmm-romanian-master-of-mathematics
-    - /olimpiadas/olimpiadas-de-matematica/rmm-romanian-master-of-mathematics/
+image: rmm.png
+fullname: Romanian Master of Mathematics - RMM
+redirect_from:
+- "/rmm"
+- "/olimpiadas/olimpiadas-de-matematica/rmm-romanian-master-of-mathematics"
+- "/olimpiadas/olimpiadas-de-matematica/rmm-romanian-master-of-mathematics/"
 ano: 2015
 status: publish
-published: true
-title: RMM - Romanian Master of Mathematics
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
   login: itadeufa
@@ -20,8 +20,7 @@ author_login: itadeufa
 author_email: itadeufa@gmail.com
 author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 3256
-wordpress_url: /?page_id=3256
-date: '2012-09-13 21:32:37 -0400'
+wordpress_url: "/?page_id=3256"
 date_gmt: '2012-09-14 00:32:37 -0400'
 categories: []
 tags: []

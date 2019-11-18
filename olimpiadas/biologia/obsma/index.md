@@ -1,16 +1,15 @@
 ---
-layout: olimpiada
 title: OBSMA
-link:  http://www.olimpiada.fiocruz.br/
+layout: olimpiada
+link: http://www.olimpiada.fiocruz.br/
 image: obsma.png
 fullname: Olimpíada Brasileira de Saúde e Meio Ambiente
-redirect_from: 
-    - /obsma
-    - /olimpiadas/olimpiadas-de-biologia/obsma
-    - /olimpiadas/olimpiadas-de-biologia/obsma/
+redirect_from:
+- "/obsma"
+- "/olimpiadas/olimpiadas-de-biologia/obsma"
+- "/olimpiadas/olimpiadas-de-biologia/obsma/"
 ano: 2015
 ---
-
 
 ### **O que é**
 

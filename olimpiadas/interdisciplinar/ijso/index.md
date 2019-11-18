@@ -1,9 +1,10 @@
 ---
-layout: olimpiada
 title: IJSO
-link:  http://ijso-official.org/
+layout: olimpiada
+link: http://ijso-official.org/
 image: ijso.png
-fullname: International Junior Science Olympiad - Olimpíada Internacional de Ciências Junior
+fullname: International Junior Science Olympiad - Olimpíada Internacional de Ciências
+  Junior
 ---
 
 **O que é**

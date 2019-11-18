@@ -1,10 +1,10 @@
 ---
-layout: olimpiada
 title: Olimpíada Jurídica da FDV
-link:  http://www.fdv.br/olimpiada/
+layout: olimpiada
+link: http://www.fdv.br/olimpiada/
 image: fdv.png
 fullname: Olimpíada Jurídica da FDV
-redirect_from: /ojfdv
+redirect_from: "/ojfdv"
 ---
 
 ## O que é

@@ -1,22 +1,18 @@
 ---
+title: IPhO
 layout: olimpiada
 status: publish
-published: true
-title: IPhO
 author:
   display_name: Augusto
 link: http://ipho.phy.ntnu.edu.tw/
 image: ipho.png
 fullname: Olimpíada Internacional de Física
-redirect_from: 
-    - /ipho
-    - /olimpiadas/olimpiadas-de-fisica/ipho
-    - /olimpiadas/olimpiadas-de-fisica/ipho/
+redirect_from:
+- "/ipho"
+- "/olimpiadas/olimpiadas-de-fisica/ipho"
+- "/olimpiadas/olimpiadas-de-fisica/ipho/"
 ano: 2015
 ---
-
-  
- 
 
 ### **O que é**
 

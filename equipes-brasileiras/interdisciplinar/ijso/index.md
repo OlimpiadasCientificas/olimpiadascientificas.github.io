@@ -1,10 +1,10 @@
----  
-layout: equipe  
-title: IJSO  
-author:  
-  display_name: Ivan Tadeu Ferreira Antunes Filho  
----  
-  
+---
+title: IJSO
+layout: equipe
+author:
+  display_name: Ivan Tadeu Ferreira Antunes Filho
+---
+
 12º- 2015 - Daegu, na Coreia do Sul  
 ----  
    

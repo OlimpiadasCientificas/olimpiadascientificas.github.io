@@ -1,16 +1,16 @@
 ---
-layout: olimpiada 
+title: IChO
+date: 2011-10-11 20:59:20 Z
+layout: olimpiada
 link: http://www.ichosc.org/
-image: icho.png 
-fullname: Olimpíada Internacional de Química (IChO) 
-redirect_from: 
-    - /icho 
-    - /olimpiadas/olimpiadas-de-quimica/icho
-    - /olimpiadas/olimpiadas-de-quimica/icho/
+image: icho.png
+fullname: Olimpíada Internacional de Química (IChO)
+redirect_from:
+- "/icho"
+- "/olimpiadas/olimpiadas-de-quimica/icho"
+- "/olimpiadas/olimpiadas-de-quimica/icho/"
 ano: 2015
 status: publish
-published: true
-title: IChO
 author:
   display_name: Augusto
   login: augusto
@@ -20,7 +20,6 @@ author_login: augusto
 author_email: gutobenn@gmail.com
 wordpress_id: 182
 wordpress_url: http://olimpiadascientificas.info/?page_id=182
-date: '2011-10-11 16:59:20 -0400'
 date_gmt: '2011-10-11 19:59:20 -0400'
 categories: []
 tags: []

@@ -1,13 +1,13 @@
 ---
-layout: olimpiada 
+title: IPhOO
+date: 2014-05-21 03:07:21 Z
+layout: olimpiada
 link: http://www.onlinescienceolympiads.org/
-image: iphoo.png 
-fullname: International Physics Online Olympiad 
-redirect_from: /iphoo
+image: iphoo.png
+fullname: International Physics Online Olympiad
+redirect_from: "/iphoo"
 ano: 2015
 status: publish
-published: true
-title: IPhOO
 author:
   display_name: Guilherme Henrique
   login: guihenrique
@@ -16,8 +16,7 @@ author:
 author_login: guihenrique
 author_email: guilhermehpa97@hotmail.com
 wordpress_id: 8091
-wordpress_url: /?page_id=8091
-date: '2014-05-20 23:07:21 -0400'
+wordpress_url: "/?page_id=8091"
 date_gmt: '2014-05-21 02:07:21 -0400'
 categories: []
 tags: []

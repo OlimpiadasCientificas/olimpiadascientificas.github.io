@@ -1,15 +1,15 @@
 ---
-layout: olimpiada 
+title: 'Outros Países: Matemática'
+date: 2012-11-27 18:44:52 Z
+layout: olimpiada
 link: 
 image: 
-fullname: "Outros Países: Matemática"
-redirect_from: 
-    - /olimpiadas/olimpiadas-de-matematica/outros-paises-matematica
-    - /olimpiadas/olimpiadas-de-matematica/outros-paises-matematica/
+fullname: 'Outros Países: Matemática'
+redirect_from:
+- "/olimpiadas/olimpiadas-de-matematica/outros-paises-matematica"
+- "/olimpiadas/olimpiadas-de-matematica/outros-paises-matematica/"
 ano: 2015
 status: publish
-published: true
-title: 'Outros Países: Matemática'
 author:
   display_name: admin
   login: admin
@@ -18,8 +18,7 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 4409
-wordpress_url: /?page_id=4409
-date: '2012-11-27 13:44:52 -0500'
+wordpress_url: "/?page_id=4409"
 date_gmt: '2012-11-27 15:44:52 -0500'
 categories: []
 tags: []

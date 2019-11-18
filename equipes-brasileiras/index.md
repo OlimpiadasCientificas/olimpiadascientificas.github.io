@@ -1,8 +1,8 @@
 ---
+title: Equipes Brasileiras
+date: 2011-10-11 22:17:54 Z
 layout: page
 status: publish
-published: true
-title: Equipes Brasileiras
 author:
   display_name: Augusto
   login: augusto
@@ -12,12 +12,12 @@ author_login: augusto
 author_email: gutobenn@gmail.com
 wordpress_id: 248
 wordpress_url: http://olimpiadascientificas.info/?page_id=248
-date: '2011-10-11 18:17:54 -0400'
 date_gmt: '2011-10-11 18:17:54 -0400'
 categories: []
 tags: []
 comments: []
 ---
+
 Ao longo de diversos anos de competições e olimpíadas científicas, diversos alunos puderam representar o Brasil em eventos de ordem internacional.
 
 

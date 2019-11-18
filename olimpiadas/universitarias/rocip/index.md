@@ -1,10 +1,10 @@
 ---
-layout: olimpiada
 title: ROCiP
-link:  http://ortvay.elte.hu/
+layout: olimpiada
+link: http://ortvay.elte.hu/
 image: rocip.gif
 fullname: Rudolf Ortvay Competition in Physics
-redirect_from: /rocip
+redirect_from: "/rocip"
 ---
 
 ## O que é

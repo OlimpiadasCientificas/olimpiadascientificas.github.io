@@ -1,18 +1,15 @@
 ---
-layout: olimpiada
 title: Brazilian Brain Bee
-link:  http://cienciasecognicao.org/brazilianbrainbee/equipe/regulamentos-e-premiacoes/
+layout: olimpiada
+link: http://cienciasecognicao.org/brazilianbrainbee/equipe/regulamentos-e-premiacoes/
 image: obn.png
 fullname: Brazilian Brain Bee - Olimpíada Brasileira de Neurociências
-redirect_from: 
-    - /bbb
-    - /olimpiadas/olimpiadas-de-biologia/brazilian-brain-bee
-    - /olimpiadas/olimpiadas-de-biologia/brazilian-brain-bee/
+redirect_from:
+- "/bbb"
+- "/olimpiadas/olimpiadas-de-biologia/brazilian-brain-bee"
+- "/olimpiadas/olimpiadas-de-biologia/brazilian-brain-bee/"
 ano: 2015
 ---
-
-
-
 
 **O que é:**
 

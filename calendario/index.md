@@ -1,10 +1,10 @@
 ---
-layout: page
 title: Calendário
+date: 2011-10-09 00:10:27 Z
+layout: page
 author:
   display_name: admin
   wordpress_url: http://www.u3b.com.br/labs/?page_id=18
-date: '2011-10-08 20:10:27 -0400'
 date_gmt: '2011-10-08 20:10:27 -0400'
 ---
 

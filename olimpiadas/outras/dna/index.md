@@ -1,13 +1,13 @@
 ---
-layout: olimpiada 
+title: DNA - Desafio Nacional Acadêmico
+date: 2011-10-11 22:06:07 Z
+layout: olimpiada
 link: http://www.desafionacional.com.br/dna_em/default.asp
-image: dna.png 
-fullname: Desafio Nacional Acadêmico 
-redirect_from: /dna 
+image: dna.png
+fullname: Desafio Nacional Acadêmico
+redirect_from: "/dna"
 ano: 2015
 status: publish
-published: true
-title: DNA - Desafio Nacional Acadêmico
 author:
   display_name: admin
   login: admin
@@ -17,13 +17,11 @@ author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 225
 wordpress_url: http://olimpiadascientificas.info/?page_id=225
-date: '2011-10-11 18:06:07 -0400'
 date_gmt: '2011-10-11 21:06:07 -0400'
 categories: []
 tags: []
 comments: []
 ---
-
 
 [![](http://olimpiadascientificas.com/wp-content/uploads/2011/10/DNA-300x225.jpg "DNA"){: .size-medium .wp-image-226 .aligncenter width="300" height="225"}][1]
 

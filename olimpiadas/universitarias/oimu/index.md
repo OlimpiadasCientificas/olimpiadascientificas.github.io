@@ -1,10 +1,10 @@
 ---
-layout: olimpiada
 title: OIMU
-link:  http://oimu.eventos.cimat.mx/
+layout: olimpiada
+link: http://oimu.eventos.cimat.mx/
 image: oimu.jpg
-fullname: Olimpíada Iberoamericana de Matemática Universitária 
-redirect_from: /oimu
+fullname: Olimpíada Iberoamericana de Matemática Universitária
+redirect_from: "/oimu"
 ---
 
 ## O que é

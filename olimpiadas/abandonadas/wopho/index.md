@@ -1,13 +1,13 @@
 ---
-layout: olimpiada 
+title: WoPhO
+date: 2011-10-11 21:07:33 Z
+layout: olimpiada
 link: http://www.wopho.org/
-image: wopho.png 
+image: wopho.png
 fullname: World Physics Olympiad (WoPhO)
-redirect_from: /obx 
+redirect_from: "/obx"
 ano: 2015
 status: publish
-published: true
-title: WoPhO
 author:
   display_name: Cassio dos Santos Sousa
   login: cassioss
@@ -18,13 +18,11 @@ author_email: cassiosantossousa@gmail.com
 author_url: http://cassio.olimpiadascientificas.com
 wordpress_id: 188
 wordpress_url: http://olimpiadascientificas.info/?page_id=188
-date: '2011-10-11 17:07:33 -0400'
 date_gmt: '2011-10-11 20:07:33 -0400'
 categories: []
 tags: []
 comments: []
 ---
-
 
 ## <span style="color: #3366ff;">**Entenda a WoPho**</span>
 {: style="text-align: center;"}

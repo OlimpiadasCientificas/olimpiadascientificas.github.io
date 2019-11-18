@@ -1,7 +1,7 @@
---- 
-layout: equipe
+---
 title: IOL
---- 
+layout: equipe
+---
 
 ### 2012- Ljubljiana - Eslovênia
 Ivan Tadeu Ferreira Antunes Filho (Lins, SP) - Medalha de Prata

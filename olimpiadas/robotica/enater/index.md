@@ -1,13 +1,13 @@
 ---
-layout: olimpiada 
+title: ENATER
+date: 2014-08-30 02:54:11 Z
+layout: olimpiada
 link: http://enater.org/
-image: enater.png 
-fullname: Exame Nacional de Tecnologia em Robótica (ENATER) 
-redirect_from: /enater 
+image: enater.png
+fullname: Exame Nacional de Tecnologia em Robótica (ENATER)
+redirect_from: "/enater"
 ano: 2015
 status: publish
-published: true
-title: ENATER
 author:
   display_name: Cassio dos Santos Sousa
   login: cassioss
@@ -17,8 +17,7 @@ author_login: cassioss
 author_email: cassiosantossousa@gmail.com
 author_url: http://cassio.olimpiadascientificas.com
 wordpress_id: 4921
-wordpress_url: /?page_id=4921
-date: '2014-08-29 22:54:11 -0400'
+wordpress_url: "/?page_id=4921"
 date_gmt: '2014-08-30 01:54:11 -0400'
 categories: []
 tags: []

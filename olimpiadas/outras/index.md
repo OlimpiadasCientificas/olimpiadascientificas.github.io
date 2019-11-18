@@ -1,8 +1,8 @@
 ---
+title: Outras
+date: 2012-07-12 12:56:15 Z
 layout: page
 status: publish
-published: true
-title: Outras
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
   login: itadeufa
@@ -12,8 +12,7 @@ author_login: itadeufa
 author_email: itadeufa@gmail.com
 author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 2618
-wordpress_url: /?page_id=2618
-date: '2012-07-12 08:56:15 -0400'
+wordpress_url: "/?page_id=2618"
 date_gmt: '2012-07-12 11:56:15 -0400'
 categories: []
 tags: []

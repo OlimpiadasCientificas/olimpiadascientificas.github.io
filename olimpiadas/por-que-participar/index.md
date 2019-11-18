@@ -1,8 +1,8 @@
 ---
+title: Por que participar?
+date: 2011-10-09 00:05:12 Z
 layout: page
 status: publish
-published: true
-title: Por que participar?
 author:
   display_name: admin
   login: admin
@@ -12,7 +12,6 @@ author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 12
 wordpress_url: http://u3b.com.br/labs/?page_id=12
-date: '2011-10-08 20:05:12 -0400'
 date_gmt: '2011-10-08 20:05:12 -0400'
 categories: []
 tags: []
@@ -23,11 +22,11 @@ comments:
   author_url: http://iyptbr.wordpress.com/2012/09/03/10-reasons-to-engage-iypt/
   date: '2012-10-01 13:51:36 -0400'
   date_gmt: '2012-10-01 16:51:36 -0400'
-  content: "[...] the nationals. So, as the website Olimpíadas Científicas
-    (Scientific Olympiads) wrote about the ten reasons why one should participate
-    on Olympiads, I&#8217;ve decided to write why IYPT can be the most incredible
-    and complete experience of [...]"
-redirect_from: /olimpiadas
+  content: "[...] the nationals. So, as the website Olimpíadas Científicas (Scientific
+    Olympiads) wrote about the ten reasons why one should participate on Olympiads,
+    I&#8217;ve decided to write why IYPT can be the most incredible and complete experience
+    of [...]"
+redirect_from: "/olimpiadas"
 ---
 
 ### Por que participar de Olimpíadas Científicas?

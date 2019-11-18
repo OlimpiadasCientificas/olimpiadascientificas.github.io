@@ -1,10 +1,10 @@
 ---
-layout: olimpiada
 title: Maratona de Programação
+layout: olimpiada
 link: http://maratona.ime.usp.br/
 image: maratona.jpg
 fullname: Maratona de Programação
-redirect_from: /maratona
+redirect_from: "/maratona"
 ---
 
 ## O que é

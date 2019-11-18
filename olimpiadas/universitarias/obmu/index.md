@@ -1,14 +1,11 @@
 ---
-layout: olimpiada
 title: OBMU
-link:  https://www.obm.org.br
+layout: olimpiada
+link: https://www.obm.org.br
 image: obm.png
-fullname: Olimpíada Brasileira de Matemática - Nível Universitário 
-redirect_from: /obmu
+fullname: Olimpíada Brasileira de Matemática - Nível Universitário
+redirect_from: "/obmu"
 ---
-
-
-
 
 ## O que é
 

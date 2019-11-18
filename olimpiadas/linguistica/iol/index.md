@@ -1,11 +1,10 @@
 ---
-layout: olimpiada
 title: IOL
-link:  http://www.ioling.org/
+layout: olimpiada
+link: http://www.ioling.org/
 image: iol.png
 fullname: International Linguistics Olympiad- Olimpíada Internacional de Linguística
 ---
-
 
 **O que é**
 

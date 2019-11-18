@@ -1,8 +1,8 @@
 ---
-layout: equipe  
-status: publish
-published: true
 title: IYPT
+date: 2012-03-19 03:21:11 Z
+layout: equipe
+status: publish
 author:
   display_name: Cassio dos Santos Sousa
   login: cassioss
@@ -12,8 +12,7 @@ author_login: cassioss
 author_email: cassiosantossousa@gmail.com
 author_url: http://cassio.olimpiadascientificas.com
 wordpress_id: 1390
-wordpress_url: /?page_id=1390
-date: '2012-03-18 23:21:11 -0400'
+wordpress_url: "/?page_id=1390"
 date_gmt: '2012-03-19 02:21:11 -0400'
 categories: []
 tags: []
@@ -25,8 +24,8 @@ comments:
   date: '2013-01-16 03:15:59 -0500'
   date_gmt: '2013-01-16 05:15:59 -0500'
   content: "[...] brasileiras passadas, encontrei algumas fotos antigas e consegui
-    montar as páginas dos grupos de 2005 e 2006 no Olimpíadas Científicas.
-    Páginas semelhantes podem ser encontradas para as equipes de [...]"
+    montar as páginas dos grupos de 2005 e 2006 no Olimpíadas Científicas. Páginas
+    semelhantes podem ser encontradas para as equipes de [...]"
 ---
 
 Fonte: [Histórico do Brasil no IYPT][1]

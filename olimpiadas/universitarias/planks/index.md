@@ -1,10 +1,10 @@
 ---
-layout: olimpiada
 title: PLANCKS
-link:  http://www.plancks.info/
+layout: olimpiada
+link: http://www.plancks.info/
 image: planck-3d.gif.jpeg
-fullname: Physics League Across Numerous Countries for Kick-ass Students 
-redirect_from: /planks
+fullname: Physics League Across Numerous Countries for Kick-ass Students
+redirect_from: "/planks"
 ---
 
 ## O que é

@@ -1,10 +1,11 @@
 ---
-layout: olimpiada
 title: Viagem do Conhecimento
-link:  http://www.viagemdoconhecimento.com.br/
+layout: olimpiada
+link: http://www.viagemdoconhecimento.com.br/
 image: viagem.png
 fullname: Desafio National Geographic
 ---
+
 # Organizada Pela Última vez em 2015
 
 ### **O que é**

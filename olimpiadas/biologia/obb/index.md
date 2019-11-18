@@ -1,19 +1,15 @@
 ---
-layout: olimpiada
 title: OBB
-link:  http://olimpiadasdebiologia.butantan.gov.br/Paginas/default.aspx
+layout: olimpiada
+link: http://olimpiadasdebiologia.butantan.gov.br/Paginas/default.aspx
 image: obb.png
 fullname: Olimpíada Brasileira de Biologia
-redirect_from: 
-    - /obb
-    - /olimpiadas/olimpiadas-de-biologia/obb
-    - /olimpiadas/olimpiadas-de-biologia/obb/
+redirect_from:
+- "/obb"
+- "/olimpiadas/olimpiadas-de-biologia/obb"
+- "/olimpiadas/olimpiadas-de-biologia/obb/"
 ano: 2015
 ---
-
-
-  
- 
 
 ### O que estudar?
 

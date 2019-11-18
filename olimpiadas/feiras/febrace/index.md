@@ -1,7 +1,7 @@
 ---
-layout: olimpiada
 title: FEBRACE
-link:  http://febrace.org.br/
+layout: olimpiada
+link: http://febrace.org.br/
 image: febrace.png
 fullname: Feira Brasileira de Ciências e Engenharia
 ---

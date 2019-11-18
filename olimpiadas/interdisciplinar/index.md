@@ -1,8 +1,8 @@
 ---
+title: Interdisciplinar
+date: 2012-07-12 13:00:31 Z
 layout: page
 status: publish
-published: true
-title: Interdisciplinar
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
   login: itadeufa
@@ -12,13 +12,13 @@ author_login: itadeufa
 author_email: itadeufa@gmail.com
 author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 2626
-wordpress_url: /?page_id=2626
-date: '2012-07-12 09:00:31 -0400'
+wordpress_url: "/?page_id=2626"
 date_gmt: '2012-07-12 12:00:31 -0400'
 categories: []
 tags: []
 comments: []
 ---
+
 Nós já temos uma [lista de razões de por que participar de olimpíadas
 científicas][1], mas agora temos também razões para participar de cada
 tipo especíico de competição!

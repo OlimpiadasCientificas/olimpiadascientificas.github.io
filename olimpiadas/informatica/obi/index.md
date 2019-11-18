@@ -1,9 +1,9 @@
 ---
-layout: olimpiada
 title: OBI
-link:  http://olimpiada.ic.unicamp.br/
+layout: olimpiada
+link: http://olimpiada.ic.unicamp.br/
 image: obi.png
-fullname: Olimpíada Brasileira de Informática 
+fullname: Olimpíada Brasileira de Informática
 ---
 
 Estes textos foram retirados do site da OBI, com pequenas alterações. como negritos, itálicos e sublihados, feitas pelo \"Olimpíadas Científicas\".

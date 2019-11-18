@@ -1,8 +1,7 @@
 ---
+title: OBA
 layout: olimpiada
 status: publish
-published: true
-title: OBA
 author:
   display_name: Augusto
 link: http://www.oba.org.br/site/index.php
@@ -10,8 +9,6 @@ image: oba.png
 fullname: Olimpíada Brasileira de Astronomia e Astronáutica
 ---
 
-
-  
 **O que é:** Olimpíada de astronomia para estudantes brasileiros de todas as séries e todos os tipos de escola.  
 **Quem organiza: **Sociedade Astronômica Brasileira (SAB)
 

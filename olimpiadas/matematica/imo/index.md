@@ -1,16 +1,16 @@
 ---
-layout: olimpiada 
+title: IMO
+date: 2011-10-11 20:42:04 Z
+layout: olimpiada
 link: http://www.imo-official.org/
-image: imo.png 
-fullname:  Olimpíada Internacional de Matemática
-redirect_from: 
-    - /imo
-    - /olimpiadas/olimpiadas-de-matematica/imo
-    - /olimpiadas/olimpiadas-de-matematica/imo/
+image: imo.png
+fullname: Olimpíada Internacional de Matemática
+redirect_from:
+- "/imo"
+- "/olimpiadas/olimpiadas-de-matematica/imo"
+- "/olimpiadas/olimpiadas-de-matematica/imo/"
 ano: 2015
 status: publish
-published: true
-title: IMO
 author:
   display_name: Augusto
   login: augusto
@@ -20,14 +20,11 @@ author_login: augusto
 author_email: gutobenn@gmail.com
 wordpress_id: 175
 wordpress_url: http://olimpiadascientificas.info/?page_id=175
-date: '2011-10-11 16:42:04 -0400'
 date_gmt: '2011-10-11 19:42:04 -0400'
 categories: []
 tags: []
 comments: []
 ---
-
-
 
 A International Mathematics Olympiad (Olimpíada Internacional de Matemática) é uma competição internacional de matemática que ocorre anualmente e é destinada a alunos do ensino médio.
 {: style="text-align: justify;"}

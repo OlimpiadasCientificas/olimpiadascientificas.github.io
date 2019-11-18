@@ -1,7 +1,8 @@
---- 
-layout: equipe
+---
 title: Lusofonia
---- 
+layout: equipe
+---
+
 Fonte: [Olimpíada Brasileira de Matemática][1]
 
 ### 2012 - Salvador (BA), Brasil

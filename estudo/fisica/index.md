@@ -1,11 +1,11 @@
----  
-layout: page  
-title: Física  
-author:  
-  display_name: Ivan Tadeu Ferreira Antunes Filho  
+---
+title: Física
+layout: page
+author:
+  display_name: Ivan Tadeu Ferreira Antunes Filho
 ano: 2015
 comment: true
----  
+---
 
 # Estudo de Física
 

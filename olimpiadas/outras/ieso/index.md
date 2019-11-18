@@ -1,13 +1,13 @@
 ---
-layout: olimpiada 
+title: IESO
+date: 2013-01-28 06:13:01 Z
+layout: olimpiada
 link: http://www.ieso-info.org/
-image: ieso.png 
-fullname: Olimpíada Internacional de Ciências da Terra 
-redirect_from: /ieso 
+image: ieso.png
+fullname: Olimpíada Internacional de Ciências da Terra
+redirect_from: "/ieso"
 ano: 2015
 status: publish
-published: true
-title: IESO
 author:
   display_name: Cassio dos Santos Sousa
   login: cassioss
@@ -17,24 +17,21 @@ author_login: cassioss
 author_email: cassiosantossousa@gmail.com
 author_url: http://cassio.olimpiadascientificas.com
 wordpress_id: 4654
-wordpress_url: /?page_id=4654
-date: '2013-01-28 01:13:01 -0500'
+wordpress_url: "/?page_id=4654"
 date_gmt: '2013-01-28 03:13:01 -0500'
 categories: []
 tags: []
 comments:
 - id: 8023
-  author: Etec BeSt entre as 50 melhores na Olimpíada de Agropecuária
-    | Etec Best Green News
+  author: Etec BeSt entre as 50 melhores na Olimpíada de Agropecuária | Etec Best
+    Green News
   author_email: ''
   author_url: https://bestgreennews.wordpress.com/2015/09/11/etec-best-entre-as-50-melhores-na-olimpiada-de-agropecuaria/
   date: '2015-09-11 17:43:57 -0400'
   date_gmt: '2015-09-11 20:43:57 -0400'
-  content: "[&#8230;] que receberem ouro na olimpíada serão convidados
-    para a seletiva para representar o Brasil na IESO(Olimpíada Internacional
-    de Ciências da [&#8230;]"
+  content: "[&#8230;] que receberem ouro na olimpíada serão convidados para a seletiva
+    para representar o Brasil na IESO(Olimpíada Internacional de Ciências da [&#8230;]"
 ---
-
 
 ## International Earth Science Olympiad
 {: style="text-align: center;"}

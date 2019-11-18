@@ -1,16 +1,16 @@
 ---
-layout: olimpiada 
+title: OBMEP
+date: 2012-07-01 03:24:37 Z
+layout: olimpiada
 link: http://www.obmep.org.br/
-image: obmep.png 
-fullname: Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP) 
-redirect_from: 
-    - /obmep
-    - /olimpiadas/olimpiadas-de-matematica/obmep
-    - /olimpiadas/olimpiadas-de-matematica/obmep/
+image: obmep.png
+fullname: Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)
+redirect_from:
+- "/obmep"
+- "/olimpiadas/olimpiadas-de-matematica/obmep"
+- "/olimpiadas/olimpiadas-de-matematica/obmep/"
 ano: 2015
 status: publish
-published: true
-title: OBMEP
 author:
   display_name: admin
   login: admin
@@ -19,14 +19,12 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 2311
-wordpress_url: /?page_id=2311
-date: '2012-06-30 23:24:37 -0400'
+wordpress_url: "/?page_id=2311"
 date_gmt: '2012-07-01 02:24:37 -0400'
 categories: []
 tags: []
 comments: []
 ---
-
 
 A Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP) é um projeto que tem como objetivo estimular o estudo da matemática e revelar talentos no Brasil. Atualmente, esta em sua 10º edição e com mais de 19,5
 milhões de participantes, é a maior Olimpíada de Matemática do mundo.

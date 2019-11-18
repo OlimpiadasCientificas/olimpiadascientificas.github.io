@@ -1,11 +1,10 @@
 ---
-layout: olimpiada
 title: O que são Olimpíadas Científicas?
-link:  
+layout: olimpiada
+link: 
 image: boneco-pergunta.png
 fullname: Olimpíadas Científicas?
 ---
-
 
 ### O que elas são?
 

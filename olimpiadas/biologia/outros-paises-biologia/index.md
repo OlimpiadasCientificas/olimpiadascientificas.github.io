@@ -1,12 +1,12 @@
 ---
-layout: olimpiada
 title: Outros Paises - Biologia
-link:  
+layout: olimpiada
+link: 
 image: obb1.png
 fullname: Outros Paises - Biologia
-redirect_from: 
-    - /olimpiadas/olimpiadas-de-biologia/outros-paises-biologia
-    - /olimpiadas/olimpiadas-de-biologia/outros-paises-biologia/
+redirect_from:
+- "/olimpiadas/olimpiadas-de-biologia/outros-paises-biologia"
+- "/olimpiadas/olimpiadas-de-biologia/outros-paises-biologia/"
 ano: 2015
 ---
 

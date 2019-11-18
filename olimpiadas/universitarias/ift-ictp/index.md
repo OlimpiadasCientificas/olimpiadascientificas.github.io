@@ -1,11 +1,11 @@
 ---
-layout: olimpiada
 title: Prêmio IFT-ICTP
-link:  http://ortvay.elte.hu/
+layout: olimpiada
+link: http://ortvay.elte.hu/
 image: rocip.gif
 fullname: Prêmio IFT-ICTP para Jovens Físicos (antigo Prêmio FIFT)
-redirect_to: 
-    - /ift-ictp
+redirect_to:
+- "/ift-ictp"
 ---
 
 ## O que é

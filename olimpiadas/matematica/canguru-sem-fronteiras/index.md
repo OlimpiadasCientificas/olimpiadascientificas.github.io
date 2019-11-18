@@ -1,15 +1,14 @@
 ---
+title: Canguru Sem fronteiras
 layout: olimpiada
 status: publish
-published: true
-title: Canguru Sem fronteiras
 link: https://www.cangurudematematicabrasil.com.br/
 image: canguru.png
 fullname: KANGOUROU SANS FRONTIERES
-redirect_from: 
-    - /csf
-    - /olimpiadas/olimpiadas-de-matematica/canguru-sem-fronteiras
-    - /olimpiadas/olimpiadas-de-matematica/canguru-sem-fronteiras/
+redirect_from:
+- "/csf"
+- "/olimpiadas/olimpiadas-de-matematica/canguru-sem-fronteiras"
+- "/olimpiadas/olimpiadas-de-matematica/canguru-sem-fronteiras/"
 ano: 2015
 ---
 

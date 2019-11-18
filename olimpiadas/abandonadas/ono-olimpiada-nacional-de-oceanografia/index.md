@@ -1,13 +1,13 @@
 ---
-layout: olimpiada 
+title: ONO - Olimpíada Nacional de Oceanografia
+date: 2012-08-04 15:42:04 Z
+layout: olimpiada
 link: https://web.archive.org/web/20130317112519/http://www.aoceano.org.br/ono2012/
-image: ono.png 
-fullname: Olimpíada Nacional de Oceanografia (ONO) 
-redirect_from: /ono 
+image: ono.png
+fullname: Olimpíada Nacional de Oceanografia (ONO)
+redirect_from: "/ono"
 ano: 2015
 status: publish
-published: true
-title: ONO - Olimpíada Nacional de Oceanografia
 author:
   display_name: admin
   login: admin
@@ -16,8 +16,7 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 2842
-wordpress_url: /?page_id=2842
-date: '2012-08-04 11:42:04 -0400'
+wordpress_url: "/?page_id=2842"
 date_gmt: '2012-08-04 14:42:04 -0400'
 categories: []
 tags: []

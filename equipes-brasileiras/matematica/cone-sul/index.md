@@ -1,7 +1,7 @@
---- 
-layout: equipe
+---
 title: Cone Sul
---- 
+layout: equipe
+---
 
 Fonte: [Olimpíada Brasileira de Matemática][1]{: target="_blank"}
 

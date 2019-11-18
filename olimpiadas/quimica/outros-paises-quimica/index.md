@@ -1,15 +1,15 @@
 ---
-layout: olimpiada 
+title: 'Outros Países: Química'
+date: 2012-11-27 19:08:38 Z
+layout: olimpiada
 link: 
 image: 
-fullname: 'Outros Países: Química'  
-redirect_from: 
-   - /olimpiadas/olimpiadas-de-quimica/outros-paises-quimica
-   - /olimpiadas/olimpiadas-de-quimica/outros-paises-quimica/
+fullname: 'Outros Países: Química'
+redirect_from:
+- "/olimpiadas/olimpiadas-de-quimica/outros-paises-quimica"
+- "/olimpiadas/olimpiadas-de-quimica/outros-paises-quimica/"
 ano: 2015
 status: publish
-published: true
-title: 'Outros Países: Química'
 author:
   display_name: admin
   login: admin
@@ -18,8 +18,7 @@ author:
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 4416
-wordpress_url: /?page_id=4416
-date: '2012-11-27 14:08:38 -0500'
+wordpress_url: "/?page_id=4416"
 date_gmt: '2012-11-27 16:08:38 -0500'
 categories: []
 tags: []
