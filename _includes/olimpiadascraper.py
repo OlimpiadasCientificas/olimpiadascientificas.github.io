@@ -15,6 +15,8 @@ class NewsItem:
         self.summary = summary
         self.date = date
     def getParsedDate(self):
+        if isinstance(self.date, str):
+            return self.date
         if self.date == "":
             return ""
         else:
@@ -136,6 +138,26 @@ def getDataFromOba():
     items = [NewsItem(title = "Notícias da OBA", url = "http://www.oba.org.br/site/?p=conteudo&pag=conteudo&idconteudo=12&idcat=18&subcat=", summary = content)]
     return NewsOuterContainer("OBA", 'http://www.oba.org.br/', items)
 
+def getDataFromObb():
+    provas = elementFromUrl("http://olimpiadasdebiologia.butantan.gov.br/provas-e-gabaritos-e-classificacoes")
+    provasdiv = provas.xpath('//div[@class="element0inOrder0"]')[0]
+    provascontent = outerHtml(provasdiv, "http://olimpiadasdebiologia.butantan.gov.br/")
+    provasItem =NewsItem(title = "Provas", url = "http://olimpiadasdebiologia.butantan.gov.br/provas-e-gabaritos-e-classificacoes", summary = provascontent)
+
+    fases = elementFromUrl("http://olimpiadasdebiologia.butantan.gov.br/fases")
+    fasesdiv = fases.xpath('//div[@class="element0inOrder0"]')[0]
+    fasescontent = outerHtml(fasesdiv, "http://olimpiadasdebiologia.butantan.gov.br/")
+    fasesItem =NewsItem(title = "Fases", url = "http://olimpiadasdebiologia.butantan.gov.br/fases", summary = fasescontent)
+
+    
+    insc = elementFromUrl("http://olimpiadasdebiologia.butantan.gov.br/inscricoes-e-regulamentos")
+    inscdiv = insc.xpath('//div[@class="element0inOrder1"]')[0]
+    insccontent = outerHtml(inscdiv, "http://olimpiadasdebiologia.butantan.gov.br/")
+    inscItem =NewsItem(title = "Inscrições", url = "http://olimpiadasdebiologia.butantan.gov.br/inscricoes-e-regulamentos", summary = insccontent)
+
+    items = [provasItem, fasesItem, inscItem]
+    
+    return NewsOuterContainer("OBB", 'http://olimpiadasdebiologia.butantan.gov.br/', items)
 
 def getDataFromObc(p):
     """useless"""
@@ -197,7 +219,7 @@ def getDataFromNoic():
 
 class TabbedContainers:
     def __init__(self, containers):
-        self.containers = containers
+        self.containers = [container for container in containers if container] #Ignore empty things
     
     def generateAllHtml(self):
         buttons = self.generateButtons()
@@ -296,8 +318,15 @@ openTab('%s','%s')
         return css
     
 
+
+def f(function):
+    try:
+        return function()
+    except:
+        return None
+    
 if __name__ == "__main__":
-    containers = [getDataFromNoic(), getDataFromObm(), getDataFromObf(), getDataFromOba(), getDataFromObq(), getDataFromObi(), getDataFromOnhb()]
+    containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb)]
 
     tabbedContainers = TabbedContainers(containers)
 
