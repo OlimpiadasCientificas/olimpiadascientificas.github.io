@@ -62,7 +62,8 @@ def urlFromA(elementA):
     return elementA.attrib['href']
 
 def elementFromUrl(url):
-    page = requests.get(url)
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'}
+    page = requests.get(url, headers=headers)
     element = html.fromstring(page.content)
     return element 
 
@@ -249,9 +250,11 @@ def getDataFromObg():
     return NewsOuterContainer("OBG", 'https://obgeografia.org/', items)
     
 def getDataFromObmep():
+    number = 25
     content = elementFromUrl("http://www.obmep.org.br/listarNoticias.DO")
     obmephtml = content.xpath('//ul[@id="internalNewsList"]//a')
     items = itemFromAs(obmephtml, "http://www.obmep.org.br/listarNoticias.DO")
+    items = items[:number]
     return NewsOuterContainer("OBMEP", 'http://www.obmep.org.br/', items)
 
 def getDataFromIyptBr():
@@ -368,7 +371,7 @@ def f(function):
         return None
     
 if __name__ == "__main__":
-    containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb), f(getDataFromObl), f(getDataFromObn), f(getDataFromObr),  f(getDataFromObsma), f(getDataFromObc), f(getDataFromIyptBr)]
+    containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb), f(getDataFromObl), f(getDataFromObn), f(getDataFromObr),  f(getDataFromObsma), f(getDataFromObc), f(getDataFromIyptBr), f(getDataFromObmep)]
     tabbedContainers = TabbedContainers(containers)
     text = tabbedContainers.generateAllHtml()
 
