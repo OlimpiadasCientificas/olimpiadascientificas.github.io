@@ -170,6 +170,7 @@ def getDataFromObl():
 
 def getDataFromObc(p):
     """useless"""
+    "div class landing-banner-inner"
     oba = requests.get("http://www.obciencias.com.br/notiacutecias.html")
     obatree = html.fromstring(oba.content)
     obanewshtml = obatree.xpath('//div[@id="lista"]//a')
