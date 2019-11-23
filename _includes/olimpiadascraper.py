@@ -65,9 +65,15 @@ def elementFromUrl(url):
     return element 
 
 def itemFromAs(elementAs, baseref=""):
+    if elementAs:
+        for br in elementAs[0].xpath("//br"):
+            br.tail = " " + br.tail if br.tail else " "
+            
     for item in elementAs:
         if baseref:
             item.make_links_absolute(baseref)
+
+
     items = [NewsItem(x.text_content(), x.attrib['href']) for x in elementAs]
     return items
 
@@ -112,12 +118,13 @@ def getDataFromObi():
     container = NewsOuterContainer(title = "OBI", url = 'https://olimpiada.ic.unicamp.br/', items = items)
     return container
 
-def getDataFromO():
-    obi = elementFromUrl('https://olimpiada.ic.unicamp.br/')
-    content = obi.xpath('//div[@class="copy-banner"]')[0]
-    contentHtml = outerHtml(content)
-    item = NewsItem(title = "OBI", url = "https://olimpiada.ic.unicamp.br/", summary = contentHtml)
-    container = NewsOuterContainer(title = "OBI", url = 'https://olimpiada.ic.unicamp.br/', items = [item])
+def getDataFromOnhb():
+    links = ["https://www.olimpiadadehistoria.com.br/noticias/index?CFP=0&ONHB=1", "https://www.olimpiadadehistoria.com.br/noticias/index/page:2?CFP=0&ONHB=1", "https://www.olimpiadadehistoria.com.br/noticias/index/page:3?CFP=0&ONHB=1"]
+    onhbs =  map(lambda x: elementFromUrl(x), links) 
+    contents = map(lambda x: x.xpath('//a[@class="link_limpo"]'), onhbs)
+    itemss = map(lambda x: itemFromAs(x, 'https://www.olimpiadadehistoria.com.br/'), contents)
+    items = functools.reduce(operator.add, itemss)
+    container = NewsOuterContainer(title = "ONHB", url = 'https://www.olimpiadadehistoria.com.br/', items = items)
     return container
 
 def getDataFromOba():
@@ -290,7 +297,7 @@ openTab('%s','%s')
     
 
 if __name__ == "__main__":
-    containers = [getDataFromNoic(), getDataFromObm(), getDataFromObf(), getDataFromOba(), getDataFromObq(), getDataFromObi()]
+    containers = [getDataFromNoic(), getDataFromObm(), getDataFromObf(), getDataFromOba(), getDataFromObq(), getDataFromObi(), getDataFromOnhb()]
 
     tabbedContainers = TabbedContainers(containers)
 
