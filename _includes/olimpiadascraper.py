@@ -227,16 +227,20 @@ def getDataFromNoic():
     return noicItems
 
 def getDataFromObr():
-    "www.obr.org.br/rss"
+    obr = parseFeed("http://www.obr.org.br/rss")
+    return obr
     
 def getDataFromObmep():
     "http://www.obmep.org.br/listarNoticias.DO"
 
 def getDataFromObn():
-    "http://cienciasecognicao.org/brazilianbrainbee/feed"
+    obn = parseFeed("http://cienciasecognicao.org/brazilianbrainbee/feed")
+    obn.title = "OBN"
+    return obn
     
 def getDataFromObsma():
-    "https://olimpiada.fiocruz.br/rss"
+    obsma = parseFeed("https://olimpiada.fiocruz.br/rss")
+    return obsma
     
 def getDataFromIyptBr():
     "a wsite-button-highlight"
@@ -349,7 +353,7 @@ def f(function):
         return None
     
 if __name__ == "__main__":
-    containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb), f(getDataFromObl)]
+    containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb), f(getDataFromObl), f(getDataFromObn), f(getDataFromObr),  f(getDataFromObsma)]
     tabbedContainers = TabbedContainers(containers)
     text = tabbedContainers.generateAllHtml()
 
