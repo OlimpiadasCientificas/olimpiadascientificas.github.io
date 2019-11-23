@@ -159,6 +159,15 @@ def getDataFromObb():
     
     return NewsOuterContainer("OBB", 'http://olimpiadasdebiologia.butantan.gov.br/', items)
 
+def getDataFromObl():
+    obl = elementFromUrl("http://www.obling.org/")
+    obldiv = obl.xpath('//div[@id="how"]')[0]
+    content = outerHtml(obldiv, "http://www.obling.org/")
+    items = [NewsItem(title = "Linha do tempo da OBL", url = "http://www.obling.org/", summary = content)]
+    return NewsOuterContainer("OBL", 'http://www.obling.org//', items)
+
+
+
 def getDataFromObc(p):
     """useless"""
     oba = requests.get("http://www.obciencias.com.br/notiacutecias.html")
@@ -326,9 +335,9 @@ def f(function):
         return None
     
 if __name__ == "__main__":
-    containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb)]
-
+    containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb), f(getDataFromObl())]
     tabbedContainers = TabbedContainers(containers)
+    text = tabbedContainers.generateAllHtml()
 
     import sys, os
     directory = os.path.dirname(os.path.abspath(__file__))
@@ -336,5 +345,5 @@ if __name__ == "__main__":
     filepath = os.path.join(directory, filename)
     print("generating "+ filepath)
     f = open(filepath, "w")
-    f.write(tabbedContainers.generateAllHtml())
+    f.write(text)
     f.close()
