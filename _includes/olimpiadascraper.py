@@ -226,7 +226,20 @@ def getDataFromNoic():
     noicItems.toHtml = lambda : re.sub('\\n.*NOIC</a>.</p>', '', oldToHtml())
     return noicItems
 
+def getDataFromObr():
+    "www.obr.org.br/rss"
+    
+def getDataFromObmep():
+    "http://www.obmep.org.br/listarNoticias.DO"
 
+def getDataFromObn():
+    "http://cienciasecognicao.org/brazilianbrainbee/feed"
+    
+def getDataFromObsma():
+    "https://olimpiada.fiocruz.br/rss"
+    
+def getDataFromIyptBr():
+    "a wsite-button-highlight"
 class TabbedContainers:
     def __init__(self, containers):
         self.containers = [container for container in containers if container] #Ignore empty things
