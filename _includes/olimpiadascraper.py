@@ -30,10 +30,10 @@ class NewsItem:
 
 class NewsOuterContainer:
     cssClass = "rss-box"
-    def __init__(self, title, url, innerItems):
+    def __init__(self, title, url, items):
         self.title = title
         self.url = url
-        self.innerItems = innerItems
+        self.items = items
 
     def outerTop(self):
        return  f"""<div class="{self.cssClass}" id="{self.getHtmlID()}"><p class="rss-title">{self.title}</p><ul class="rss-items">"""
@@ -42,8 +42,8 @@ class NewsOuterContainer:
        return  """</li></ul></div>"""
         
     def toHtml(self):
-        innerItemsHtml = [x.toHtml() for x in self.innerItems]
-        innerHtml = functools.reduce(operator.add, innerItemsHtml)
+        itemsHtml = [x.toHtml() for x in self.items]
+        innerHtml = functools.reduce(operator.add, itemsHtml)
         return self.outerTop() + innerHtml + self.outerBottom()
     
     def getHtmlID(self):
@@ -51,8 +51,8 @@ class NewsOuterContainer:
     
     def __str__(self):
         outerText = f"{self.title} {self.url} \n"
-        innerItemsText = [str(x) for x in self.innerItems]
-        innerText = functools.reduce(lambda a,b: a + "\n" + b, innerItemsText)
+        itemsText = [str(x) for x in self.items]
+        innerText = functools.reduce(lambda a,b: a + "\n" + b, itemsText)
         return outerText + innerText
     
 #Helper functions
@@ -100,20 +100,12 @@ def getDataFromObf():
 def getDataFromOba():
     oba = requests.get("http://www.oba.org.br/site/?p=conteudo&pag=conteudo&idconteudo=12&idcat=18&subcat=")
     obatree = html.fromstring(oba.content)
-    #for br in obatree.xpath("*//br"):
-    #    br.tail = "\n" + br.tail if br.tail else "\n"
     obanewshtml = obatree.xpath('//span[@class="subtitulocont"]')
     obanewshtml = obanewshtml[0].getparent()
-    #content = obanewshtml[0].getparent().text_content()
-    #content = re.sub('\n', '<br>\n', content)
     content = outerHtml(obanewshtml, "http://www.oba.org.br/site/")
     items = [NewsItem(title = "Notícias da OBA", url = "http://www.oba.org.br/site/?p=conteudo&pag=conteudo&idconteudo=12&idcat=18&subcat=", summary = content)]
     return NewsOuterContainer("OBA", 'http://www.oba.org.br/', items)
-#    oba = requests.get("http://www.oba.org.br/site/?p=conteudo&pag=conteudo&idcat=17")
-#    obatree = html.fromstring(oba.content)
-#    obanewshtml = obatree.xpath('//div[@id="lista"]//a')
-#    items = itemFromAs(obanewshtml, )
-#    return NewsOuterContainer("OBA", 'http://www.oba.org.br/', items)
+
 
 def getDataFromObc(p):
     """useless"""
@@ -124,6 +116,27 @@ def getDataFromObc(p):
     
 def getDataFromObq():
     "http://www.obquimica.org/noticias/"
+    number = 20
+    obq = requests.get("http://www.obquimica.org/noticias/")
+    obqtree = html.fromstring(obq.content)
+    parseDate = lambda date: datetime.datetime.strptime(date, '%d/%m/%Y')
+    dates = obqtree.xpath('//i[@class="fa fa-calendar"]')
+    newestDates = dates[:number]
+    newestDates = [date.getparent().text_content()[1:] for date in newestDates]
+    newestDates = [parseDate(d) for d in newestDates]
+    news = obqtree.xpath('//div[@class="post-text"]/a')
+    newestNews = news[:number]
+    urls = [urlFromA(n) for n in newestNews]
+    titles = [a.getchildren()[0].text for a in newestNews]
+    
+    authors = obqtree.xpath('//div[@class="post-site-info"]')[:number]
+    authors = [author.text_content().strip() for author in authors]
+    
+    data = zip(titles, urls, newestDates, authors)
+    newsItem = lambda x: NewsItem(title = x[0], url = x[1], author = x[3], summary = "", date = x[2])
+    items = [newsItem(x) for x in data]
+    return NewsOuterContainer("OBQ", 'http://www.obquimica.org/noticias/', items)
+    
 import feedparser
 def parseFeed(url):
     feed = feedparser.parse(url)
@@ -254,7 +267,7 @@ openTab('%s','%s')
     
 
 if __name__ == "__main__":
-    containers = [getDataFromNoic(), getDataFromObm(), getDataFromObf(), getDataFromOba()]
+    containers = [getDataFromNoic(), getDataFromObm(), getDataFromObf(), getDataFromOba(), getDataFromObq()]
 
     tabbedContainers = TabbedContainers(containers)
 
