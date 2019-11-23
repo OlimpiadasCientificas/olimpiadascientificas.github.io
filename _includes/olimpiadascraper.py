@@ -63,6 +63,19 @@ def itemFromAs(elementAs, prependURL=""):
     items = [NewsItem(x.text, prependURL + x.attrib['href']) for x in elementAs]
     return items
 
+from lxml import etree
+def outerHtml(element, baseref=""):
+    """make_links_absolute(base_href, resolve_base_href=True):
+
+    This makes all links in the document absolute, assuming that base_href is the URL of the document. So if you pass base_href="http://localhost/foo/bar.html" and there is a link to baz.html that will be rewritten as http://localhost/foo/baz.html."""
+    if baseref:
+        element.make_links_absolute(baseref)
+    for tag in element.xpath('//*[@class]'):
+        # For each element with a class attribute, remove that class attribute
+        tag.attrib.pop('class')
+    etree.strip_elements(element, ['img'])
+    return clean_html(etree.tostring(element, pretty_print=True, encoding='unicode'))
+
 def getDataFromObfPage(page):
     obf = requests.get(page)
     obftree = html.fromstring(obf.content)
@@ -87,11 +100,13 @@ def getDataFromObf():
 def getDataFromOba():
     oba = requests.get("http://www.oba.org.br/site/?p=conteudo&pag=conteudo&idconteudo=12&idcat=18&subcat=")
     obatree = html.fromstring(oba.content)
-    for br in obatree.xpath("*//br"):
-        br.tail = "\n" + br.tail if br.tail else "\n"
+    #for br in obatree.xpath("*//br"):
+    #    br.tail = "\n" + br.tail if br.tail else "\n"
     obanewshtml = obatree.xpath('//span[@class="subtitulocont"]')
-    content = obanewshtml[0].getparent().text_content()
-    content = re.sub('\n', '<br>\n', content)
+    obanewshtml = obanewshtml[0].getparent()
+    #content = obanewshtml[0].getparent().text_content()
+    #content = re.sub('\n', '<br>\n', content)
+    content = outerHtml(obanewshtml, "http://www.oba.org.br/site/")
     items = [NewsItem(title = "Notícias da OBA", url = "http://www.oba.org.br/site/?p=conteudo&pag=conteudo&idconteudo=12&idcat=18&subcat=", summary = content)]
     return NewsOuterContainer("OBA", 'http://www.oba.org.br/', items)
 #    oba = requests.get("http://www.oba.org.br/site/?p=conteudo&pag=conteudo&idcat=17")
