@@ -335,7 +335,7 @@ def f(function):
         return None
     
 if __name__ == "__main__":
-    containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb), f(getDataFromObl())]
+    containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb), f(getDataFromObl)]
     tabbedContainers = TabbedContainers(containers)
     text = tabbedContainers.generateAllHtml()
 
