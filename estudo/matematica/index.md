@@ -1,21 +1,18 @@
 ---
 title: Matemática
-date: 2011-10-09 00:21:22 Z
-layout: page
+date: 2011-10-09 00:21:00 Z
 status: publish
 author:
   display_name: admin
   login: admin
   email: webmaster@olimpiadascientificas.com
-  url: ''
+  url: 
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 37
 wordpress_url: http://www.u3b.com.br/labs/?page_id=37
 date_gmt: '2011-10-08 20:21:22 -0400'
-categories: []
-tags: []
-comments: []
+layout: page
 ---
 
 # Estudo de Matemática
@@ -30,7 +27,7 @@ prova olímpica de Matemática são: Álgebra, Combinatória, Geometria e Teoria
 
 
 
- ## Competições
+## Competições
 {: style="text-align: justify"}
 
 
@@ -42,11 +39,11 @@ matemática do mundo.
 
 
 
- ## Guia OC
+## Guia OC
 
 
 
- ### Guia de estudos sugerido pela equipe do OC
+### Guia de estudos sugerido pela equipe do OC
 
 
 
@@ -187,20 +184,18 @@ engloba uma indução com contas razoavelmente grandes que envolvem binómio de 
 
 
 
- ## Material OC
+## Material OC
 {: style="text-align: justify"}
 
   
 [Fórum do OC sobre Matemática  
  ](/forum/viewforum.php?f=4 "Fórum Olimpíadas Cientifícas"){: target="_blank"}
 
- ## Links e livros recomendados
+## Links e livros recomendados
 {: style="text-align: justify"}
 
 
-
- ### *Links*
-
+### *Links*
 
 
 
@@ -259,7 +254,6 @@ Matemática (IMO) e Iberoamericana.
    Por equipe OBMEP.  
    Olimpiada Brasileira de Matemática das Escolas Públicas - OBMEP
   
-
 
 
 
