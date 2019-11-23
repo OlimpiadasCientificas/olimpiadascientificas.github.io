@@ -93,8 +93,7 @@ def outerHtml(element, baseref=""):
     return clean_html(etree.tostring(element, pretty_print=True, encoding='unicode'))
 
 def getDataFromObfPage(page):
-    obf = requests.get(page)
-    obftree = html.fromstring(obf.content)
+    obftree = elementFromUrl(page)
     obfoldernewshtml = obftree.xpath('//ul[@class="uk-list"]/li/a')
     obfoldernews =[(x.text, "http://www.sbfisica.org.br"+ x.attrib['href']) for x in obfoldernewshtml]
     
@@ -130,8 +129,7 @@ def getDataFromOnhb():
     return container
 
 def getDataFromOba():
-    oba = requests.get("http://www.oba.org.br/site/?p=conteudo&pag=conteudo&idconteudo=12&idcat=18&subcat=")
-    obatree = html.fromstring(oba.content)
+    obatree = elementFromUrl("http://www.oba.org.br/site/?p=conteudo&pag=conteudo&idconteudo=12&idcat=18&subcat=")
     obanewshtml = obatree.xpath('//span[@class="subtitulocont"]')
     obanewshtml = obanewshtml[0].getparent()
     content = outerHtml(obanewshtml, "http://www.oba.org.br/site/")
@@ -164,16 +162,18 @@ def getDataFromObl():
     obldiv = obl.xpath('//div[@id="how"]')[0]
     content = outerHtml(obldiv, "http://www.obling.org/")
     items = [NewsItem(title = "Linha do tempo da OBL", url = "http://www.obling.org/", summary = content)]
-    return NewsOuterContainer("OBL", 'http://www.obling.org//', items)
+    return NewsOuterContainer("OBL", 'http://www.obling.org/', items)
 
 
 
-def getDataFromObc(p):
-    """useless"""
+def getDataFromObc():
     "div class landing-banner-inner"
-    oba = requests.get("http://www.obciencias.com.br/notiacutecias.html")
-    obatree = html.fromstring(oba.content)
-    obanewshtml = obatree.xpath('//div[@id="lista"]//a')
+    obc = elementFromUrl("http://www.obciencias.com.br/")
+    obchtml = obc.xpath('//div[@class="landing-banner-inner"]')[0]
+    obccontent = outerHtml(obchtml, "http://www.obciencias.com.br/")
+    obcItem =NewsItem(title = "OBC", url = "http://www.obciencias.com.br/", summary = obccontent)
+    return NewsOuterContainer("OBC", 'http://www.obciencias.com.br/', [obcItem])
+
 
     
 def getDataFromObq():
@@ -244,10 +244,17 @@ def getDataFromObsma():
     return obsma
 
 def getDataFromObg():
+    obg = elementFromUrl("http://www.iypt.com.br/")
+    iypthtml = iypt.cssselect('a.wsite-button-highlight')
+    iyptitems = itemFromAs(iypthtml, "http://www.iypt.com.br/")
+    return NewsOuterContainer("IYPT-br", 'http://www.iypt.com.br/', iyptitems)
     "news-item" "//a" "https://obgeografia.org/#/novidades"
     
 def getDataFromIyptBr():
-    "a wsite-button-highlight"
+    iypt = elementFromUrl("http://www.iypt.com.br/")
+    iypthtml = iypt.cssselect('a.wsite-button-highlight')
+    iyptitems = itemFromAs(iypthtml, "http://www.iypt.com.br/")
+    return NewsOuterContainer("IYPTBr", 'http://www.iypt.com.br/', iyptitems)
 class TabbedContainers:
     def __init__(self, containers):
         self.containers = [container for container in containers if container] #Ignore empty things
@@ -357,7 +364,7 @@ def f(function):
         return None
     
 if __name__ == "__main__":
-    containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb), f(getDataFromObl), f(getDataFromObn), f(getDataFromObr),  f(getDataFromObsma)]
+    containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb), f(getDataFromObl), f(getDataFromObn), f(getDataFromObr),  f(getDataFromObsma), f(getDataFromObc), f(getDataFromIyptBr)]
     tabbedContainers = TabbedContainers(containers)
     text = tabbedContainers.generateAllHtml()
 
