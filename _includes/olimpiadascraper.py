@@ -235,12 +235,16 @@ def getDataFromObmep():
 
 def getDataFromObn():
     obn = parseFeed("http://cienciasecognicao.org/brazilianbrainbee/feed")
-    obn.title = "OBN"
+    obn.title = "Brain Bee"
     return obn
     
 def getDataFromObsma():
     obsma = parseFeed("https://olimpiada.fiocruz.br/rss")
+    obsma.title = "OBSMA"
     return obsma
+
+def getDataFromObg():
+    "news-item" "//a" "https://obgeografia.org/#/novidades"
     
 def getDataFromIyptBr():
     "a wsite-button-highlight"
