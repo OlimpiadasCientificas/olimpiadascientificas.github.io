@@ -36,7 +36,7 @@ class NewsOuterContainer:
         self.items = items
 
     def outerTop(self):
-       return  f"""<div class="{self.cssClass}" id="{self.getHtmlID()}"><p class="rss-title">{self.title}</p><ul class="rss-items">"""
+       return  f"""<div class="{self.cssClass}" id="{self.getHtmlID()}"><p class="rss-title"><a href="{self.url}">{self.title}</a></p><ul class="rss-items">"""
 
     def outerBottom(self):
        return  """</li></ul></div>"""
@@ -59,8 +59,16 @@ class NewsOuterContainer:
 def urlFromA(elementA):
     return elementA.attrib['href']
 
-def itemFromAs(elementAs, prependURL=""):
-    items = [NewsItem(x.text, prependURL + x.attrib['href']) for x in elementAs]
+def elementFromUrl(url):
+    page = requests.get(url)
+    element = html.fromstring(page.content)
+    return element 
+
+def itemFromAs(elementAs, baseref=""):
+    for item in elementAs:
+        if baseref:
+            item.make_links_absolute(baseref)
+    items = [NewsItem(x.text_content(), x.attrib['href']) for x in elementAs]
     return items
 
 from lxml import etree
@@ -96,6 +104,21 @@ def getDataFromObf():
     items = [getDataFromObfPage(link) for link in links]
     items = functools.reduce(operator.add, items)
     return NewsOuterContainer("OBF", 'http://www.sbfisica.org.br/v1/olimpiada', items)
+
+def getDataFromObi():
+    obi = elementFromUrl('https://olimpiada.ic.unicamp.br/')
+    content = obi.xpath('//div[@class="copy-banner"]//a')
+    items = itemFromAs(content, 'https://olimpiada.ic.unicamp.br/')
+    container = NewsOuterContainer(title = "OBI", url = 'https://olimpiada.ic.unicamp.br/', items = items)
+    return container
+
+def getDataFromO():
+    obi = elementFromUrl('https://olimpiada.ic.unicamp.br/')
+    content = obi.xpath('//div[@class="copy-banner"]')[0]
+    contentHtml = outerHtml(content)
+    item = NewsItem(title = "OBI", url = "https://olimpiada.ic.unicamp.br/", summary = contentHtml)
+    container = NewsOuterContainer(title = "OBI", url = 'https://olimpiada.ic.unicamp.br/', items = [item])
+    return container
 
 def getDataFromOba():
     oba = requests.get("http://www.oba.org.br/site/?p=conteudo&pag=conteudo&idconteudo=12&idcat=18&subcat=")
@@ -267,7 +290,7 @@ openTab('%s','%s')
     
 
 if __name__ == "__main__":
-    containers = [getDataFromNoic(), getDataFromObm(), getDataFromObf(), getDataFromOba(), getDataFromObq()]
+    containers = [getDataFromNoic(), getDataFromObm(), getDataFromObf(), getDataFromOba(), getDataFromObq(), getDataFromObi()]
 
     tabbedContainers = TabbedContainers(containers)
 
