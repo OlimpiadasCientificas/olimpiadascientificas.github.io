@@ -1,7 +1,6 @@
 ---
 title: TEX
-date: 2013-01-27 22:46:41 Z
-layout: page
+date: 2013-01-27 22:46:00 Z
 status: publish
 author:
   display_name: Bárbara Cruvinel Santiago
@@ -14,9 +13,7 @@ author_url: http://iyptbr.wordpress.com
 wordpress_id: 4956
 wordpress_url: "/?page_id=4956"
 date_gmt: '2013-01-27 19:46:41 -0500'
-categories: []
-tags: []
-comments: []
+layout: olimpiada
 ---
 
 [![TEX](/wp-content/uploads/2013/01/TEX.png){: .aligncenter .size-full .wp-image-4960 width="190" height="335"}](/estaduaisregionais/sp/tex/tex/){: rel="attachment wp-att-4960"}
