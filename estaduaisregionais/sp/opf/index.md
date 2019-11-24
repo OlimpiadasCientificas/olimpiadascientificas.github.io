@@ -1,21 +1,18 @@
 ---
 title: OPF
-date: 2012-10-22 05:24:10 Z
-layout: page
+date: 2012-10-22 05:24:00 Z
 status: publish
 author:
   display_name: admin
   login: admin
   email: webmaster@olimpiadascientificas.com
-  url: ''
+  url: 
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 3638
 wordpress_url: "/?page_id=3638"
 date_gmt: '2012-10-22 04:24:10 -0400'
-categories: []
-tags: []
-comments: []
+layout: olimpiada
 ---
 
 [![Logo](/wp-content/uploads/2012/10/logoOPF.jpg){: .aligncenter .size-full .wp-image-3640 width="200" height="173"}  
