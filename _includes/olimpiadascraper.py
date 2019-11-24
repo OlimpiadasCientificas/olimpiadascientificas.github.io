@@ -296,12 +296,12 @@ class TabbedContainers:
         return """</div>"""
     
     def generateButtons(self):
-        containerButtons = [self.generateButton(container) for container in containers]
+        containerButtons = [self.generateButton(container) for container in self.containers]
         containerButtons = functools.reduce(lambda a,b: a + b, containerButtons)
         return self.generateButtonsTop() + containerButtons + self.generateButtonBottom()
     
     def generateContainerContents(self):
-        containersContent = [container.toHtml() for container in containers]
+        containersContent = [container.toHtml() for container in self.containers]
         containersContent = functools.reduce(lambda a,b: a + b, containersContent)
         return containersContent
     
@@ -375,16 +375,21 @@ def f(function):
     except:
         return None
     
-if __name__ == "__main__":
+def main():
     containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb), f(getDataFromObl), f(getDataFromObn), f(getDataFromObr),  f(getDataFromObsma), f(getDataFromObc), f(getDataFromIyptBr), f(getDataFromObmep), f(getDataFromObfep)]
     tabbedContainers = TabbedContainers(containers)
     text = tabbedContainers.generateAllHtml()
 
     import sys, os
-    directory = os.path.dirname(os.path.abspath(__file__))
-    filename = "news.html"
-    filepath = os.path.join(directory, filename)
-    print("generating "+ filepath)
-    f = open(filepath, "w")
-    f.write(text)
-    f.close()
+    try:
+        directory = os.path.dirname(os.path.abspath(__file__))
+        filename = "news.html"
+        filepath = os.path.join(directory, filename)
+        print("generating "+ filepath)
+        thisfile = open(filepath, "w")
+        thisfile.write(text)
+        thisfile.close()
+    except:
+        print("Could not open file")
+if __name__ == "__main__":
+    main()
