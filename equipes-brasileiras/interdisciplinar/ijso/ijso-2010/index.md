@@ -1,7 +1,6 @@
 ---
 title: IJSO 2010
-date: 2012-08-15 20:59:24 Z
-layout: page
+date: 2012-08-15 20:59:00 Z
 status: publish
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
@@ -14,9 +13,7 @@ author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 2961
 wordpress_url: "/?page_id=2961"
 date_gmt: '2012-08-15 19:59:24 -0400'
-categories: []
-tags: []
-comments: []
+layout: page
 ---
 
 ### 7ª- 2010- Abuja, Nigéria
@@ -46,6 +43,6 @@ Vinicius Querino Andraus - Bronze
 
 #### Depoimentos:
 
-
+https://web.archive.org/web/20110304015351/http://www.ijso2010.org.ng/
 
  
