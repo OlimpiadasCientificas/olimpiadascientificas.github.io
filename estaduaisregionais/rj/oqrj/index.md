@@ -1,21 +1,18 @@
 ---
 title: OQRJ
-date: 2012-10-21 20:49:10 Z
-layout: page
+date: 2012-10-21 20:49:00 Z
 status: publish
 author:
   display_name: admin
   login: admin
   email: webmaster@olimpiadascientificas.com
-  url: ''
+  url: 
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 3618
 wordpress_url: "/?page_id=3618"
 date_gmt: '2012-10-21 19:49:10 -0400'
-categories: []
-tags: []
-comments: []
+layout: olimpiada
 ---
 
 [![](/wp-content/uploads/2012/10/OQRJ3-293x30011.png "OQRJ3-293x3001"){: .aligncenter .size-full .wp-image-3619 width="293" height="300"}
