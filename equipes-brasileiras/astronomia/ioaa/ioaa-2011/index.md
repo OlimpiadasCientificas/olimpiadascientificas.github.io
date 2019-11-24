@@ -1,7 +1,6 @@
 ---
 title: IOAA 2011
-date: 2012-07-30 13:14:54 Z
-layout: page
+date: 2012-07-30 13:14:00 Z
 status: publish
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
@@ -14,9 +13,7 @@ author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 2745
 wordpress_url: "/?page_id=2745"
 date_gmt: '2012-07-30 12:14:54 -0400'
-categories: []
-tags: []
-comments: []
+layout: page
 ---
 
 ### 2011 -- Chorzów, Polônia
@@ -32,7 +29,7 @@ Pedro Rangel Caetano (SP) -- Menção Honrosa
 
 Rafael de Lima Bordoni (AM)
 
-\[fbphotos id=399086413456379\]
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOlimpiadasCientificas%2Fphotos%2Fa.399086413456379%2F399086973456323%2F%3Ftype%3D3&width=500" width="500" height="380" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ### Depoimentos:
 
