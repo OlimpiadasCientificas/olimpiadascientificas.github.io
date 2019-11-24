@@ -1,21 +1,19 @@
 ---
 title: Programa de tutoria
-date: 2012-12-18 18:19:29 Z
-layout: page
+date: 2012-12-18 18:19:00 Z
+published: false
 status: publish
 author:
   display_name: admin
   login: admin
   email: webmaster@olimpiadascientificas.com
-  url: ''
+  url: 
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 4544
 wordpress_url: "/?page_id=4544"
 date_gmt: '2012-12-18 15:19:29 -0500'
-categories: []
-tags: []
-comments: []
+layout: page
 ---
 
 A equipe do Olimpíadas Científicas busca ajudar ao máximo os alunos em sua jornada no meio olímpico. O programa de tutoria foi criado para estreitar nossa relação com os estudantes, de modo que possamos realizar um
