@@ -1,7 +1,7 @@
 ---
 title: Treinamento IPhO 2014 por Ivan Tadeu
-date: 2013-01-06 06:33:32 Z
-layout: page
+date: 2013-01-06 06:33:00 Z
+published: false
 status: publish
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
@@ -14,9 +14,7 @@ author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 4593
 wordpress_url: "/?page_id=4593"
 date_gmt: '2013-01-06 03:33:32 -0500'
-categories: []
-tags: []
-comments: []
+layout: page
 ---
 
 Abaixo estão os arquivos zipados dos emails trocados com os participantes do programa.
