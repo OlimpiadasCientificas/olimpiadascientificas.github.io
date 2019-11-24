@@ -1,7 +1,6 @@
 ---
 title: IOAA 2012
-date: 2012-08-16 00:23:49 Z
-layout: page
+date: 2012-08-16 00:23:00 Z
 status: publish
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
@@ -14,9 +13,7 @@ author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 2976
 wordpress_url: "/?page_id=2976"
 date_gmt: '2012-08-15 23:23:49 -0400'
-categories: []
-tags: []
-comments: []
+layout: page
 ---
 
 ### 2012- Rio de Janeiro, Brasil
@@ -42,7 +39,7 @@ Onias Castelo Branco Silveira (Ari de Sá \| Fortaleza, CE) -- Menção Honrosa
 
 Gabriela Fernandes Martins (São Carlos \| São Carlos, SP)
 
-\[fbphotos id=457113477653672\]
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOlimpiadasCientificas%2Fphotos%2Fa.457113477653672%2F457113844320302%2F%3Ftype%3D3&width=500" width="500" height="471" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
  
 
