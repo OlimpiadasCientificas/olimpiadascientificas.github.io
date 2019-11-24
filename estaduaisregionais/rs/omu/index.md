@@ -1,21 +1,18 @@
 ---
 title: OMU
 date: 2012-10-31 19:20:00 Z
-layout: page
 status: publish
 author:
   display_name: Augusto
   login: augusto
   email: gutobenn@gmail.com
-  url: ''
+  url: 
 author_login: augusto
 author_email: gutobenn@gmail.com
 wordpress_id: 3876
 wordpress_url: "/?page_id=3876"
 date_gmt: '2012-10-31 18:20:00 -0400'
-categories: []
-tags: []
-comments: []
+layout: olimpiada
 ---
 
 [![Logo](/wp-content/uploads/2012/10/omu.gif){: .aligncenter .size-full}  
