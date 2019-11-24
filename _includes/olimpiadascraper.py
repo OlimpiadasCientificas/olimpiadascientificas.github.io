@@ -329,7 +329,6 @@ openTab('%s','%s')
 </script>""" % (cssClass, firstID, firstButtonID)
         return script
     def getStyle(self):
-        cssClass = NewsOuterContainer.cssClass
         css = """<style>
 /* Style the tab */
 .tab {
@@ -360,11 +359,7 @@ openTab('%s','%s')
   background-color: #ccc;
 }
 
-/* Style the tab content */
-.%s {
-  display: none;
-}
-</style>""" % cssClass
+</style>""" 
         return css
     
 
