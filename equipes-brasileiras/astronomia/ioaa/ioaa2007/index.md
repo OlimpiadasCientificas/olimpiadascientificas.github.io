@@ -1,7 +1,6 @@
 ---
 title: IOAA 2007
-date: 2013-01-13 04:45:28 Z
-layout: page
+date: 2013-01-13 04:45:00 Z
 status: publish
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
@@ -14,9 +13,7 @@ author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 4715
 wordpress_url: "/?page_id=4715"
 date_gmt: '2013-01-13 01:45:28 -0500'
-categories: []
-tags: []
-comments: []
+layout: page
 ---
 
 ### 2007 -- Chiang Mai, Tailândia
@@ -28,7 +25,7 @@ Thomas Ferreira de Lima (CE) --&nbsp;Medalha de Prata
 
 **Fotos da equipe**
 
-\[fbphotos id=484442391587447\]
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOlimpiadasCientificas%2Fphotos%2Fa.484442391587447%2F484442878254065%2F%3Ftype%3D3&width=500" width="500" height="380" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
  
 
