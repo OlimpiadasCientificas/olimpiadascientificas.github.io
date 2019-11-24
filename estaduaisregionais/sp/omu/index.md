@@ -1,7 +1,6 @@
 ---
 title: OMU
-date: 2013-07-20 17:40:54 Z
-layout: page
+date: 2013-07-20 17:40:00 Z
 status: publish
 author:
   display_name: Vitória Barim Pacela
@@ -14,9 +13,7 @@ author_url: http://vitoria.olimpiadascientificas.com/
 wordpress_id: 6282
 wordpress_url: "/?page_id=6282"
 date_gmt: '2013-07-20 16:40:54 -0400'
-categories: []
-tags: []
-comments: []
+layout: olimpiada
 ---
 
 [![LogoOMU](/wp-content/uploads/2013/07/LogoOMU-350x262.jpg){: .size-medium .wp-image-6283 .aligncenter width="350" height="262"}](/wp-content/uploads/2013/07/LogoOMU.jpg)
