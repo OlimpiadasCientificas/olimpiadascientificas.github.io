@@ -1,21 +1,18 @@
 ---
 title: OMERJ
-date: 2012-10-21 19:45:18 Z
-layout: page
+date: 2012-10-21 19:45:00 Z
 status: publish
 author:
   display_name: admin
   login: admin
   email: webmaster@olimpiadascientificas.com
-  url: ''
+  url: 
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 3610
 wordpress_url: "/?page_id=3610"
 date_gmt: '2012-10-21 18:45:18 -0400'
-categories: []
-tags: []
-comments: []
+layout: olimpiada
 ---
 
 [![](/wp-content/uploads/2012/10/OMERJ1-296x30011.jpg "OMERJ1-296x3001"){: .aligncenter .size-full .wp-image-3611 width="296" height="300"}](/estaduaisregionais/rj/omerj/omerj1-296x3001/){: rel="attachment wp-att-3611"}
