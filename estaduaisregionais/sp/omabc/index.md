@@ -1,7 +1,6 @@
 ---
 title: OMABC
-date: 2012-11-15 22:14:44 Z
-layout: page
+date: 2012-11-15 22:14:00 Z
 status: publish
 author:
   display_name: Cassio dos Santos Sousa
@@ -14,9 +13,7 @@ author_url: http://cassio.olimpiadascientificas.com
 wordpress_id: 4186
 wordpress_url: "/?page_id=4186"
 date_gmt: '2012-11-15 19:14:44 -0500'
-categories: []
-tags: []
-comments: []
+layout: olimpiada
 ---
 
 [![](/wp-content/uploads/2012/11/Logo_OMABC.png "Logo_OMABC"){: .aligncenter .size-full .wp-image-4187 width="174" height="152"}][1]{: rel="attachment wp-att-4187" target="_blank"}
