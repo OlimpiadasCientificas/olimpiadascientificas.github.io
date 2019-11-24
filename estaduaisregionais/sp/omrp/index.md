@@ -1,7 +1,6 @@
 ---
 title: OMRP
-date: 2012-10-31 20:22:04 Z
-layout: page
+date: 2012-10-31 20:22:00 Z
 status: publish
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
@@ -14,9 +13,7 @@ author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 3891
 wordpress_url: "/?page_id=3891"
 date_gmt: '2012-10-31 19:22:04 -0400'
-categories: []
-tags: []
-comments: []
+layout: olimpiada
 ---
 
 [![](/wp-content/uploads/2012/10/Logo_OMRP-350x124.png "Logo_OMRP"){: .aligncenter .size-medium .wp-image-4164 width="350" height="124"}](/estaduaisregionais/sp/omrp/logo_omrp/){: rel="attachment wp-att-4164"}
