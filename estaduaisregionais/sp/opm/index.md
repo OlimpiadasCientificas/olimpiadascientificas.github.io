@@ -1,21 +1,18 @@
 ---
 title: OPM
-date: 2012-10-22 06:10:05 Z
-layout: page
+date: 2012-10-22 06:10:00 Z
 status: publish
 author:
   display_name: admin
   login: admin
   email: webmaster@olimpiadascientificas.com
-  url: ''
+  url: 
 author_login: admin
 author_email: webmaster@olimpiadascientificas.com
 wordpress_id: 3660
 wordpress_url: "/?page_id=3660"
 date_gmt: '2012-10-22 05:10:05 -0400'
-categories: []
-tags: []
-comments: []
+layout: olimpiada
 ---
 
 ![Logo\_OPM](/wp-content/uploads/2013/06/Logo_OPM.png){: .aligncenter .size-full .wp-image-6085 width="115" height="112"}
