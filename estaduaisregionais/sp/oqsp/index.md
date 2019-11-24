@@ -1,7 +1,6 @@
 ---
 title: OQSP
-date: 2012-11-20 03:32:41 Z
-layout: page
+date: 2012-11-20 03:32:00 Z
 status: publish
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
@@ -14,9 +13,7 @@ author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 4273
 wordpress_url: "/?page_id=4273"
 date_gmt: '2012-11-20 00:32:41 -0500'
-categories: []
-tags: []
-comments: []
+layout: olimpiada
 ---
 
 [![](/wp-content/uploads/2012/11/oqsp-2013-139x300.jpg "oqsp-2013"){: .aligncenter .size-medium .wp-image-4274 width="139" height="300"}][1]{: target="_blank"}
