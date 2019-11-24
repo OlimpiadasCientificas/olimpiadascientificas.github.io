@@ -1,21 +1,18 @@
 ---
 title: OLINFU
-date: 2012-10-31 19:18:06 Z
-layout: page
+date: 2012-10-31 19:18:00 Z
 status: publish
 author:
   display_name: Augusto
   login: augusto
   email: gutobenn@gmail.com
-  url: ''
+  url: 
 author_login: augusto
 author_email: gutobenn@gmail.com
 wordpress_id: 3888
 wordpress_url: "/?page_id=3888"
 date_gmt: '2012-10-31 18:18:06 -0400'
-categories: []
-tags: []
-comments: []
+layout: olimpiada
 ---
 
 [![](/wp-content/uploads/2012/10/olinfu-350x224.jpg "olinfu"){: .aligncenter .size-medium .wp-image-3905 width="350" height="224"}][1][  
