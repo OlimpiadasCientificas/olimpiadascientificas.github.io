@@ -1,7 +1,6 @@
 ---
 title: IOAA 2010
-date: 2012-08-17 04:27:24 Z
-layout: page
+date: 2012-08-17 04:27:00 Z
 status: publish
 author:
   display_name: Ivan Tadeu Ferreira Antunes Filho
@@ -14,9 +13,7 @@ author_url: http://ivan.olimpiadascientificas.com
 wordpress_id: 3011
 wordpress_url: "/?page_id=3011"
 date_gmt: '2012-08-17 03:27:24 -0400'
-categories: []
-tags: []
-comments: []
+layout: page
 ---
 
 ### 2010 - Beijing, China
@@ -32,7 +29,7 @@ Luis Filipe Martins Ramos (RJ) - Medalha de Bronze
 
 Tiago Lobato Gimenes (SP) - Menção Honrosa
 
-\[fbphotos id=399361960095491\]
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOlimpiadasCientificas%2Fphotos%2Fa.399361960095491%2F399362246762129%2F%3Ftype%3D3&width=500" width="500" height="380" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
  
 
