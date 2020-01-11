@@ -44,6 +44,7 @@ class NewsOuterContainer:
        return  """</li></ul></div>"""
         
     def toHtml(self):
+        print("converting" + self.title)
         itemsHtml = [x.toHtml() for x in self.items]
         innerHtml = functools.reduce(operator.add, itemsHtml)
         return self.outerTop() + innerHtml + self.outerBottom()
@@ -264,7 +265,7 @@ def getDataFromObmep():
 
 def getDataFromIyptBr():
     iypt = elementFromUrl("http://www.iypt.com.br/")
-    iypthtml = iypt.cssselect('a.wsite-button-highlight')
+    iypthtml = iypt.cssselect('a.wsite-button')
     iyptitems = itemFromAs(iypthtml, "http://www.iypt.com.br/")
     return NewsOuterContainer("IYPTBr", 'http://www.iypt.com.br/', iyptitems)
 class TabbedContainers:
