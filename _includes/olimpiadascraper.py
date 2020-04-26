@@ -24,7 +24,7 @@ class NewsItem:
             
     def toHtml(self):
         date = self.getParsedDate()
-        htmlString = f"""<li class="{self.cssClass}"><a href="{self.url}" class="{self.cssClass}">{self.title}</a> o<span class="rss-item-auth">{'('+self.author+')' if self.author else ''}</span><br><span class="rss-date">{date}</span><br>{self.summary}</li>"""
+        htmlString = f"""<li class="{self.cssClass}"><a href="{self.url}" class="{self.cssClass}">{self.title}</a> <span class="rss-item-auth">{'('+self.author+')' if self.author else ''}</span><br><span class="rss-date">{date}</span><br>{self.summary}</li>"""
         return htmlString
     
     def __str__(self):
