@@ -406,7 +406,7 @@ def postRecentNewsToFB(newss):
     with open('token', 'r') as file:
         token = file.read().replace('\n', '')
     graph = facebook.GraphAPI(access_token=token, version="3.0")
-    for news in newss[:1]:
+    for news in newss:
         graph.put_object(
           parent_object=273791905985831,
           connection_name="feed",
