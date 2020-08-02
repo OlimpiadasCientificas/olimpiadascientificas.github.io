@@ -201,7 +201,7 @@ def getDataFromObc():
 def getDataFromObq():
     "http://www.obquimica.org/noticias/"
     number = 20
-    obq = requests.get("http://www.obquimica.org/noticias/")
+    obq = requests.get("http://www.obquimica.org/noticias/?estado=1")
     obqtree = html.fromstring(obq.content)
     parseDate = lambda date: datetime.datetime.strptime(date, '%d/%m/%Y')
     dates = obqtree.xpath('//i[@class="fa fa-calendar"]')
@@ -219,7 +219,7 @@ def getDataFromObq():
     data = zip(titles, urls, newestDates, authors)
     newsItem = lambda x: NewsItem(title = x[0], url = x[1], author = x[3], summary = "", date = x[2])
     items = [newsItem(x) for x in data]
-    return NewsOuterContainer("OBQ", 'http://www.obquimica.org/noticias/', items)
+    return NewsOuterContainer("OBQ", 'http://www.obquimica.org/noticias/?estado=1', items)
     
 import feedparser
 def parseFeed(url):
@@ -255,7 +255,7 @@ def getDataFromObr():
 
 def getDataFromObn():
     obn = parseFeed("http://www.cienciasecognicao.org/portal/?feed=rss2")
-    obn.title = "Brain Bee"
+    obn.title = "OBN"
     return obn
     
 def getDataFromObsma():
@@ -410,7 +410,7 @@ def postRecentNewsToFB(newss):
         graph.put_object(
           parent_object=273791905985831,
           connection_name="feed",
-          message= f"{news.title} \n {news.summaryText()} \npor: {news.author} \n  {news.date}",
+          message= f"{news.title} \n {news.summaryText()}", #\npor: {news.author} \n  {news.date}",
           link=news.url
         )
 def main():
@@ -443,7 +443,7 @@ def main():
 
     recentNewsContainer = NewsOuterContainer("Novidades", '#', recentNews)
     
-    tabbedContainers = TabbedContainers(fullContainers)
+    tabbedContainers = TabbedContainers([recentNewsContainer] + fullContainers)
     text = tabbedContainers.generateAllHtml()
     
     try:
