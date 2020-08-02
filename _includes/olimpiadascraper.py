@@ -5,6 +5,10 @@ import functools
 import operator
 import datetime
 from lxml.html.clean import clean_html
+from lxml import etree
+#import pickle
+import dill
+import sys, os
 
 class NewsItem:
     cssClass = "rss-item"
@@ -14,6 +18,7 @@ class NewsItem:
         self.author = author
         self.summary = summary
         self.date = date
+        
     def getParsedDate(self):
         if isinstance(self.date, str):
             return self.date
@@ -29,6 +34,17 @@ class NewsItem:
     
     def __str__(self):
         return f"{self.title} {self.url} {self.author} {self.date} {self.summary}"
+
+    def summaryText(self):
+        document = html.document_fromstring(self.summary)
+        return "\n".join(etree.XPath("//text()")(document))
+
+    def toText(self):
+        document = html.document_fromstring(self.summary)
+        text =  "\n".join(etree.XPath("//text()")(document))
+        return f"{self.title}\n {self.url} \n {text} \n by {self.author} {self.date} "
+    def __eq__(self, other):
+        return (self.title == other.title and self.url==other.url and self.author==other.author and self.summary==other.summary and self.date==other.date)
 
 class NewsOuterContainer:
     cssClass = "rss-box"
@@ -51,6 +67,10 @@ class NewsOuterContainer:
     
     def getHtmlID(self):
         return re.sub("[^\w]", "", f"news{self.title}")
+
+    def cleanHtml(self, func):
+        for item in self.items:
+            item.summary = func(item.summary)
     
     def __str__(self):
         outerText = f"{self.title} {self.url} \n"
@@ -225,7 +245,7 @@ import re
 def getDataFromNoic():
     noicItems = parseFeed("https://noic.com.br/rss")
     oldToHtml = noicItems.toHtml
-    noicItems.toHtml = lambda : re.sub('\\n.*NOIC</a>.</p>', '', oldToHtml())
+    noicItems.cleanHtml(lambda text : re.sub('\\n.*NOIC</a>.</p>', '', text))
     return noicItems
 
 def getDataFromObr():
@@ -234,7 +254,7 @@ def getDataFromObr():
 
 
 def getDataFromObn():
-    obn = parseFeed("http://cienciasecognicao.org/brazilianbrainbee/feed")
+    obn = parseFeed("http://www.cienciasecognicao.org/portal/?feed=rss2")
     obn.title = "Brain Bee"
     return obn
     
@@ -370,15 +390,63 @@ def f(function):
         return function()
     except:
         return None
-    
-def main():
-    containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb), f(getDataFromObl), f(getDataFromObn), f(getDataFromObr),  f(getDataFromObsma), f(getDataFromObc), f(getDataFromIyptBr), f(getDataFromObmep), f(getDataFromObfep)]
-    tabbedContainers = TabbedContainers(containers)
-    text = tabbedContainers.generateAllHtml()
 
-    import sys, os
+
+def getAllNews(listOfContainers):
+    news = []
+    for container in listOfContainers:
+        for item in container.items:
+            news.append(item)
+    return news
+
+
+def postRecentNewsToFB(newss):
+    import facebook
+    print(newss)
+    with open('token', 'r') as file:
+        token = file.read().replace('\n', '')
+    graph = facebook.GraphAPI(access_token=token, version="3.0")
+    for news in newss[:1]:
+        graph.put_object(
+          parent_object=273791905985831,
+          connection_name="feed",
+          message= f"{news.title} \n {news.summaryText()} \npor: {news.author} \n  {news.date}",
+          link=news.url
+        )
+def main():
+    directory = os.path.dirname(os.path.abspath(__file__))
+    containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb), f(getDataFromObl), f(getDataFromObn), f(getDataFromObr),  f(getDataFromObsma), f(getDataFromObc), f(getDataFromIyptBr), f(getDataFromObmep), f(getDataFromObfep)]
+    #containers = [f(getDataFromNoic), f(getDataFromObm)]
+    maxNewNews = 20
     try:
-        directory = os.path.dirname(os.path.abspath(__file__))
+        with open(os.path.join(directory,'previousnews.b'), 'r+b') as previousNewsFile:
+            previousContainers = dill.load(previousNewsFile)
+            fullContainers = [containers[i] or previousContainers[i] for i in range(len(containers))]
+    except:
+        fullContainers = containers
+        previousContainers = []
+    with open(os.path.join(directory,'previousnews.b'), 'w+b') as previousNewsFile:
+        dill.dump(fullContainers, previousNewsFile)
+
+    allNews = getAllNews([container for container in fullContainers if container])
+    allPreviousNews = getAllNews([container for container in previousContainers if container])
+    allNewNews = [x for x in allNews if x not in allPreviousNews]
+    try:
+        with open(os.path.join(directory,'recentnews.b'), 'r+b') as recentNewsFile:
+            recentNews = allNewNews + dill.load(recentNewsFile)
+            recentNews =  recentNews[:maxNewNews]
+    except:
+        recentNews = allNewNews
+        recentNews =  recentNews[:maxNewNews]
+    with open(os.path.join(directory,'recentnews.b'), 'w+b') as recentNewsFile:
+        dill.dump(recentNews, recentNewsFile)
+
+    recentNewsContainer = NewsOuterContainer("Novidades", '#', recentNews)
+    
+    tabbedContainers = TabbedContainers(fullContainers)
+    text = tabbedContainers.generateAllHtml()
+    
+    try:
         filename = "news.html"
         filepath = os.path.join(directory, filename)
         print("generating "+ filepath)
@@ -387,5 +455,7 @@ def main():
         thisfile.close()
     except:
         print("Could not open file")
+    postRecentNewsToFB(allNewNews)
 if __name__ == "__main__":
     main()
+
