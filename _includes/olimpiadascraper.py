@@ -399,7 +399,7 @@ def getAllNews(listOfContainers):
             news.append(item)
     return news
 
-
+#https://blog.theodo.com/2019/02/automatically-publish-facebook-pages-python/
 def postRecentNewsToFB(newss):
     import facebook
     print(newss)
