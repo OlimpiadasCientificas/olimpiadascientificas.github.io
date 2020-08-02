@@ -2,3 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 .jekyll-cache
+_includes/token
+_includes/recentnews.b
+_includes/previousnews.b
