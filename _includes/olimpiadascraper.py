@@ -254,7 +254,7 @@ def getDataFromObr():
 
 
 def getDataFromObn():
-    obn = parseFeed("http://www.cienciasecognicao.org/portal/?feed=rss2")
+    obn = parseFeed("https://brazilianbrainbee.org/rss")
     obn.title = "OBN"
     return obn
     
