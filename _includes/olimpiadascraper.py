@@ -36,8 +36,11 @@ class NewsItem:
         return f"{self.title} {self.url} {self.author} {self.date} {self.summary}"
 
     def summaryText(self):
-        document = html.document_fromstring(self.summary)
-        return "\n".join(etree.XPath("//text()")(document))
+        try: 
+            document = html.document_fromstring(self.summary)
+            return "\n".join(etree.XPath("//text()")(document))
+        except:
+            return ""
 
     def toText(self):
         document = html.document_fromstring(self.summary)
