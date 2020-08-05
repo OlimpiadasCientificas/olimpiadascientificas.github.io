@@ -141,7 +141,10 @@ def getDataFromObi():
     obi = elementFromUrl('https://olimpiada.ic.unicamp.br/')
     content = obi.xpath('//div[@class="copy-banner"]//a')
     items = itemFromAs(content, 'https://olimpiada.ic.unicamp.br/')
-    container = NewsOuterContainer(title = "OBI", url = 'https://olimpiada.ic.unicamp.br/', items = items)
+    obi2 = elementFromUrl('https://olimpiada.ic.unicamp.br/noticias/')
+    content2 = obi2.xpath('//ul[@class="list-news"]//li//h2//a')
+    items2 = itemFromAs(content2, 'https://olimpiada.ic.unicamp.br/')
+    container = NewsOuterContainer(title = "OBI", url = 'https://olimpiada.ic.unicamp.br/', items = items2 + items)
     return container
 
 def getDataFromOnhb():
