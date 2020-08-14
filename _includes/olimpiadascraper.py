@@ -423,7 +423,7 @@ def main():
     directory = os.path.dirname(os.path.abspath(__file__))
     containers = [f(getDataFromNoic), f(getDataFromObm), f(getDataFromObf), f(getDataFromOba), f(getDataFromObq), f(getDataFromObi), f(getDataFromOnhb), f(getDataFromObb), f(getDataFromObl), f(getDataFromObn), f(getDataFromObr),  f(getDataFromObsma), f(getDataFromObc), f(getDataFromIyptBr), f(getDataFromObmep), f(getDataFromObfep)]
     #containers = [f(getDataFromNoic), f(getDataFromObm)]
-    maxNewNews = 20
+    maxNewNews = 30
     try:
         with open(os.path.join(directory,'previousnews.b'), 'r+b') as previousNewsFile:
             previousContainers = dill.load(previousNewsFile)
