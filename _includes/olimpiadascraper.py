@@ -161,7 +161,8 @@ def getDataFromOba():
     obanewshtml = obatree.xpath('//span[@class="subtitulocont"]')
     obanewshtml = obanewshtml[0].getparent()
     content = outerHtml(obanewshtml, "http://www.oba.org.br/site/")
-    items = [NewsItem(title = "Notícias da OBA", url = "http://www.oba.org.br/site/?p=conteudo&pag=conteudo&idconteudo=12&idcat=18&subcat=", summary = content)]
+    cleanedContent = content[:content.find('Bem-vindo')]
+    items = [NewsItem(title = "Notícias da OBA", url = "http://www.oba.org.br/site/?p=conteudo&pag=conteudo&idconteudo=12&idcat=18&subcat=", summary = cleanedContent)]
     return NewsOuterContainer("OBA", 'http://www.oba.org.br/', items)
 
 def getDataFromObb():
