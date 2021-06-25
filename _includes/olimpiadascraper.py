@@ -64,8 +64,10 @@ class NewsOuterContainer:
         
     def toHtml(self):
         print("converting" + self.title)
-        itemsHtml = [x.toHtml() for x in self.items]
-        innerHtml = functools.reduce(operator.add, itemsHtml)
+        print(self)
+        itemsHtml = [""]+[x.toHtml() for x in self.items]
+        print("got Items")
+        innerHtml = functools.reduce(operator.add, itemsHtml, "")
         return self.outerTop() + innerHtml + self.outerBottom()
     
     def getHtmlID(self):
@@ -330,7 +332,7 @@ class TabbedContainers:
     
     def generateContainerContents(self):
         containersContent = [container.toHtml() for container in self.containers]
-        containersContent = functools.reduce(lambda a,b: a + b, containersContent)
+        containersContent = functools.reduce(lambda a,b: a + b, containersContent, "")
         return containersContent
     
     #"based on w3school https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_tabs"
