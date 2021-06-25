@@ -64,8 +64,10 @@ class NewsOuterContainer:
         
     def toHtml(self):
         print("converting" + self.title)
-        print(self)
-        itemsHtml = [""]+[x.toHtml() for x in self.items]
+        try:
+            itemsHtml = [x.toHtml() for x in self.items]
+        except:
+            itemsHtml = [""]
         print("got Items")
         innerHtml = functools.reduce(operator.add, itemsHtml, "")
         return self.outerTop() + innerHtml + self.outerBottom()
@@ -80,7 +82,7 @@ class NewsOuterContainer:
     def __str__(self):
         outerText = f"{self.title} {self.url} \n"
         itemsText = [str(x) for x in self.items]
-        innerText = functools.reduce(lambda a,b: a + "\n" + b, itemsText)
+        innerText = functools.reduce(lambda a,b: a + "\n" + b, itemsText, "")
         return outerText + innerText
     
 #Helper functions
